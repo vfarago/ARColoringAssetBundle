@@ -1,0 +1,1748 @@
+fileFormatVersion: 2
+guid: 23a0a8cff762dd24583ebd5f7f40bf83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 723493343741822050
+    second: Tamki_Spritesheet9x8_0
+  - first:
+      213: -8395985534326780831
+    second: Tamki_Spritesheet9x8_1
+  - first:
+      213: -8817960584438202498
+    second: Tamki_Spritesheet9x8_2
+  - first:
+      213: 4335250895584521114
+    second: Tamki_Spritesheet9x8_3
+  - first:
+      213: -1630499281426672069
+    second: Tamki_Spritesheet9x8_4
+  - first:
+      213: -3110163046033464026
+    second: Tamki_Spritesheet9x8_5
+  - first:
+      213: 8703225191392027736
+    second: Tamki_Spritesheet9x8_6
+  - first:
+      213: -3978668434876356167
+    second: Tamki_Spritesheet9x8_7
+  - first:
+      213: 9166225263559400923
+    second: Tamki_Spritesheet9x8_8
+  - first:
+      213: 4644436718801852478
+    second: Tamki_Spritesheet9x8_9
+  - first:
+      213: -8112195743542450998
+    second: Tamki_Spritesheet9x8_10
+  - first:
+      213: -443074875444142101
+    second: Tamki_Spritesheet9x8_11
+  - first:
+      213: -2649119313948414032
+    second: Tamki_Spritesheet9x8_12
+  - first:
+      213: -3465151682609688589
+    second: Tamki_Spritesheet9x8_13
+  - first:
+      213: 4666229120428122971
+    second: Tamki_Spritesheet9x8_14
+  - first:
+      213: -6340193220374333944
+    second: Tamki_Spritesheet9x8_15
+  - first:
+      213: -6651245467975258237
+    second: Tamki_Spritesheet9x8_16
+  - first:
+      213: 820902820606499586
+    second: Tamki_Spritesheet9x8_17
+  - first:
+      213: 1621011994413366577
+    second: Tamki_Spritesheet9x8_18
+  - first:
+      213: -7633678692304507900
+    second: Tamki_Spritesheet9x8_19
+  - first:
+      213: -8043319368491511712
+    second: Tamki_Spritesheet9x8_20
+  - first:
+      213: 2089437026730104321
+    second: Tamki_Spritesheet9x8_21
+  - first:
+      213: 5908330041848560988
+    second: Tamki_Spritesheet9x8_22
+  - first:
+      213: 5134912854876027968
+    second: Tamki_Spritesheet9x8_23
+  - first:
+      213: -6497454901553889125
+    second: Tamki_Spritesheet9x8_24
+  - first:
+      213: 4733060968454150201
+    second: Tamki_Spritesheet9x8_25
+  - first:
+      213: 2482070795611777606
+    second: Tamki_Spritesheet9x8_26
+  - first:
+      213: 7887470826045500814
+    second: Tamki_Spritesheet9x8_27
+  - first:
+      213: -5539994636726850790
+    second: Tamki_Spritesheet9x8_28
+  - first:
+      213: 3787637140342884427
+    second: Tamki_Spritesheet9x8_29
+  - first:
+      213: 1808529605876197205
+    second: Tamki_Spritesheet9x8_30
+  - first:
+      213: -3357964109989298021
+    second: Tamki_Spritesheet9x8_31
+  - first:
+      213: -7669768535238906888
+    second: Tamki_Spritesheet9x8_32
+  - first:
+      213: -6088631777666611066
+    second: Tamki_Spritesheet9x8_33
+  - first:
+      213: -2899247200344264636
+    second: Tamki_Spritesheet9x8_34
+  - first:
+      213: -7671300920989161081
+    second: Tamki_Spritesheet9x8_35
+  - first:
+      213: 1334003993426977981
+    second: Tamki_Spritesheet9x8_36
+  - first:
+      213: 1156623756900816503
+    second: Tamki_Spritesheet9x8_37
+  - first:
+      213: 1135018746683746377
+    second: Tamki_Spritesheet9x8_38
+  - first:
+      213: -4886796670544224229
+    second: Tamki_Spritesheet9x8_39
+  - first:
+      213: -7157112475741029104
+    second: Tamki_Spritesheet9x8_40
+  - first:
+      213: -9177228419056158489
+    second: Tamki_Spritesheet9x8_41
+  - first:
+      213: 7560706178580907786
+    second: Tamki_Spritesheet9x8_42
+  - first:
+      213: 344846461178529945
+    second: Tamki_Spritesheet9x8_43
+  - first:
+      213: 1231155140679574327
+    second: Tamki_Spritesheet9x8_44
+  - first:
+      213: -8313484755760593537
+    second: Tamki_Spritesheet9x8_45
+  - first:
+      213: 537819218147775226
+    second: Tamki_Spritesheet9x8_46
+  - first:
+      213: 5044259922107971731
+    second: Tamki_Spritesheet9x8_47
+  - first:
+      213: 1154499685010944728
+    second: Tamki_Spritesheet9x8_48
+  - first:
+      213: 1197342267248950837
+    second: Tamki_Spritesheet9x8_49
+  - first:
+      213: -1758914849515163678
+    second: Tamki_Spritesheet9x8_50
+  - first:
+      213: 6038905595584619979
+    second: Tamki_Spritesheet9x8_51
+  - first:
+      213: 140891721769800527
+    second: Tamki_Spritesheet9x8_52
+  - first:
+      213: 2482417816748661518
+    second: Tamki_Spritesheet9x8_53
+  - first:
+      213: 3865172090718998791
+    second: Tamki_Spritesheet9x8_54
+  - first:
+      213: -7031055390589998987
+    second: Tamki_Spritesheet9x8_55
+  - first:
+      213: -3826786117068446527
+    second: Tamki_Spritesheet9x8_56
+  - first:
+      213: 6846553672907426072
+    second: Tamki_Spritesheet9x8_57
+  - first:
+      213: -2829062660305799695
+    second: Tamki_Spritesheet9x8_58
+  - first:
+      213: -2638589698708457485
+    second: Tamki_Spritesheet9x8_59
+  - first:
+      213: -3799654664708885530
+    second: Tamki_Spritesheet9x8_60
+  - first:
+      213: 8609823663393499872
+    second: Tamki_Spritesheet9x8_61
+  - first:
+      213: 6028642330166645069
+    second: Tamki_Spritesheet9x8_62
+  - first:
+      213: -5421715155534219677
+    second: Tamki_Spritesheet9x8_63
+  - first:
+      213: -6343250992316083657
+    second: Tamki_Spritesheet9x8_64
+  - first:
+      213: 3563513251380983275
+    second: Tamki_Spritesheet9x8_65
+  - first:
+      213: 3441014714268249313
+    second: Tamki_Spritesheet9x8_66
+  - first:
+      213: 6350173145638637188
+    second: Tamki_Spritesheet9x8_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2644717ec5d5a0a00800000000000000
+      internalID: 723493343741822050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c422fe3a77b7b80800000000000000
+      internalID: -8395985534326780831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f3a29619f40a580800000000000000
+      internalID: -8817960584438202498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_3
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b628b68b7e92c30800000000000000
+      internalID: 4335250895584521114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_4
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b369804da8d4f59e0800000000000000
+      internalID: -1630499281426672069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_5
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625e0af103b76d4d0800000000000000
+      internalID: -3110163046033464026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_6
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854272d233118c870800000000000000
+      internalID: 8703225191392027736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_7
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9a22c632ee8c8c0800000000000000
+      internalID: -3978668434876356167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_8
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2940
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd5badff49f43f70800000000000000
+      internalID: 9166225263559400923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3817f5a69a547040800000000000000
+      internalID: 4644436718801852478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac467b593f0bb6f80800000000000000
+      internalID: -8112195743542450998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef50409fb1e9d9f0800000000000000
+      internalID: -443074875444142101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_12
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf6a7405007c3bd0800000000000000
+      internalID: -2649119313948414032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_13
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffc33167ee49efc0800000000000000
+      internalID: -3465151682609688589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_14
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a3bb89a6c1c040800000000000000
+      internalID: 4666229120428122971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_15
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067f3c9bdb1308a0800000000000000
+      internalID: -6340193220374333944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_16
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f68679c7702b3a0800000000000000
+      internalID: -6651245467975258237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_17
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2520
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bdd5914ce646b00800000000000000
+      internalID: 820902820606499586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13df7a702ddfe7610800000000000000
+      internalID: 1621011994413366577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca8bf9ca9bf0690800000000000000
+      internalID: -7633678692304507900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605b0256a3606090800000000000000
+      internalID: -8043319368491511712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_21
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106dbcec7eb2ffc10800000000000000
+      internalID: 2089437026730104321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_22
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5df6209eda9ef150800000000000000
+      internalID: 5908330041848560988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_23
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cf87b1900e24740800000000000000
+      internalID: 5134912854876027968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_24
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9082c8213764d5a0800000000000000
+      internalID: -6497454901553889125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_25
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d9fcbfd53fa140800000000000000
+      internalID: 4733060968454150201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_26
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2100
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aafcfec36127220800000000000000
+      internalID: 2482070795611777606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de2ba3dece57d60800000000000000
+      internalID: 7887470826045500814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ba354ea3cfd13b0800000000000000
+      internalID: -5539994636726850790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c63059e3609430800000000000000
+      internalID: 3787637140342884427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_30
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55727043810391910800000000000000
+      internalID: 1808529605876197205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_31
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c397ee6d1661d0800000000000000
+      internalID: -3357964109989298021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_32
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbed9347228f8590800000000000000
+      internalID: -7669768535238906888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_33
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c60c38a5d08ba0800000000000000
+      internalID: -6088631777666611066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_34
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403f6b380ec3c7d0800000000000000
+      internalID: -2899247200344264636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_35
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1680
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7896057e4701a8590800000000000000
+      internalID: -7671300920989161081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ea2d6095538210800000000000000
+      internalID: 1334003993426977981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776d9d8cd272d0010800000000000000
+      internalID: 1156623756900816503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_38
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9486e79598560cf00800000000000000
+      internalID: 1135018746683746377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_39
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1066aac15c9e2cb0800000000000000
+      internalID: -4886796670544224229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_40
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d70f19f14dcac90800000000000000
+      internalID: -7157112475741029104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_41
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b98b306fe3a080800000000000000
+      internalID: -9177228419056158489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_42
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a078a6906360de860800000000000000
+      internalID: 7560706178580907786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_43
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c894870429c400800000000000000
+      internalID: 344846461178529945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_44
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1260
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7332a97d311f51110800000000000000
+      internalID: 1231155140679574327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75c34f49a190ac80800000000000000
+      internalID: -8313484755760593537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2931bbab7b67700800000000000000
+      internalID: 537819218147775226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_47
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3983cfb6cafc00640800000000000000
+      internalID: 5044259922107971731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_48
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2b062c85b950010800000000000000
+      internalID: 1154499685010944728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_49
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e3fe1c270dd9010800000000000000
+      internalID: 1197342267248950837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_50
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef2d7473441797e0800000000000000
+      internalID: -1758914849515163678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_51
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a0f8c4a08ec350800000000000000
+      internalID: 6038905595584619979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_52
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d1e3464c84f100800000000000000
+      internalID: 140891721769800527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_53
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 840
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b97671ad1537220800000000000000
+      internalID: 2482417816748661518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7015f07b989d3a530800000000000000
+      internalID: 3865172090718998791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a9c7df5cac6e90800000000000000
+      internalID: -7031055390589998987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_56
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42dbc3d4684eac0800000000000000
+      internalID: -3826786117068446527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_57
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8190b497a48d30f50800000000000000
+      internalID: 6846553672907426072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_58
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5b62ddf762db8d0800000000000000
+      internalID: -2829062660305799695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_59
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f73a7c16a8d16bd0800000000000000
+      internalID: -2638589698708457485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_60
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3fed0c63ae44bc0800000000000000
+      internalID: -3799654664708885530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_61
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea625b410d3c7770800000000000000
+      internalID: 8609823663393499872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_62
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 420
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d415777124a0aa350800000000000000
+      internalID: 6028642330166645069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f701aac232c4b0800000000000000
+      internalID: -5421715155534219677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7321bd994de38f7a0800000000000000
+      internalID: -6343250992316083657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_65
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5f5fcfb64247130800000000000000
+      internalID: 3563513251380983275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_66
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ece9deb6a0f0cf20800000000000000
+      internalID: 3441014714268249313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tamki_Spritesheet9x8_67
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 370
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e0400d4d8502850800000000000000
+      internalID: 6350173145638637188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e98d9d171a1c0914cacc57f71671b955
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

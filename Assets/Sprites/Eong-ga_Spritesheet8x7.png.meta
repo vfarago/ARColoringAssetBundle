@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: 9be68584927354347a43278d46a84112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8301470283474832351
+    second: Eong-ga_Spritesheet8x7_0
+  - first:
+      213: -2541187408920717107
+    second: Eong-ga_Spritesheet8x7_1
+  - first:
+      213: -5609486455127561905
+    second: Eong-ga_Spritesheet8x7_2
+  - first:
+      213: -8987652030715813384
+    second: Eong-ga_Spritesheet8x7_3
+  - first:
+      213: -607195433683598423
+    second: Eong-ga_Spritesheet8x7_4
+  - first:
+      213: 8945563206290906837
+    second: Eong-ga_Spritesheet8x7_5
+  - first:
+      213: 2015011014764237758
+    second: Eong-ga_Spritesheet8x7_6
+  - first:
+      213: 8921396159712678537
+    second: Eong-ga_Spritesheet8x7_7
+  - first:
+      213: 3447206066253360269
+    second: Eong-ga_Spritesheet8x7_8
+  - first:
+      213: -3480791001488868873
+    second: Eong-ga_Spritesheet8x7_9
+  - first:
+      213: -9167027312012896556
+    second: Eong-ga_Spritesheet8x7_10
+  - first:
+      213: -6898324984657482406
+    second: Eong-ga_Spritesheet8x7_11
+  - first:
+      213: 2225155119619710486
+    second: Eong-ga_Spritesheet8x7_12
+  - first:
+      213: -4201513725909076630
+    second: Eong-ga_Spritesheet8x7_13
+  - first:
+      213: 6746468135150466758
+    second: Eong-ga_Spritesheet8x7_14
+  - first:
+      213: -1970116342259273565
+    second: Eong-ga_Spritesheet8x7_15
+  - first:
+      213: 1134095105447634263
+    second: Eong-ga_Spritesheet8x7_16
+  - first:
+      213: 1942415625992135160
+    second: Eong-ga_Spritesheet8x7_17
+  - first:
+      213: 6404232274973214008
+    second: Eong-ga_Spritesheet8x7_18
+  - first:
+      213: 6780433071377640168
+    second: Eong-ga_Spritesheet8x7_19
+  - first:
+      213: 3546430014291593975
+    second: Eong-ga_Spritesheet8x7_20
+  - first:
+      213: -143287509451276741
+    second: Eong-ga_Spritesheet8x7_21
+  - first:
+      213: -940052914886795812
+    second: Eong-ga_Spritesheet8x7_22
+  - first:
+      213: -3580165741102477138
+    second: Eong-ga_Spritesheet8x7_23
+  - first:
+      213: 2948173884680186453
+    second: Eong-ga_Spritesheet8x7_24
+  - first:
+      213: 6090626540771932391
+    second: Eong-ga_Spritesheet8x7_25
+  - first:
+      213: 864145728497200013
+    second: Eong-ga_Spritesheet8x7_26
+  - first:
+      213: -4443441807812066170
+    second: Eong-ga_Spritesheet8x7_27
+  - first:
+      213: -842059264038802668
+    second: Eong-ga_Spritesheet8x7_28
+  - first:
+      213: -5852409548204589068
+    second: Eong-ga_Spritesheet8x7_29
+  - first:
+      213: -5574520329520798429
+    second: Eong-ga_Spritesheet8x7_30
+  - first:
+      213: 5408930832439689932
+    second: Eong-ga_Spritesheet8x7_31
+  - first:
+      213: -2375889665330617366
+    second: Eong-ga_Spritesheet8x7_32
+  - first:
+      213: 3644492754251422400
+    second: Eong-ga_Spritesheet8x7_33
+  - first:
+      213: 395624525316576106
+    second: Eong-ga_Spritesheet8x7_34
+  - first:
+      213: 8540907149711924466
+    second: Eong-ga_Spritesheet8x7_35
+  - first:
+      213: -940183622152663436
+    second: Eong-ga_Spritesheet8x7_36
+  - first:
+      213: -4722229061292443114
+    second: Eong-ga_Spritesheet8x7_37
+  - first:
+      213: 1253292982029879079
+    second: Eong-ga_Spritesheet8x7_38
+  - first:
+      213: -1958196344366072449
+    second: Eong-ga_Spritesheet8x7_39
+  - first:
+      213: -2861055510462164567
+    second: Eong-ga_Spritesheet8x7_40
+  - first:
+      213: -9084151325844768491
+    second: Eong-ga_Spritesheet8x7_41
+  - first:
+      213: -2912192490686153691
+    second: Eong-ga_Spritesheet8x7_42
+  - first:
+      213: -3075671827941089699
+    second: Eong-ga_Spritesheet8x7_43
+  - first:
+      213: -6566414417714656310
+    second: Eong-ga_Spritesheet8x7_44
+  - first:
+      213: -7539911814763380147
+    second: Eong-ga_Spritesheet8x7_45
+  - first:
+      213: -6341521617745694405
+    second: Eong-ga_Spritesheet8x7_46
+  - first:
+      213: -8716065891544122127
+    second: Eong-ga_Spritesheet8x7_47
+  - first:
+      213: -1164798805542766142
+    second: Eong-ga_Spritesheet8x7_48
+  - first:
+      213: -8390215733101127247
+    second: Eong-ga_Spritesheet8x7_49
+  - first:
+      213: -5594642261957899831
+    second: Eong-ga_Spritesheet8x7_50
+  - first:
+      213: 6418091026191257405
+    second: Eong-ga_Spritesheet8x7_51
+  - first:
+      213: -3108247791535328220
+    second: Eong-ga_Spritesheet8x7_52
+  - first:
+      213: 6874777838321192143
+    second: Eong-ga_Spritesheet8x7_53
+  - first:
+      213: -7421958931612821436
+    second: Eong-ga_Spritesheet8x7_54
+  - first:
+      213: -3199531518171278383
+    second: Eong-ga_Spritesheet8x7_55
+  - first:
+      213: -1814495268058214345
+    second: Eong-ga_Spritesheet8x7_0
+  - first:
+      213: 333159971397764288
+    second: Eong-ga_Spritesheet8x7_1
+  - first:
+      213: -4622379448765049210
+    second: Eong-ga_Spritesheet8x7_2
+  - first:
+      213: 3920731458148692959
+    second: Eong-ga_Spritesheet8x7_3
+  - first:
+      213: 2638817806057223477
+    second: Eong-ga_Spritesheet8x7_4
+  - first:
+      213: -2345523641394754864
+    second: Eong-ga_Spritesheet8x7_5
+  - first:
+      213: -8047354065091865259
+    second: Eong-ga_Spritesheet8x7_6
+  - first:
+      213: -6581207057433422712
+    second: Eong-ga_Spritesheet8x7_7
+  - first:
+      213: -8475519947980266898
+    second: Eong-ga_Spritesheet8x7_8
+  - first:
+      213: 1963014831598670395
+    second: Eong-ga_Spritesheet8x7_9
+  - first:
+      213: 1232172523388613085
+    second: Eong-ga_Spritesheet8x7_10
+  - first:
+      213: -7634481973570401448
+    second: Eong-ga_Spritesheet8x7_11
+  - first:
+      213: -7341005697588065794
+    second: Eong-ga_Spritesheet8x7_12
+  - first:
+      213: -5496981114949493396
+    second: Eong-ga_Spritesheet8x7_13
+  - first:
+      213: 7328302927037154891
+    second: Eong-ga_Spritesheet8x7_14
+  - first:
+      213: -3701858676027919524
+    second: Eong-ga_Spritesheet8x7_15
+  - first:
+      213: -1941475646655960381
+    second: Eong-ga_Spritesheet8x7_16
+  - first:
+      213: -4488808224388207866
+    second: Eong-ga_Spritesheet8x7_17
+  - first:
+      213: -8221343042304691551
+    second: Eong-ga_Spritesheet8x7_18
+  - first:
+      213: -7365257175153666432
+    second: Eong-ga_Spritesheet8x7_19
+  - first:
+      213: 320851912499268007
+    second: Eong-ga_Spritesheet8x7_20
+  - first:
+      213: 6737484300425891579
+    second: Eong-ga_Spritesheet8x7_21
+  - first:
+      213: 3391239113912599504
+    second: Eong-ga_Spritesheet8x7_22
+  - first:
+      213: -2581068732685653442
+    second: Eong-ga_Spritesheet8x7_23
+  - first:
+      213: 7121943336128682631
+    second: Eong-ga_Spritesheet8x7_24
+  - first:
+      213: -2853024972063466657
+    second: Eong-ga_Spritesheet8x7_25
+  - first:
+      213: 6897366753813696008
+    second: Eong-ga_Spritesheet8x7_26
+  - first:
+      213: 6046434947209729307
+    second: Eong-ga_Spritesheet8x7_27
+  - first:
+      213: 6700059534923742132
+    second: Eong-ga_Spritesheet8x7_28
+  - first:
+      213: -4142941240552884598
+    second: Eong-ga_Spritesheet8x7_29
+  - first:
+      213: 7594310071923111548
+    second: Eong-ga_Spritesheet8x7_30
+  - first:
+      213: -7587816180174411649
+    second: Eong-ga_Spritesheet8x7_31
+  - first:
+      213: 5094729842909363897
+    second: Eong-ga_Spritesheet8x7_32
+  - first:
+      213: -7671199256022111296
+    second: Eong-ga_Spritesheet8x7_33
+  - first:
+      213: 8967965828538563986
+    second: Eong-ga_Spritesheet8x7_34
+  - first:
+      213: -1715973150421656235
+    second: Eong-ga_Spritesheet8x7_35
+  - first:
+      213: -3554422396902599443
+    second: Eong-ga_Spritesheet8x7_36
+  - first:
+      213: 2198543564455869168
+    second: Eong-ga_Spritesheet8x7_37
+  - first:
+      213: 3543248291012787496
+    second: Eong-ga_Spritesheet8x7_38
+  - first:
+      213: -5152676069572755665
+    second: Eong-ga_Spritesheet8x7_39
+  - first:
+      213: -3196280613606330660
+    second: Eong-ga_Spritesheet8x7_40
+  - first:
+      213: -3485701645532320961
+    second: Eong-ga_Spritesheet8x7_41
+  - first:
+      213: 2198879086328869298
+    second: Eong-ga_Spritesheet8x7_42
+  - first:
+      213: 6928946934518523259
+    second: Eong-ga_Spritesheet8x7_43
+  - first:
+      213: 5856766467684333033
+    second: Eong-ga_Spritesheet8x7_44
+  - first:
+      213: 5675418613986723242
+    second: Eong-ga_Spritesheet8x7_45
+  - first:
+      213: 7782917356673933108
+    second: Eong-ga_Spritesheet8x7_46
+  - first:
+      213: 3090824038555413627
+    second: Eong-ga_Spritesheet8x7_47
+  - first:
+      213: -6796815741838441117
+    second: Eong-ga_Spritesheet8x7_48
+  - first:
+      213: -3819268739915248345
+    second: Eong-ga_Spritesheet8x7_49
+  - first:
+      213: -2957669206457536620
+    second: Eong-ga_Spritesheet8x7_50
+  - first:
+      213: 4128082090358029939
+    second: Eong-ga_Spritesheet8x7_51
+  - first:
+      213: 2611723493857607631
+    second: Eong-ga_Spritesheet8x7_52
+  - first:
+      213: -1864875790855353486
+    second: Eong-ga_Spritesheet8x7_53
+  - first:
+      213: -3712074116581219166
+    second: Eong-ga_Spritesheet8x7_54
+  - first:
+      213: 4016773930245861864
+    second: Eong-ga_Spritesheet8x7_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2820
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73053c4da2e91d6e0800000000000000
+      internalID: -1814495268058214345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2820
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c40b849a3f9f9400800000000000000
+      internalID: 333159971397764288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2820
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861b4bb1620adfb0800000000000000
+      internalID: -4622379448765049210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2820
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f6aefc7c396630800000000000000
+      internalID: 3920731458148692959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2820
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535340540d6fe9420800000000000000
+      internalID: 2638817806057223477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_5
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2820
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da826edca6037fd0800000000000000
+      internalID: -2345523641394754864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_6
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2820
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55557605d1e025090800000000000000
+      internalID: -8047354065091865259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2820
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884136ccc0bdaa4a0800000000000000
+      internalID: -6581207057433422712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2350
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6226e53387e06a80800000000000000
+      internalID: -8475519947980266898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2350
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32134eb6970e3b10800000000000000
+      internalID: 1963014831598670395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2350
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13396b16e891110800000000000000
+      internalID: 1232172523388613085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2350
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8631281fdc0690800000000000000
+      internalID: -7634481973570401448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2350
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9052d56328f1a90800000000000000
+      internalID: -7341005697588065794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2350
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d976adcccc6b3b0800000000000000
+      internalID: -5496981114949493396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_14
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2350
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4641846fac53b560800000000000000
+      internalID: 7328302927037154891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_15
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2350
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5378aeb52b50acc0800000000000000
+      internalID: -3701858676027919524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1880
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caeffc8f2e7e05e0800000000000000
+      internalID: -1941475646655960381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1880
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b2d70e3bc84b1c0800000000000000
+      internalID: -4488808224388207866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1880
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2bcc2cf0ce7ed80800000000000000
+      internalID: -8221343042304691551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_19
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1880
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086919b3f9959c990800000000000000
+      internalID: -7365257175153666432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1880
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9060e4d15e37400800000000000000
+      internalID: 320851912499268007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1880
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe08a6464a508d50800000000000000
+      internalID: 6737484300425891579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_22
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1880
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3cb2da10a101f20800000000000000
+      internalID: 3391239113912599504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_23
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1880
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a6767a9a33e2cd0800000000000000
+      internalID: -2581068732685653442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a19640bb936d260800000000000000
+      internalID: 7121943336128682631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1410
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b96d467e40868d0800000000000000
+      internalID: -2853024972063466657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1410
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e87aec48e58bf50800000000000000
+      internalID: 6897366753813696008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1410
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1591f19c8049e350800000000000000
+      internalID: 6046434947209729307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_28
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1410
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb391906a46bfc50800000000000000
+      internalID: 6700059534923742132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1410
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86778754e05186c0800000000000000
+      internalID: -4142941240552884598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_30
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1410
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f52726c8646960800000000000000
+      internalID: 7594310071923111548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_31
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1410
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f782eb7d269a2b690800000000000000
+      internalID: -7587816180174411649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beb1319ccd14b640800000000000000
+      internalID: 5094729842909363897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 940
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbaf8f9bec6a8590800000000000000
+      internalID: -7671199256022111296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 940
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df1ef186d947c70800000000000000
+      internalID: 8967965828538563986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_35
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 940
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5205e283af28e0800000000000000
+      internalID: -1715973150421656235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 940
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de49de289a72caec0800000000000000
+      internalID: -3554422396902599443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 940
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fafc9639bbc28e10800000000000000
+      internalID: 2198543564455869168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_38
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 940
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82db3d83c852c2130800000000000000
+      internalID: 3543248291012787496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_39
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 940
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fb57e2a640e78b0800000000000000
+      internalID: -5152676069572755665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee68f67b784a3d0800000000000000
+      internalID: -3196280613606330660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 470
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b2d0942dc40afc0800000000000000
+      internalID: -3485701645532320961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 470
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1faacf0ecf38e10800000000000000
+      internalID: 2198879086328869298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_43
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 470
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75228b9680982060800000000000000
+      internalID: 6928946934518523259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_44
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 470
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e57eb6621a674150800000000000000
+      internalID: 5856766467684333033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_45
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 470
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa58156e82323ce40800000000000000
+      internalID: 5675418613986723242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_46
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 470
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f95c8a91a720c60800000000000000
+      internalID: 7782917356673933108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_47
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 470
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c65515610d4ea20800000000000000
+      internalID: 3090824038555413627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cfe7081cdca1a0800000000000000
+      internalID: -6796815741838441117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d099ff05b3ffac0800000000000000
+      internalID: -3819268739915248345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49facf1f68f34f6d0800000000000000
+      internalID: -2957669206457536620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e31772ac4e94930800000000000000
+      internalID: 4128082090358029939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_52
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfbcee1ea4be3420800000000000000
+      internalID: 2611723493857607631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_53
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b47d74951ae16e0800000000000000
+      internalID: -1864875790855353486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_54
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4214522401c7cc0800000000000000
+      internalID: -3712074116581219166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eong-ga_Spritesheet8x7_55
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 288
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ba579b927eb730800000000000000
+      internalID: 4016773930245861864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

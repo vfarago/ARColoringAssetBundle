@@ -1,0 +1,1061 @@
+fileFormatVersion: 2
+guid: 095e4563f2c1dd140a0a1741ac8bcfaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2975973432302488975
+    second: Checkga_Spritesheet6x6_0
+  - first:
+      213: 9157026372404481602
+    second: Checkga_Spritesheet6x6_1
+  - first:
+      213: -3765975381411713643
+    second: Checkga_Spritesheet6x6_2
+  - first:
+      213: -2476337074858088792
+    second: Checkga_Spritesheet6x6_3
+  - first:
+      213: 2651884168418655660
+    second: Checkga_Spritesheet6x6_4
+  - first:
+      213: -1276774074797877806
+    second: Checkga_Spritesheet6x6_5
+  - first:
+      213: 1415360836010055171
+    second: Checkga_Spritesheet6x6_6
+  - first:
+      213: -5890634797690971216
+    second: Checkga_Spritesheet6x6_7
+  - first:
+      213: 4778059915445090256
+    second: Checkga_Spritesheet6x6_8
+  - first:
+      213: 8654202156047354576
+    second: Checkga_Spritesheet6x6_9
+  - first:
+      213: -2710698815060317790
+    second: Checkga_Spritesheet6x6_10
+  - first:
+      213: 3346337997557211233
+    second: Checkga_Spritesheet6x6_11
+  - first:
+      213: 3557144824718524530
+    second: Checkga_Spritesheet6x6_12
+  - first:
+      213: -2413479347472349418
+    second: Checkga_Spritesheet6x6_13
+  - first:
+      213: -4944225779428776464
+    second: Checkga_Spritesheet6x6_14
+  - first:
+      213: -8097729318220381579
+    second: Checkga_Spritesheet6x6_15
+  - first:
+      213: 6233390547751359951
+    second: Checkga_Spritesheet6x6_16
+  - first:
+      213: -531889510171640115
+    second: Checkga_Spritesheet6x6_17
+  - first:
+      213: 6107997302458033144
+    second: Checkga_Spritesheet6x6_18
+  - first:
+      213: -15386046354659192
+    second: Checkga_Spritesheet6x6_19
+  - first:
+      213: 8669772896467478723
+    second: Checkga_Spritesheet6x6_20
+  - first:
+      213: -5567946461539665130
+    second: Checkga_Spritesheet6x6_21
+  - first:
+      213: 1776947707608257742
+    second: Checkga_Spritesheet6x6_22
+  - first:
+      213: -8832742276511047098
+    second: Checkga_Spritesheet6x6_23
+  - first:
+      213: -5187541218817318284
+    second: Checkga_Spritesheet6x6_24
+  - first:
+      213: -7665041632232017247
+    second: Checkga_Spritesheet6x6_25
+  - first:
+      213: -6840486058007963967
+    second: Checkga_Spritesheet6x6_26
+  - first:
+      213: -5075571404224262037
+    second: Checkga_Spritesheet6x6_27
+  - first:
+      213: -1750601264080160891
+    second: Checkga_Spritesheet6x6_28
+  - first:
+      213: 6906089423806600676
+    second: Checkga_Spritesheet6x6_29
+  - first:
+      213: -7228562682058997051
+    second: Checkga_Spritesheet6x6_30
+  - first:
+      213: -5810253078808638126
+    second: Checkga_Spritesheet6x6_31
+  - first:
+      213: -41805021124757763
+    second: Checkga_Spritesheet6x6_32
+  - first:
+      213: 5389465931030800491
+    second: Checkga_Spritesheet6x6_33
+  - first:
+      213: 6595711879382372165
+    second: Checkga_Spritesheet6x6_34
+  - first:
+      213: -741257387227771971
+    second: Checkga_Spritesheet6x6_0
+  - first:
+      213: -740154020983485250
+    second: Checkga_Spritesheet6x6_1
+  - first:
+      213: -511021261996735836
+    second: Checkga_Spritesheet6x6_2
+  - first:
+      213: 1158029187887468005
+    second: Checkga_Spritesheet6x6_3
+  - first:
+      213: 5149944928723840408
+    second: Checkga_Spritesheet6x6_4
+  - first:
+      213: 7590018951694421919
+    second: Checkga_Spritesheet6x6_5
+  - first:
+      213: -3793063989653426551
+    second: Checkga_Spritesheet6x6_6
+  - first:
+      213: 5796075238462222359
+    second: Checkga_Spritesheet6x6_7
+  - first:
+      213: 7166007475503990115
+    second: Checkga_Spritesheet6x6_8
+  - first:
+      213: -1454788956463357298
+    second: Checkga_Spritesheet6x6_9
+  - first:
+      213: -50578568018258221
+    second: Checkga_Spritesheet6x6_10
+  - first:
+      213: -8562393942353023202
+    second: Checkga_Spritesheet6x6_11
+  - first:
+      213: -5170122757872540593
+    second: Checkga_Spritesheet6x6_12
+  - first:
+      213: 8296887694066802984
+    second: Checkga_Spritesheet6x6_13
+  - first:
+      213: -4779805915378107006
+    second: Checkga_Spritesheet6x6_14
+  - first:
+      213: 343549568572572019
+    second: Checkga_Spritesheet6x6_15
+  - first:
+      213: 3977543938891279616
+    second: Checkga_Spritesheet6x6_16
+  - first:
+      213: 5431407649720901046
+    second: Checkga_Spritesheet6x6_17
+  - first:
+      213: 130169360320133219
+    second: Checkga_Spritesheet6x6_18
+  - first:
+      213: 8838192911504764501
+    second: Checkga_Spritesheet6x6_19
+  - first:
+      213: -5971393728017381895
+    second: Checkga_Spritesheet6x6_20
+  - first:
+      213: -8190187513677677238
+    second: Checkga_Spritesheet6x6_21
+  - first:
+      213: -5479811826815208835
+    second: Checkga_Spritesheet6x6_22
+  - first:
+      213: 5039003054094186938
+    second: Checkga_Spritesheet6x6_23
+  - first:
+      213: -1726798347397087413
+    second: Checkga_Spritesheet6x6_24
+  - first:
+      213: 1974100803236674059
+    second: Checkga_Spritesheet6x6_25
+  - first:
+      213: 6463349266787436664
+    second: Checkga_Spritesheet6x6_26
+  - first:
+      213: -8187757885020682709
+    second: Checkga_Spritesheet6x6_27
+  - first:
+      213: -6373386140221173762
+    second: Checkga_Spritesheet6x6_28
+  - first:
+      213: -657872346209238225
+    second: Checkga_Spritesheet6x6_29
+  - first:
+      213: -1663759861244264557
+    second: Checkga_Spritesheet6x6_30
+  - first:
+      213: 6600267371268032278
+    second: Checkga_Spritesheet6x6_31
+  - first:
+      213: -4740594854823753443
+    second: Checkga_Spritesheet6x6_32
+  - first:
+      213: 511339604828663839
+    second: Checkga_Spritesheet6x6_33
+  - first:
+      213: 2386783341319460205
+    second: Checkga_Spritesheet6x6_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2745
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb872b655686b5f0800000000000000
+      internalID: -741257387227771971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2745
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc334e6d17ab5f0800000000000000
+      internalID: -740154020983485250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2745
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a24306aedc78e8f0800000000000000
+      internalID: -511021261996735836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2745
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed019f2965221010800000000000000
+      internalID: 1158029187887468005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2745
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89da86980a7487740800000000000000
+      internalID: 5149944928723840408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_5
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2745
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f8a3ed50a255960800000000000000
+      internalID: 7590018951694421919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2196
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea16ed5645c5bc0800000000000000
+      internalID: -3793063989653426551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2196
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7107aff68bbcf6050800000000000000
+      internalID: 5796075238462222359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_8
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2196
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658533f4d5c27360800000000000000
+      internalID: 7166007475503990115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_9
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2196
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8227d2e62d8fcbe0800000000000000
+      internalID: -1454788956463357298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_10
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2196
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d616047f0f4c4ff0800000000000000
+      internalID: -50578568018258221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_11
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2196
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f671f23144c2980800000000000000
+      internalID: -8562393942353023202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1647
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4428d38eb80048b0800000000000000
+      internalID: -5170122757872540593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1647
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82169222667742370800000000000000
+      internalID: 8296887694066802984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1647
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28db39e28d7baadb0800000000000000
+      internalID: -4779805915378107006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_15
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1647
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371c18d238884c400800000000000000
+      internalID: 343549568572572019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_16
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1647
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d6f147323133730800000000000000
+      internalID: 3977543938891279616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_17
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1647
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd14f70b7c306b40800000000000000
+      internalID: 5431407649720901046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3687582f7547ec100800000000000000
+      internalID: 130169360320133219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1098
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eed9250a197aa70800000000000000
+      internalID: 8838192911504764501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_20
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1098
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5478bca09512da0800000000000000
+      internalID: -5971393728017381895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_21
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1098
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4df66b89db965e80800000000000000
+      internalID: -8190187513677677238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_22
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1098
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f1b24d2cc3f3b0800000000000000
+      internalID: -5479811826815208835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_23
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1098
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9746574922ee540800000000000000
+      internalID: 5039003054094186938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f3aa05d0e2908e0800000000000000
+      internalID: -1726798347397087413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 549
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3cb7a83a656b10800000000000000
+      internalID: 1974100803236674059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_26
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 549
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8788522f9ed62b950800000000000000
+      internalID: 6463349266787436664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_27
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 549
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26407c859d3f5e80800000000000000
+      internalID: -8187757885020682709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_28
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 549
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff08b7b21f2d87a0800000000000000
+      internalID: -6373386140221173762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_29
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 549
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2345a03694ced6f0800000000000000
+      internalID: -657872346209238225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f7bfe983329e8e0800000000000000
+      internalID: -1663759861244264557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6174807543cd89b50800000000000000
+      internalID: 6600267371268032278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_32
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d198f26a816063eb0800000000000000
+      internalID: -4740594854823753443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b66159a4a81700800000000000000
+      internalID: 511339604828663839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Checkga_Spritesheet6x6_34
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 348
+        height: 549
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659a2f9dce8f1120800000000000000
+      internalID: 2386783341319460205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

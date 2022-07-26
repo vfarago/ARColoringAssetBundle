@@ -1,0 +1,1142 @@
+fileFormatVersion: 2
+guid: 16e95c2cd7023b140a79ed5ce186811b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6746081535424334340
+    second: Kaeryoong_002_Spritesheet7x6_0
+  - first:
+      213: 79519067553183147
+    second: Kaeryoong_002_Spritesheet7x6_1
+  - first:
+      213: 7080310489255068143
+    second: Kaeryoong_002_Spritesheet7x6_2
+  - first:
+      213: 3081548758294247664
+    second: Kaeryoong_002_Spritesheet7x6_3
+  - first:
+      213: 3494904359565326571
+    second: Kaeryoong_002_Spritesheet7x6_4
+  - first:
+      213: -1402146019196267711
+    second: Kaeryoong_002_Spritesheet7x6_5
+  - first:
+      213: 8638757484248220664
+    second: Kaeryoong_002_Spritesheet7x6_6
+  - first:
+      213: 9187547718237294805
+    second: Kaeryoong_002_Spritesheet7x6_7
+  - first:
+      213: -4551503585246450503
+    second: Kaeryoong_002_Spritesheet7x6_8
+  - first:
+      213: -8633630346435518712
+    second: Kaeryoong_002_Spritesheet7x6_9
+  - first:
+      213: 5332451784252712631
+    second: Kaeryoong_002_Spritesheet7x6_10
+  - first:
+      213: 2828691575118011840
+    second: Kaeryoong_002_Spritesheet7x6_11
+  - first:
+      213: 6048137521052913779
+    second: Kaeryoong_002_Spritesheet7x6_12
+  - first:
+      213: -631445833949354553
+    second: Kaeryoong_002_Spritesheet7x6_13
+  - first:
+      213: 7151534670675636651
+    second: Kaeryoong_002_Spritesheet7x6_14
+  - first:
+      213: -7107616687819626097
+    second: Kaeryoong_002_Spritesheet7x6_15
+  - first:
+      213: -3504998111668243216
+    second: Kaeryoong_002_Spritesheet7x6_16
+  - first:
+      213: -8678564534567352167
+    second: Kaeryoong_002_Spritesheet7x6_17
+  - first:
+      213: -6257778277232044306
+    second: Kaeryoong_002_Spritesheet7x6_18
+  - first:
+      213: 5336383883918180487
+    second: Kaeryoong_002_Spritesheet7x6_19
+  - first:
+      213: -961705252909698297
+    second: Kaeryoong_002_Spritesheet7x6_20
+  - first:
+      213: 4928141621241915679
+    second: Kaeryoong_002_Spritesheet7x6_21
+  - first:
+      213: 2014943213060026828
+    second: Kaeryoong_002_Spritesheet7x6_22
+  - first:
+      213: -7886158263167868532
+    second: Kaeryoong_002_Spritesheet7x6_23
+  - first:
+      213: 7067860617375050567
+    second: Kaeryoong_002_Spritesheet7x6_24
+  - first:
+      213: 2451722988367394500
+    second: Kaeryoong_002_Spritesheet7x6_25
+  - first:
+      213: -114743262892580138
+    second: Kaeryoong_002_Spritesheet7x6_26
+  - first:
+      213: -6013710956976990791
+    second: Kaeryoong_002_Spritesheet7x6_27
+  - first:
+      213: 3292889686984085059
+    second: Kaeryoong_002_Spritesheet7x6_28
+  - first:
+      213: 4572121065001689755
+    second: Kaeryoong_002_Spritesheet7x6_29
+  - first:
+      213: -1220653841238618881
+    second: Kaeryoong_002_Spritesheet7x6_30
+  - first:
+      213: -2235110617471030452
+    second: Kaeryoong_002_Spritesheet7x6_31
+  - first:
+      213: -6239911295898198007
+    second: Kaeryoong_002_Spritesheet7x6_32
+  - first:
+      213: 1237092562742649646
+    second: Kaeryoong_002_Spritesheet7x6_33
+  - first:
+      213: -7521189928554299223
+    second: Kaeryoong_002_Spritesheet7x6_34
+  - first:
+      213: 3285895805488371454
+    second: Kaeryoong_002_Spritesheet7x6_35
+  - first:
+      213: -8330896062306793236
+    second: Kaeryoong_002_Spritesheet7x6_36
+  - first:
+      213: -3937560487107027118
+    second: Kaeryoong_002_Spritesheet7x6_37
+  - first:
+      213: -590807251791739524
+    second: Kaeryoong_002_Spritesheet7x6_0
+  - first:
+      213: 2638147317057784345
+    second: Kaeryoong_002_Spritesheet7x6_1
+  - first:
+      213: 8885200850815570984
+    second: Kaeryoong_002_Spritesheet7x6_2
+  - first:
+      213: 868276337369880218
+    second: Kaeryoong_002_Spritesheet7x6_3
+  - first:
+      213: -5475549636435025427
+    second: Kaeryoong_002_Spritesheet7x6_4
+  - first:
+      213: 7167405355667146520
+    second: Kaeryoong_002_Spritesheet7x6_5
+  - first:
+      213: 9089956966211813049
+    second: Kaeryoong_002_Spritesheet7x6_6
+  - first:
+      213: 2801198308203412207
+    second: Kaeryoong_002_Spritesheet7x6_7
+  - first:
+      213: 3817813376759881698
+    second: Kaeryoong_002_Spritesheet7x6_8
+  - first:
+      213: 3414348995732387585
+    second: Kaeryoong_002_Spritesheet7x6_9
+  - first:
+      213: -7418648608047213694
+    second: Kaeryoong_002_Spritesheet7x6_10
+  - first:
+      213: 6935860047996904480
+    second: Kaeryoong_002_Spritesheet7x6_11
+  - first:
+      213: 2531973909123277833
+    second: Kaeryoong_002_Spritesheet7x6_12
+  - first:
+      213: -8543988148105277815
+    second: Kaeryoong_002_Spritesheet7x6_13
+  - first:
+      213: 7630442180226484243
+    second: Kaeryoong_002_Spritesheet7x6_14
+  - first:
+      213: -7169334237267903461
+    second: Kaeryoong_002_Spritesheet7x6_15
+  - first:
+      213: -4481298169431881339
+    second: Kaeryoong_002_Spritesheet7x6_16
+  - first:
+      213: 624714778788011756
+    second: Kaeryoong_002_Spritesheet7x6_17
+  - first:
+      213: -7371754447120214653
+    second: Kaeryoong_002_Spritesheet7x6_18
+  - first:
+      213: -6671175657202581287
+    second: Kaeryoong_002_Spritesheet7x6_19
+  - first:
+      213: 2832612515491944897
+    second: Kaeryoong_002_Spritesheet7x6_20
+  - first:
+      213: 4030093366638889519
+    second: Kaeryoong_002_Spritesheet7x6_21
+  - first:
+      213: 2904738332567446417
+    second: Kaeryoong_002_Spritesheet7x6_22
+  - first:
+      213: 1654536422687373586
+    second: Kaeryoong_002_Spritesheet7x6_23
+  - first:
+      213: 5994103776342969305
+    second: Kaeryoong_002_Spritesheet7x6_24
+  - first:
+      213: 7378006291421433628
+    second: Kaeryoong_002_Spritesheet7x6_25
+  - first:
+      213: 7573407504597619052
+    second: Kaeryoong_002_Spritesheet7x6_26
+  - first:
+      213: -353857501814699461
+    second: Kaeryoong_002_Spritesheet7x6_27
+  - first:
+      213: 1414187789158067835
+    second: Kaeryoong_002_Spritesheet7x6_28
+  - first:
+      213: -3409963178369297185
+    second: Kaeryoong_002_Spritesheet7x6_29
+  - first:
+      213: 7353861380071244099
+    second: Kaeryoong_002_Spritesheet7x6_30
+  - first:
+      213: 4326886363434522632
+    second: Kaeryoong_002_Spritesheet7x6_31
+  - first:
+      213: 8190815683061723679
+    second: Kaeryoong_002_Spritesheet7x6_32
+  - first:
+      213: -5262229785092144376
+    second: Kaeryoong_002_Spritesheet7x6_33
+  - first:
+      213: 2500036156694912966
+    second: Kaeryoong_002_Spritesheet7x6_34
+  - first:
+      213: 7389167810634432457
+    second: Kaeryoong_002_Spritesheet7x6_35
+  - first:
+      213: 7406950464547665951
+    second: Kaeryoong_002_Spritesheet7x6_36
+  - first:
+      213: -3873900383389864254
+    second: Kaeryoong_002_Spritesheet7x6_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2875
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c758a3a4fe70dc7f0800000000000000
+      internalID: -590807251791739524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2875
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a0162e1059c9420800000000000000
+      internalID: 2638147317057784345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2875
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8245cd619139e4b70800000000000000
+      internalID: 8885200850815570984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2875
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a961fcf7abcbc0c00800000000000000
+      internalID: 868276337369880218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_4
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2875
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1654acd90f204b0800000000000000
+      internalID: -5475549636435025427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_5
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2875
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817c5c9423db77360800000000000000
+      internalID: 7167405355667146520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_6
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2875
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be74aa33b3062e70800000000000000
+      internalID: 9089956966211813049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab3e9150bdfd620800000000000000
+      internalID: 2801198308203412207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2300
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd18cd9099bf430800000000000000
+      internalID: 3817813376759881698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2300
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10737d55254326f20800000000000000
+      internalID: 3414348995732387585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_10
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2300
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28356eb856aab0990800000000000000
+      internalID: -7418648608047213694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_11
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2300
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024eda447ff114060800000000000000
+      internalID: 6935860047996904480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_12
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2300
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904a9d9fad0632320800000000000000
+      internalID: 2531973909123277833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_13
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2300
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e890b1c08ad6980800000000000000
+      internalID: -8543988148105277815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1725
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3188e8f2cb6c4e960800000000000000
+      internalID: 7630442180226484243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1725
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cb997fe78618c90800000000000000
+      internalID: -7169334237267903461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1725
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589876ece0b3fc1c0800000000000000
+      internalID: -4481298169431881339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_17
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1725
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee989b08ce6ba800800000000000000
+      internalID: 624714778788011756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_18
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1725
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855ef7336442b990800000000000000
+      internalID: -7371754447120214653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_19
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1725
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0053ec5193b63a0800000000000000
+      internalID: -6671175657202581287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_20
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1725
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9193433167f4720800000000000000
+      internalID: 2832612515491944897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a4b2a8094cde730800000000000000
+      internalID: 4030093366638889519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1150
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a42e9f14bf4820800000000000000
+      internalID: 2904738332567446417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1150
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f93e3c1816f610800000000000000
+      internalID: 1654536422687373586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_24
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1150
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db00cf50a55f2350800000000000000
+      internalID: 5994103776342969305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_25
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1150
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f85c6b1a1f36660800000000000000
+      internalID: 7378006291421433628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_26
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1150
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6191d2fff52a1960800000000000000
+      internalID: 7573407504597619052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_27
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1150
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a4a371a78d61bf0800000000000000
+      internalID: -353857501814699461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e26723d4430a310800000000000000
+      internalID: 1414187789158067835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 575
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4d2285e806da0d0800000000000000
+      internalID: -3409963178369297185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_30
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 575
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414c9676f92e0660800000000000000
+      internalID: 7353861380071244099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_31
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 575
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081ff309303c0c30800000000000000
+      internalID: 4326886363434522632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_32
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 575
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b799877f9ba170800000000000000
+      internalID: 8190815683061723679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_33
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 575
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8034a1514edc8f6b0800000000000000
+      internalID: -5262229785092144376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_34
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 575
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfde6583a9e1b220800000000000000
+      internalID: 2500036156694912966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfbd9a69f89b8660800000000000000
+      internalID: 7389167810634432457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_36
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18374c2436cac660800000000000000
+      internalID: 7406950464547665951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeryoong_002_Spritesheet7x6_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 540
+        height: 575
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2cc840242d3ac0800000000000000
+      internalID: -3873900383389864254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

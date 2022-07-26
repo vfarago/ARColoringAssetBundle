@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: 7f9d91a7a1974e84db95f81e34f16187
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2335957074561933902
+    second: Jaga_Spritesheet8x7_0
+  - first:
+      213: -182989755370812346
+    second: Jaga_Spritesheet8x7_1
+  - first:
+      213: 5909871791510060911
+    second: Jaga_Spritesheet8x7_2
+  - first:
+      213: -2504390450805323497
+    second: Jaga_Spritesheet8x7_3
+  - first:
+      213: 1376354304404335160
+    second: Jaga_Spritesheet8x7_4
+  - first:
+      213: -6103316621755137005
+    second: Jaga_Spritesheet8x7_5
+  - first:
+      213: -1283589596391919254
+    second: Jaga_Spritesheet8x7_6
+  - first:
+      213: -6207682884331914151
+    second: Jaga_Spritesheet8x7_7
+  - first:
+      213: 6913406626089356320
+    second: Jaga_Spritesheet8x7_8
+  - first:
+      213: 3607126113087771119
+    second: Jaga_Spritesheet8x7_9
+  - first:
+      213: 5391536042013609425
+    second: Jaga_Spritesheet8x7_10
+  - first:
+      213: -5155396105043014598
+    second: Jaga_Spritesheet8x7_11
+  - first:
+      213: 6494186202669074022
+    second: Jaga_Spritesheet8x7_12
+  - first:
+      213: -1814459862545945491
+    second: Jaga_Spritesheet8x7_13
+  - first:
+      213: -1260234479335948861
+    second: Jaga_Spritesheet8x7_14
+  - first:
+      213: 771016584636723894
+    second: Jaga_Spritesheet8x7_15
+  - first:
+      213: 6647644671182095523
+    second: Jaga_Spritesheet8x7_16
+  - first:
+      213: -1352937116334758553
+    second: Jaga_Spritesheet8x7_17
+  - first:
+      213: 2489929923996290636
+    second: Jaga_Spritesheet8x7_18
+  - first:
+      213: -6253327076881002957
+    second: Jaga_Spritesheet8x7_19
+  - first:
+      213: 7662543554151758509
+    second: Jaga_Spritesheet8x7_20
+  - first:
+      213: 8129039966282018373
+    second: Jaga_Spritesheet8x7_21
+  - first:
+      213: -846379850189508729
+    second: Jaga_Spritesheet8x7_22
+  - first:
+      213: 126906811083792518
+    second: Jaga_Spritesheet8x7_23
+  - first:
+      213: 2650665587215412214
+    second: Jaga_Spritesheet8x7_24
+  - first:
+      213: 3598133914863243435
+    second: Jaga_Spritesheet8x7_25
+  - first:
+      213: -5840392116282233902
+    second: Jaga_Spritesheet8x7_26
+  - first:
+      213: -4805755810576751976
+    second: Jaga_Spritesheet8x7_27
+  - first:
+      213: 283011589827311104
+    second: Jaga_Spritesheet8x7_28
+  - first:
+      213: 5962726086853757407
+    second: Jaga_Spritesheet8x7_29
+  - first:
+      213: -9045775550972177054
+    second: Jaga_Spritesheet8x7_30
+  - first:
+      213: -3345282509077640805
+    second: Jaga_Spritesheet8x7_31
+  - first:
+      213: 9050997990400334565
+    second: Jaga_Spritesheet8x7_32
+  - first:
+      213: 3988274140076000075
+    second: Jaga_Spritesheet8x7_33
+  - first:
+      213: 4535300555964405723
+    second: Jaga_Spritesheet8x7_34
+  - first:
+      213: -6119297035150522508
+    second: Jaga_Spritesheet8x7_35
+  - first:
+      213: -1799586278144023544
+    second: Jaga_Spritesheet8x7_36
+  - first:
+      213: -7194290084656845968
+    second: Jaga_Spritesheet8x7_37
+  - first:
+      213: -8181491359780755251
+    second: Jaga_Spritesheet8x7_38
+  - first:
+      213: -959377635822202778
+    second: Jaga_Spritesheet8x7_39
+  - first:
+      213: 2908404759791658091
+    second: Jaga_Spritesheet8x7_40
+  - first:
+      213: -8630879586618331161
+    second: Jaga_Spritesheet8x7_41
+  - first:
+      213: -2674832450120129967
+    second: Jaga_Spritesheet8x7_42
+  - first:
+      213: -7766160793200327076
+    second: Jaga_Spritesheet8x7_43
+  - first:
+      213: -5033176164365545127
+    second: Jaga_Spritesheet8x7_44
+  - first:
+      213: -6534032596810964718
+    second: Jaga_Spritesheet8x7_45
+  - first:
+      213: 318145839526662368
+    second: Jaga_Spritesheet8x7_46
+  - first:
+      213: 9171588615771683700
+    second: Jaga_Spritesheet8x7_47
+  - first:
+      213: -5466374134441514797
+    second: Jaga_Spritesheet8x7_48
+  - first:
+      213: -1958992911120712678
+    second: Jaga_Spritesheet8x7_49
+  - first:
+      213: -1049025720459825801
+    second: Jaga_Spritesheet8x7_50
+  - first:
+      213: 5058064072837038666
+    second: Jaga_Spritesheet8x7_51
+  - first:
+      213: 1783828289274424121
+    second: Jaga_Spritesheet8x7_52
+  - first:
+      213: 9017765166433169355
+    second: Jaga_Spritesheet8x7_53
+  - first:
+      213: 4619752889580056732
+    second: Jaga_Spritesheet8x7_54
+  - first:
+      213: -7423745309638785088
+    second: Jaga_Spritesheet8x7_55
+  - first:
+      213: 1907758701071363442
+    second: Jaga_Spritesheet8x7_0
+  - first:
+      213: 919048922441257467
+    second: Jaga_Spritesheet8x7_1
+  - first:
+      213: 5261736071864687551
+    second: Jaga_Spritesheet8x7_2
+  - first:
+      213: -7236395607924753311
+    second: Jaga_Spritesheet8x7_3
+  - first:
+      213: -1148743376949387870
+    second: Jaga_Spritesheet8x7_4
+  - first:
+      213: 198416027971160579
+    second: Jaga_Spritesheet8x7_5
+  - first:
+      213: -2098016798332931443
+    second: Jaga_Spritesheet8x7_6
+  - first:
+      213: 9038134584718146820
+    second: Jaga_Spritesheet8x7_7
+  - first:
+      213: -2033554832203496220
+    second: Jaga_Spritesheet8x7_8
+  - first:
+      213: 2916390345271912079
+    second: Jaga_Spritesheet8x7_9
+  - first:
+      213: -4634862052381637395
+    second: Jaga_Spritesheet8x7_10
+  - first:
+      213: -7611659818440511166
+    second: Jaga_Spritesheet8x7_11
+  - first:
+      213: -2876828955248791212
+    second: Jaga_Spritesheet8x7_12
+  - first:
+      213: 3537332171673069658
+    second: Jaga_Spritesheet8x7_13
+  - first:
+      213: -4428758688318329549
+    second: Jaga_Spritesheet8x7_14
+  - first:
+      213: 9110907884994507925
+    second: Jaga_Spritesheet8x7_15
+  - first:
+      213: -3561518260098775291
+    second: Jaga_Spritesheet8x7_16
+  - first:
+      213: -608355014102661297
+    second: Jaga_Spritesheet8x7_17
+  - first:
+      213: -6632145997280813742
+    second: Jaga_Spritesheet8x7_18
+  - first:
+      213: -8465169575758253872
+    second: Jaga_Spritesheet8x7_19
+  - first:
+      213: 1862924100552124110
+    second: Jaga_Spritesheet8x7_20
+  - first:
+      213: 4070792405159445370
+    second: Jaga_Spritesheet8x7_21
+  - first:
+      213: -2811202232256633014
+    second: Jaga_Spritesheet8x7_22
+  - first:
+      213: -4300018947680681891
+    second: Jaga_Spritesheet8x7_23
+  - first:
+      213: 5098538605713923352
+    second: Jaga_Spritesheet8x7_24
+  - first:
+      213: 5801553982320225663
+    second: Jaga_Spritesheet8x7_25
+  - first:
+      213: 8480340774201651908
+    second: Jaga_Spritesheet8x7_26
+  - first:
+      213: -7330993597168517768
+    second: Jaga_Spritesheet8x7_27
+  - first:
+      213: 5097258699937893219
+    second: Jaga_Spritesheet8x7_28
+  - first:
+      213: 464029264510459485
+    second: Jaga_Spritesheet8x7_29
+  - first:
+      213: -7993527645670289885
+    second: Jaga_Spritesheet8x7_30
+  - first:
+      213: 7786989021543003755
+    second: Jaga_Spritesheet8x7_31
+  - first:
+      213: -6908996198096475539
+    second: Jaga_Spritesheet8x7_32
+  - first:
+      213: -4794063369938934332
+    second: Jaga_Spritesheet8x7_33
+  - first:
+      213: 1080342196508196279
+    second: Jaga_Spritesheet8x7_34
+  - first:
+      213: 5947074581660838309
+    second: Jaga_Spritesheet8x7_35
+  - first:
+      213: 2098918141603782411
+    second: Jaga_Spritesheet8x7_36
+  - first:
+      213: 4661379726147654423
+    second: Jaga_Spritesheet8x7_37
+  - first:
+      213: -1907557856729737147
+    second: Jaga_Spritesheet8x7_38
+  - first:
+      213: 6306230128483131827
+    second: Jaga_Spritesheet8x7_39
+  - first:
+      213: -6724444498298580039
+    second: Jaga_Spritesheet8x7_40
+  - first:
+      213: 2286483342881980425
+    second: Jaga_Spritesheet8x7_41
+  - first:
+      213: -3626885636445039971
+    second: Jaga_Spritesheet8x7_42
+  - first:
+      213: 1752742312094302346
+    second: Jaga_Spritesheet8x7_43
+  - first:
+      213: 2162910915628652782
+    second: Jaga_Spritesheet8x7_44
+  - first:
+      213: 8862585413164965963
+    second: Jaga_Spritesheet8x7_45
+  - first:
+      213: 1197290573676393289
+    second: Jaga_Spritesheet8x7_46
+  - first:
+      213: -5343908755879665962
+    second: Jaga_Spritesheet8x7_47
+  - first:
+      213: 7444877209954461501
+    second: Jaga_Spritesheet8x7_48
+  - first:
+      213: -8888667572367848552
+    second: Jaga_Spritesheet8x7_49
+  - first:
+      213: -7720692226151224875
+    second: Jaga_Spritesheet8x7_50
+  - first:
+      213: -2942212401775212239
+    second: Jaga_Spritesheet8x7_51
+  - first:
+      213: -4193578152318901114
+    second: Jaga_Spritesheet8x7_52
+  - first:
+      213: 6649495866767684509
+    second: Jaga_Spritesheet8x7_53
+  - first:
+      213: -6574272592119924725
+    second: Jaga_Spritesheet8x7_54
+  - first:
+      213: 1339202904251553908
+    second: Jaga_Spritesheet8x7_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2226
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de48e4e68b97a10800000000000000
+      internalID: 1907758701071363442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2226
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11159202e11cc00800000000000000
+      internalID: 919048922441257467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2226
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9a595411750940800000000000000
+      internalID: 5261736071864687551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2226
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb27fd888239b90800000000000000
+      internalID: -7236395607924753311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2226
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad59d62cf7de00f0800000000000000
+      internalID: -1148743376949387870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2226
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a07f0835ae0c200800000000000000
+      internalID: 198416027971160579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_6
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2226
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82309276d852e2e0800000000000000
+      internalID: -2098016798332931443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_7
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2226
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3c4ac487ed6d70800000000000000
+      internalID: 9038134584718146820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e44b3387ac57c3e0800000000000000
+      internalID: -2033554832203496220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1855
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86af4c3199197820800000000000000
+      internalID: 2916390345271912079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1855
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4cad81589adafb0800000000000000
+      internalID: -4634862052381637395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1855
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413db239b3fd5690800000000000000
+      internalID: -7611659818440511166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_12
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1855
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45176daae437318d0800000000000000
+      internalID: -2876828955248791212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1855
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5862295ed0271130800000000000000
+      internalID: 3537332171673069658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_14
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1855
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6cd20073e982c0800000000000000
+      internalID: -4428758688318329549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_15
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1855
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59437622372707e70800000000000000
+      internalID: 9110907884994507925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1484
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507cebd1302f29ec0800000000000000
+      internalID: -3561518260098775291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1484
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47451f7650be87f0800000000000000
+      internalID: -608355014102661297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1484
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5c85aa52e5f3a0800000000000000
+      internalID: -6632145997280813742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1484
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03c790f1da58a80800000000000000
+      internalID: -8465169575758253872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1484
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66ce8699f6ad910800000000000000
+      internalID: 1862924100552124110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_21
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1484
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7303efdf1c5e7830800000000000000
+      internalID: 4070792405159445370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_22
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1484
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ee82d67a9cf8d0800000000000000
+      internalID: -2811202232256633014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_23
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1484
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504b00bc834354c0800000000000000
+      internalID: -4300018947680681891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1113
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d913349d5a1c640800000000000000
+      internalID: 5098538605713923352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1113
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d2375eb92438050800000000000000
+      internalID: 5801553982320225663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1113
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2fc8cd00930b570800000000000000
+      internalID: 8480340774201651908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1113
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7b162a24134a90800000000000000
+      internalID: -7330993597168517768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1113
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b411af7c91db640800000000000000
+      internalID: 5097258699937893219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_29
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1113
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e18845820907600800000000000000
+      internalID: 464029264510459485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_30
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1113
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ece8135f8411190800000000000000
+      internalID: -7993527645670289885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_31
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1113
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ffe20241f01c60800000000000000
+      internalID: 7786989021543003755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a6fe130905e10a0800000000000000
+      internalID: -6908996198096475539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 742
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e31cd3c0187db0800000000000000
+      internalID: -4794063369938934332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 742
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd7cbaf0852efe00800000000000000
+      internalID: 1080342196508196279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 742
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a926a4b2d0488250800000000000000
+      internalID: 5947074581660838309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_36
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 742
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9ae2edead02d10800000000000000
+      internalID: 2098918141603782411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_37
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 742
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131d34f92c80b040800000000000000
+      internalID: 4661379726147654423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_38
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 742
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5485e196c3ef685e0800000000000000
+      internalID: -1907557856729737147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_39
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 742
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b16a18d3ea348750800000000000000
+      internalID: 6306230128483131827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3551f3b59fda2a0800000000000000
+      internalID: -6724444498298580039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 371
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900045d6c783bbf10800000000000000
+      internalID: 2286483342881980425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 371
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d921abecab6baadc0800000000000000
+      internalID: -3626885636445039971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_43
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 371
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a808d2fa8ddf25810800000000000000
+      internalID: 1752742312094302346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 371
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee85cd6a404340e10800000000000000
+      internalID: 2162910915628652782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_45
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 371
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a14f2a7a3efa70800000000000000
+      internalID: 8862585413164965963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_46
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 371
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b7e8ee61ad9010800000000000000
+      internalID: 1197290573676393289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_47
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 371
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de51bdbc4f96d5b0800000000000000
+      internalID: -5343908755879665962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37acb7b064815760800000000000000
+      internalID: 7444877209954461501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0b76efeb15a480800000000000000
+      internalID: -8888667572367848552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e22883579ad490800000000000000
+      internalID: -7720692226151224875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139807ab8692b27d0800000000000000
+      internalID: -2942212401775212239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_52
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684613593ea6dc5c0800000000000000
+      internalID: -4193578152318901114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_53
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93bd12a241c74c50800000000000000
+      internalID: 6649495866767684509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_54
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08fa12d8ed73c4a0800000000000000
+      internalID: -6574272592119924725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaga_Spritesheet8x7_55
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 0
+        width: 208
+        height: 371
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478d51e22fdc59210800000000000000
+      internalID: 1339202904251553908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

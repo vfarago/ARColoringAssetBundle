@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 950371879
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hodung
+      Dependencies: {}
+    Info_1:
+      Name: kaegyul
+      Dependencies: {}
+    Info_2:
+      Name: checkki
+      Dependencies: {}
+    Info_3:
+      Name: coloring
+      Dependencies: {}

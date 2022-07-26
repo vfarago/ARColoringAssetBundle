@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 909382786
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58ee2d0e8e67d307bce9121d61a1836f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27cb9f48bc7ea9e1fd5bc7d9b4a78ad4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/SpriteModels/10_kaedung_c.prefab
+- Assets/SpriteModels/07_muyul_c.prefab
+- Assets/SpriteModels/05_sangtui_c.prefab
+- Assets/SpriteModels/08_kaeil_c.prefab
+- Assets/SpriteModels/19_jongful_c.prefab
+- Assets/SpriteModels/18_yuful_c.prefab
+- Assets/SpriteModels/09_kaena_c.prefab
+- Assets/SpriteModels/16_jaki_c.prefab
+- Assets/SpriteModels/14_checkga_c.prefab
+- Assets/SpriteModels/15_eungga_c.prefab
+- Assets/SpriteModels/11_kaeryoong_c.prefab
+- Assets/SpriteModels/01_muddle_c.prefab
+- Assets/SpriteModels/04_nazzo_c.prefab
+- Assets/SpriteModels/03_youla_c.prefab
+- Assets/SpriteModels/20_byunung_c.prefab
+- Assets/SpriteModels/13_jaga_c.prefab
+- Assets/SpriteModels/06_mugyul_c.prefab
+- Assets/SpriteModels/12_hoga_c.prefab
+- Assets/SpriteModels/02_wagle_c.prefab
+- Assets/SpriteModels/17_tamki_c.prefab
+Dependencies: []

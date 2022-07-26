@@ -1,0 +1,1601 @@
+fileFormatVersion: 2
+guid: 04d51a2234d308044a7e69e2631341e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8303192523771036814
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_0
+  - first:
+      213: -3385348773094974119
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_1
+  - first:
+      213: 99916033404149704
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_2
+  - first:
+      213: 6587101793762581961
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_3
+  - first:
+      213: -5941581844463034569
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_4
+  - first:
+      213: -9128651064069499552
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_5
+  - first:
+      213: 2838223662906498626
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_6
+  - first:
+      213: -8585378921025888984
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_7
+  - first:
+      213: 3821518748758004409
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_8
+  - first:
+      213: -1756843690615975001
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_9
+  - first:
+      213: 1924603264463463693
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_10
+  - first:
+      213: 1006370814057866702
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_11
+  - first:
+      213: 2066767626217688959
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_12
+  - first:
+      213: -3195758860876811962
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_13
+  - first:
+      213: -8868724139908143161
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_14
+  - first:
+      213: 3455878358374958237
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_15
+  - first:
+      213: -7106151498552648122
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_16
+  - first:
+      213: 7492914041245693731
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_17
+  - first:
+      213: 2451316682992454056
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_18
+  - first:
+      213: 637447524019185719
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_19
+  - first:
+      213: 5874518381710698325
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_20
+  - first:
+      213: 4069250080579815518
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_21
+  - first:
+      213: 6043623739247354278
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_22
+  - first:
+      213: 490314152195140276
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_23
+  - first:
+      213: 6475288939899523610
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_24
+  - first:
+      213: -5082592610693939883
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_25
+  - first:
+      213: 6946476443882390629
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_26
+  - first:
+      213: -3969128110289023040
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_27
+  - first:
+      213: -8555676563663091228
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_28
+  - first:
+      213: -5901914048780642180
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_29
+  - first:
+      213: 616782772559291070
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_30
+  - first:
+      213: -4552123553911265574
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_31
+  - first:
+      213: 7117983106315401234
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_32
+  - first:
+      213: 3902679051677675283
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_33
+  - first:
+      213: 8930407798212623823
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_34
+  - first:
+      213: -966489379596197408
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_35
+  - first:
+      213: 6349863936482853363
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_36
+  - first:
+      213: -2541696630681110336
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_37
+  - first:
+      213: 4130355088885370042
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_38
+  - first:
+      213: 2965780433411937530
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_39
+  - first:
+      213: -2609147574204149055
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_40
+  - first:
+      213: 140908825727079069
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_41
+  - first:
+      213: -3713280390341985540
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_42
+  - first:
+      213: 6804612970943931694
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_43
+  - first:
+      213: 3322524034219809125
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_44
+  - first:
+      213: 6198776098865686913
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_45
+  - first:
+      213: 8600801356209178630
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_46
+  - first:
+      213: 1678042569770713534
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_47
+  - first:
+      213: -966956523835648160
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_48
+  - first:
+      213: 2852232081680337770
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_49
+  - first:
+      213: 812265513847614823
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_50
+  - first:
+      213: -7279661281818265339
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_51
+  - first:
+      213: 955513989703717755
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_52
+  - first:
+      213: 4910990400876921622
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_53
+  - first:
+      213: 3348581408306300116
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_54
+  - first:
+      213: -1046489684793995173
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_0
+  - first:
+      213: -8063512489935694550
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_1
+  - first:
+      213: 9087582994380172347
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_2
+  - first:
+      213: -3155635515094385275
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_3
+  - first:
+      213: 4441574386599317692
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_4
+  - first:
+      213: 1389484556606310902
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_5
+  - first:
+      213: 5422496877443271894
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_6
+  - first:
+      213: 8508123917811709701
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_7
+  - first:
+      213: -4222229535955105736
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_8
+  - first:
+      213: 1271093522621866504
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_9
+  - first:
+      213: -1293685744495519117
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_10
+  - first:
+      213: 8635357817774816569
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_11
+  - first:
+      213: 7749233301399657770
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_12
+  - first:
+      213: -1768475556452618315
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_13
+  - first:
+      213: -2500854289119493867
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_14
+  - first:
+      213: -4418161870825688
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_15
+  - first:
+      213: -216055487389344196
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_16
+  - first:
+      213: 8873356695123298937
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_17
+  - first:
+      213: 633267872139409628
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_18
+  - first:
+      213: 1603282513152697357
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_19
+  - first:
+      213: 8835467092029969717
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_20
+  - first:
+      213: -5361689945160088312
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_21
+  - first:
+      213: 1275708151962064491
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_22
+  - first:
+      213: -4331621356331802643
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_23
+  - first:
+      213: 479026923359923945
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_24
+  - first:
+      213: 7376968856178262402
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_25
+  - first:
+      213: 288526227508962577
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_26
+  - first:
+      213: -919577461391405851
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_27
+  - first:
+      213: 3753968091575860986
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_28
+  - first:
+      213: -8860701972499405109
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_29
+  - first:
+      213: 4299430810762651502
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_30
+  - first:
+      213: 9137176831470281642
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_31
+  - first:
+      213: -6958742977543322844
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_32
+  - first:
+      213: 4877611350503218767
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_33
+  - first:
+      213: 5363751022817945394
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_34
+  - first:
+      213: -7765918477307821131
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_35
+  - first:
+      213: 5632404638782734874
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_36
+  - first:
+      213: 7818484374093418459
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_37
+  - first:
+      213: -3186819908744536241
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_38
+  - first:
+      213: -584802303302831441
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_39
+  - first:
+      213: -8087568542067042885
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_40
+  - first:
+      213: 1028475381884101136
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_41
+  - first:
+      213: -4936581398194361581
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_42
+  - first:
+      213: -8608165225910212183
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_43
+  - first:
+      213: 5685341072083146611
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_44
+  - first:
+      213: -8992078315699163621
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_45
+  - first:
+      213: -7794896277265102946
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_46
+  - first:
+      213: -7204032751758462780
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_47
+  - first:
+      213: -8294401786861808493
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_48
+  - first:
+      213: -635498490301307837
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_49
+  - first:
+      213: 3581210944202223404
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_50
+  - first:
+      213: -6065507176300581440
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_51
+  - first:
+      213: -752537564007962250
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_52
+  - first:
+      213: 2423050612107210075
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_53
+  - first:
+      213: 8035993283993762282
+    second: Muddle_sprite_340_440_55fr_Spritesheet8x7_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b505ebc1d2f1a71f0800000000000000
+      internalID: -1046489684793995173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2640
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25157bdc16a81090800000000000000
+      internalID: -8063512489935694550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2640
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c29e6d5949d1e70800000000000000
+      internalID: 9087582994380172347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2640
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3132e73ee434d0800000000000000
+      internalID: -3155635515094385275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2640
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d9b44f54a3ad30800000000000000
+      internalID: 4441574386599317692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2640
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f90969a7d0784310800000000000000
+      internalID: 1389484556606310902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2640
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dccbaf2e24904b40800000000000000
+      internalID: 5422496877443271894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_7
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2640
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507fb2210ade21670800000000000000
+      internalID: 8508123917811709701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838cb3d7b90a765c0800000000000000
+      internalID: -4222229535955105736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2200
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8022d2403d4d3a110800000000000000
+      internalID: 1271093522621866504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2200
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a9b5c6ba7eb0ee0800000000000000
+      internalID: -1293685744495519117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2200
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d3cd4ee24f6d770800000000000000
+      internalID: 8635357817774816569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2200
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ddd8361aeca8b60800000000000000
+      internalID: 7749233301399657770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2200
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2ea7e9dc1577e0800000000000000
+      internalID: -1768475556452618315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2200
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511450e264e2b4dd0800000000000000
+      internalID: -2500854289119493867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_15
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2200
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827112784bd40fff0800000000000000
+      internalID: -4418161870825688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e526ecdaa600df0800000000000000
+      internalID: -216055487389344196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1760
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a8822b6ee742b70800000000000000
+      internalID: 8873356695123298937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1760
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8798646c1d9c800800000000000000
+      internalID: 633267872139409628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_19
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1760
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04ef0f73f0004610800000000000000
+      internalID: 1603282513152697357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_20
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1760
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53599150282ed9a70800000000000000
+      internalID: 8835467092029969717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_21
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1760
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80503fef6637795b0800000000000000
+      internalID: -5361689945160088312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_22
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1760
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d4c22ec934b110800000000000000
+      internalID: 1275708151962064491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_23
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1760
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd85a835df2e3c0800000000000000
+      internalID: -4331621356331802643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee67b4e278d5a600800000000000000
+      internalID: 479026923359923945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1320
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28100aff612406660800000000000000
+      internalID: 7376968856178262402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1320
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152e03431d010400800000000000000
+      internalID: 288526227508962577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1320
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec4f46cb210d33f0800000000000000
+      internalID: -919577461391405851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1320
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb7840716c81430800000000000000
+      internalID: 3753968091575860986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_29
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1320
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e1948086780580800000000000000
+      internalID: -8860701972499405109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_30
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1320
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67a0e30b85aaab30800000000000000
+      internalID: 4299430810762651502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_31
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1320
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa327b9dae5cdce70800000000000000
+      internalID: 9137176831470281642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423494481249d6f90800000000000000
+      internalID: -6958742977543322844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 880
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e582b3ea1c0b340800000000000000
+      internalID: 4877611350503218767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_34
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 880
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a3ba032fdf6a40800000000000000
+      internalID: 5363751022817945394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_35
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 880
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3cc6d5a4ae93490800000000000000
+      internalID: -7765918477307821131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_36
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 880
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1248ed5d225a2e40800000000000000
+      internalID: 5632404638782734874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 880
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfc7c73d16d08c60800000000000000
+      internalID: 7818484374093418459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_38
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 880
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f93207d2426c3d0800000000000000
+      internalID: -3186819908744536241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_39
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 880
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2fdcf476d52e7f0800000000000000
+      internalID: -584802303302831441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55871c24f23cf80800000000000000
+      internalID: -8087568542067042885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 440
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012af6529e0e54e00800000000000000
+      internalID: 1028475381884101136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_42
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 440
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be2db9f5dbd7bb0800000000000000
+      internalID: -4936581398194361581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_43
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 440
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a960c5c557a98880800000000000000
+      internalID: -8608165225910212183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_44
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 440
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3775474359366ee40800000000000000
+      internalID: 5685341072083146611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_45
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 440
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e2248f968b53380800000000000000
+      internalID: -8992078315699163621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_46
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 440
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97499c8227f2d390800000000000000
+      internalID: -7794896277265102946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_47
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 440
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c038218162260c90800000000000000
+      internalID: -7204032751758462780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3949cbd358d54ec80800000000000000
+      internalID: -8294401786861808493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3442b467d714e27f0800000000000000
+      internalID: -635498490301307837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2ae2316403b130800000000000000
+      internalID: 3581210944202223404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_51
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd650e0c5df2dba0800000000000000
+      internalID: -6065507176300581440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_52
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ea2992137e85f0800000000000000
+      internalID: -752537564007962250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_53
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d617f91b760a120800000000000000
+      internalID: 2423050612107210075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muddle_sprite_340_440_55fr_Spritesheet8x7_54
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 340
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae97fd5b055958f60800000000000000
+      internalID: 8035993283993762282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

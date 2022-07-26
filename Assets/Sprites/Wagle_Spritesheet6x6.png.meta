@@ -1,0 +1,1034 @@
+fileFormatVersion: 2
+guid: 2f4c99036be20584784ad4099e03b97d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3345898530307392275
+    second: Wagle_Spritesheet6x6_0
+  - first:
+      213: 3162098510737805438
+    second: Wagle_Spritesheet6x6_1
+  - first:
+      213: 2141635979795076136
+    second: Wagle_Spritesheet6x6_2
+  - first:
+      213: 8820598485980987004
+    second: Wagle_Spritesheet6x6_3
+  - first:
+      213: 6442733227871910821
+    second: Wagle_Spritesheet6x6_4
+  - first:
+      213: 8210133238225152452
+    second: Wagle_Spritesheet6x6_5
+  - first:
+      213: 3736156689017257567
+    second: Wagle_Spritesheet6x6_6
+  - first:
+      213: 3716403615161763929
+    second: Wagle_Spritesheet6x6_7
+  - first:
+      213: -4374543451754897367
+    second: Wagle_Spritesheet6x6_8
+  - first:
+      213: -307394177525723977
+    second: Wagle_Spritesheet6x6_9
+  - first:
+      213: -7085306692363802476
+    second: Wagle_Spritesheet6x6_10
+  - first:
+      213: 6378851545976426920
+    second: Wagle_Spritesheet6x6_11
+  - first:
+      213: -8465597970702633560
+    second: Wagle_Spritesheet6x6_12
+  - first:
+      213: -5852494681463833195
+    second: Wagle_Spritesheet6x6_13
+  - first:
+      213: -2655028169195677842
+    second: Wagle_Spritesheet6x6_14
+  - first:
+      213: -7493515166861939325
+    second: Wagle_Spritesheet6x6_15
+  - first:
+      213: -3758497846391603854
+    second: Wagle_Spritesheet6x6_16
+  - first:
+      213: 5515778387779395540
+    second: Wagle_Spritesheet6x6_17
+  - first:
+      213: -20615955380990610
+    second: Wagle_Spritesheet6x6_18
+  - first:
+      213: -81517871799207029
+    second: Wagle_Spritesheet6x6_19
+  - first:
+      213: 5225170028644028387
+    second: Wagle_Spritesheet6x6_20
+  - first:
+      213: -2772124755711278330
+    second: Wagle_Spritesheet6x6_21
+  - first:
+      213: 1563450376807943560
+    second: Wagle_Spritesheet6x6_22
+  - first:
+      213: 6759302056042939674
+    second: Wagle_Spritesheet6x6_23
+  - first:
+      213: 9011735835371373914
+    second: Wagle_Spritesheet6x6_24
+  - first:
+      213: -1442028924589625823
+    second: Wagle_Spritesheet6x6_25
+  - first:
+      213: 2934630651866235421
+    second: Wagle_Spritesheet6x6_26
+  - first:
+      213: 8473604717608391733
+    second: Wagle_Spritesheet6x6_27
+  - first:
+      213: -2518958409179193038
+    second: Wagle_Spritesheet6x6_28
+  - first:
+      213: -8407239061806435104
+    second: Wagle_Spritesheet6x6_29
+  - first:
+      213: -4461025403832226634
+    second: Wagle_Spritesheet6x6_30
+  - first:
+      213: -7803471751842389138
+    second: Wagle_Spritesheet6x6_31
+  - first:
+      213: -3681854469044099382
+    second: Wagle_Spritesheet6x6_32
+  - first:
+      213: -7302001253479719424
+    second: Wagle_Spritesheet6x6_33
+  - first:
+      213: -5111918641619748271
+    second: Wagle_Spritesheet6x6_0
+  - first:
+      213: -5736369280924395384
+    second: Wagle_Spritesheet6x6_1
+  - first:
+      213: 5054878137782807892
+    second: Wagle_Spritesheet6x6_2
+  - first:
+      213: -6548269402166831180
+    second: Wagle_Spritesheet6x6_3
+  - first:
+      213: -3561193142491132259
+    second: Wagle_Spritesheet6x6_4
+  - first:
+      213: -5693207355856057760
+    second: Wagle_Spritesheet6x6_5
+  - first:
+      213: -7751474434088178628
+    second: Wagle_Spritesheet6x6_6
+  - first:
+      213: -7973170620295689344
+    second: Wagle_Spritesheet6x6_7
+  - first:
+      213: 3847522335798449179
+    second: Wagle_Spritesheet6x6_8
+  - first:
+      213: 3438439606866043806
+    second: Wagle_Spritesheet6x6_9
+  - first:
+      213: 9205056257596156717
+    second: Wagle_Spritesheet6x6_10
+  - first:
+      213: -985753171331592085
+    second: Wagle_Spritesheet6x6_11
+  - first:
+      213: 8296381189788905890
+    second: Wagle_Spritesheet6x6_12
+  - first:
+      213: 4580202535577437298
+    second: Wagle_Spritesheet6x6_13
+  - first:
+      213: -1714864556230939747
+    second: Wagle_Spritesheet6x6_14
+  - first:
+      213: 8824053000642038423
+    second: Wagle_Spritesheet6x6_15
+  - first:
+      213: -4187391173110387282
+    second: Wagle_Spritesheet6x6_16
+  - first:
+      213: -2394522979668643092
+    second: Wagle_Spritesheet6x6_17
+  - first:
+      213: 5099612944333260807
+    second: Wagle_Spritesheet6x6_18
+  - first:
+      213: -2851445084633435815
+    second: Wagle_Spritesheet6x6_19
+  - first:
+      213: -7909415634352186040
+    second: Wagle_Spritesheet6x6_20
+  - first:
+      213: 6105734061249744156
+    second: Wagle_Spritesheet6x6_21
+  - first:
+      213: 6939243752838842343
+    second: Wagle_Spritesheet6x6_22
+  - first:
+      213: -7153513358569557456
+    second: Wagle_Spritesheet6x6_23
+  - first:
+      213: -4160384129751503135
+    second: Wagle_Spritesheet6x6_24
+  - first:
+      213: 7183771740474870022
+    second: Wagle_Spritesheet6x6_25
+  - first:
+      213: -6407941779052684606
+    second: Wagle_Spritesheet6x6_26
+  - first:
+      213: 2148005235639951835
+    second: Wagle_Spritesheet6x6_27
+  - first:
+      213: 4749772856137474928
+    second: Wagle_Spritesheet6x6_28
+  - first:
+      213: 2703837621656134971
+    second: Wagle_Spritesheet6x6_29
+  - first:
+      213: -8709805315209738267
+    second: Wagle_Spritesheet6x6_30
+  - first:
+      213: -7660768347663284089
+    second: Wagle_Spritesheet6x6_31
+  - first:
+      213: 8246384771387868771
+    second: Wagle_Spritesheet6x6_32
+  - first:
+      213: 7180638651610918272
+    second: Wagle_Spritesheet6x6_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2850
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15abe8d5411de09b0800000000000000
+      internalID: -5111918641619748271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2850
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d90618825460b0800000000000000
+      internalID: -5736369280924395384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2850
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dae6962e8862640800000000000000
+      internalID: 5054878137782807892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_3
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2850
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b759464cafdf15a0800000000000000
+      internalID: -6548269402166831180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2850
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e424574b9149ec0800000000000000
+      internalID: -3561193142491132259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_5
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2850
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a0f81e21aadf0b0800000000000000
+      internalID: -5693207355856057760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce6ae321b3d6490800000000000000
+      internalID: -7751474434088178628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2280
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bc1b3809b995190800000000000000
+      internalID: -7973170620295689344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_8
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2280
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14d5aaed25256530800000000000000
+      internalID: 3847522335798449179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_9
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 2280
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9362e4da9ac7bf20800000000000000
+      internalID: 3438439606866043806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_10
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2280
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b618355edeebf70800000000000000
+      internalID: 9205056257596156717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_11
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2280
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60d092a6b6e152f0800000000000000
+      internalID: -985753171331592085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1b99a6cbaa22370800000000000000
+      internalID: 8296381189788905890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1710
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274cf6c60f5209f30800000000000000
+      internalID: 4580202535577437298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1710
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b62f795c39338e0800000000000000
+      internalID: -1714864556230939747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_15
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1710
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a0d76c375557a70800000000000000
+      internalID: 8824053000642038423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_16
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1710
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead262fe9e563e5c0800000000000000
+      internalID: -4187391173110387282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_17
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1710
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce237566902f4ced0800000000000000
+      internalID: -2394522979668643092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c7f634f675c640800000000000000
+      internalID: 5099612944333260807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_19
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1140
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951f3e99dc1ad68d0800000000000000
+      internalID: -2851445084633435815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_20
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1140
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d548de26c1c3290800000000000000
+      internalID: -7909415634352186040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_21
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1140
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d4bc577ccebb450800000000000000
+      internalID: 6105734061249744156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_22
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1140
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7cec17d652d4060800000000000000
+      internalID: 6939243752838842343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_23
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1140
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0323376508d99bc90800000000000000
+      internalID: -7153513358569557456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee2df83da85346c0800000000000000
+      internalID: -4160384129751503135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_25
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 570
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098e723652e1b360800000000000000
+      internalID: 7183771740474870022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_26
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 570
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca1e2617ea6217a0800000000000000
+      internalID: -6407941779052684606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_27
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 570
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1aff5916f3fcd10800000000000000
+      internalID: 2148005235639951835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_28
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 570
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073eddd4f359ae140800000000000000
+      internalID: 4749772856137474928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_29
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 570
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a629cdf5f58520800000000000000
+      internalID: 2703837621656134971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e74d1c563e802780800000000000000
+      internalID: -8709805315209738267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78849fab6cb7fa590800000000000000
+      internalID: -7660768347663284089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_32
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366c3c3224b017270800000000000000
+      internalID: 8246384771387868771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wagle_Spritesheet6x6_33
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 542
+        height: 570
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d65b91fc0c6a360800000000000000
+      internalID: 7180638651610918272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

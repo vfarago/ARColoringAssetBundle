@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: c78fc2fa24dfd1944b2a5d075f5b8cb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6512848363159118004
+    second: Byuneng_Spritesheet8x8_0
+  - first:
+      213: 8668201034345147684
+    second: Byuneng_Spritesheet8x8_1
+  - first:
+      213: 2761126632605918522
+    second: Byuneng_Spritesheet8x8_2
+  - first:
+      213: 8148470030882822546
+    second: Byuneng_Spritesheet8x8_3
+  - first:
+      213: -1049488843568781071
+    second: Byuneng_Spritesheet8x8_4
+  - first:
+      213: 6497426127375900284
+    second: Byuneng_Spritesheet8x8_5
+  - first:
+      213: 3397701717654212240
+    second: Byuneng_Spritesheet8x8_6
+  - first:
+      213: 5659007650263380811
+    second: Byuneng_Spritesheet8x8_7
+  - first:
+      213: 1755733172434330933
+    second: Byuneng_Spritesheet8x8_8
+  - first:
+      213: 5822798324367063798
+    second: Byuneng_Spritesheet8x8_9
+  - first:
+      213: 7961139900108596534
+    second: Byuneng_Spritesheet8x8_10
+  - first:
+      213: 1745288789726040594
+    second: Byuneng_Spritesheet8x8_11
+  - first:
+      213: 455951089258893525
+    second: Byuneng_Spritesheet8x8_12
+  - first:
+      213: -5731976912371791658
+    second: Byuneng_Spritesheet8x8_13
+  - first:
+      213: 1042177476488788904
+    second: Byuneng_Spritesheet8x8_14
+  - first:
+      213: 8745149070124788705
+    second: Byuneng_Spritesheet8x8_15
+  - first:
+      213: -6035790433310930727
+    second: Byuneng_Spritesheet8x8_16
+  - first:
+      213: -1114031227372271539
+    second: Byuneng_Spritesheet8x8_17
+  - first:
+      213: -3648451311213443695
+    second: Byuneng_Spritesheet8x8_18
+  - first:
+      213: 6486120029093303863
+    second: Byuneng_Spritesheet8x8_19
+  - first:
+      213: -6208499395795997431
+    second: Byuneng_Spritesheet8x8_20
+  - first:
+      213: -6002289252195613239
+    second: Byuneng_Spritesheet8x8_21
+  - first:
+      213: 4484167285424161248
+    second: Byuneng_Spritesheet8x8_22
+  - first:
+      213: 1924541800759673140
+    second: Byuneng_Spritesheet8x8_23
+  - first:
+      213: -1616560069846912902
+    second: Byuneng_Spritesheet8x8_24
+  - first:
+      213: -6315299943527764306
+    second: Byuneng_Spritesheet8x8_25
+  - first:
+      213: 214893623382326758
+    second: Byuneng_Spritesheet8x8_26
+  - first:
+      213: 3500862606333644830
+    second: Byuneng_Spritesheet8x8_27
+  - first:
+      213: -1169127241249449197
+    second: Byuneng_Spritesheet8x8_28
+  - first:
+      213: -3229175155592539471
+    second: Byuneng_Spritesheet8x8_29
+  - first:
+      213: 1503808746664353896
+    second: Byuneng_Spritesheet8x8_30
+  - first:
+      213: 1737445442091623503
+    second: Byuneng_Spritesheet8x8_31
+  - first:
+      213: -3245641772419283936
+    second: Byuneng_Spritesheet8x8_32
+  - first:
+      213: 3318916831398264572
+    second: Byuneng_Spritesheet8x8_33
+  - first:
+      213: -8961812060530800191
+    second: Byuneng_Spritesheet8x8_34
+  - first:
+      213: 6700484636395039870
+    second: Byuneng_Spritesheet8x8_35
+  - first:
+      213: 3830042533548236840
+    second: Byuneng_Spritesheet8x8_36
+  - first:
+      213: -5033350839589221413
+    second: Byuneng_Spritesheet8x8_37
+  - first:
+      213: -3582096210442371923
+    second: Byuneng_Spritesheet8x8_38
+  - first:
+      213: -612338357683533122
+    second: Byuneng_Spritesheet8x8_39
+  - first:
+      213: 5534953869945965630
+    second: Byuneng_Spritesheet8x8_40
+  - first:
+      213: 3516206442457253420
+    second: Byuneng_Spritesheet8x8_41
+  - first:
+      213: 3686020706608221015
+    second: Byuneng_Spritesheet8x8_42
+  - first:
+      213: 8390566767744709458
+    second: Byuneng_Spritesheet8x8_43
+  - first:
+      213: -8471024657032188797
+    second: Byuneng_Spritesheet8x8_44
+  - first:
+      213: 4096579547101882701
+    second: Byuneng_Spritesheet8x8_45
+  - first:
+      213: -4269588448334005524
+    second: Byuneng_Spritesheet8x8_46
+  - first:
+      213: -1880953643101487836
+    second: Byuneng_Spritesheet8x8_47
+  - first:
+      213: 1683713030450984744
+    second: Byuneng_Spritesheet8x8_48
+  - first:
+      213: 2684157127155364825
+    second: Byuneng_Spritesheet8x8_49
+  - first:
+      213: -8564043582358827801
+    second: Byuneng_Spritesheet8x8_50
+  - first:
+      213: 4433232240800128292
+    second: Byuneng_Spritesheet8x8_51
+  - first:
+      213: 1361874063378733171
+    second: Byuneng_Spritesheet8x8_52
+  - first:
+      213: 8500890466486278056
+    second: Byuneng_Spritesheet8x8_53
+  - first:
+      213: 6143063522787208494
+    second: Byuneng_Spritesheet8x8_54
+  - first:
+      213: -8514046022079927600
+    second: Byuneng_Spritesheet8x8_55
+  - first:
+      213: -5106511268579389112
+    second: Byuneng_Spritesheet8x8_56
+  - first:
+      213: -4744083459249728974
+    second: Byuneng_Spritesheet8x8_57
+  - first:
+      213: -4002059201427982834
+    second: Byuneng_Spritesheet8x8_58
+  - first:
+      213: -1235103746779180204
+    second: Byuneng_Spritesheet8x8_59
+  - first:
+      213: -7483160093566752171
+    second: Byuneng_Spritesheet8x8_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0651a6419426a50800000000000000
+      internalID: 6512848363159118004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42de0d52ae2ab4870800000000000000
+      internalID: 8668201034345147684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a8541b0e715620800000000000000
+      internalID: 2761126632605918522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299dfa5125e251170800000000000000
+      internalID: 8148470030882822546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_4
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8e85b05777f61f0800000000000000
+      internalID: -1049488843568781071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_5
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e159453ae7b2a50800000000000000
+      internalID: 6497426127375900284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_6
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e838dd5bf072f20800000000000000
+      internalID: 3397701717654212240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_7
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ba27a975d88e40800000000000000
+      internalID: 5659007650263380811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535615f940e9d5810800000000000000
+      internalID: 1755733172434330933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa73aab93cbec050800000000000000
+      internalID: 5822798324367063798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63569292f86ab7e60800000000000000
+      internalID: 7961139900108596534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_11
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212971648e2883810800000000000000
+      internalID: 1745288789726040594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d09a36991dd35600800000000000000
+      internalID: 455951089258893525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_13
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c6551e5de370b0800000000000000
+      internalID: -5731976912371791658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_14
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abf607a4ee867e00800000000000000
+      internalID: 1042177476488788904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_15
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb20a8deb20d5970800000000000000
+      internalID: 8745149070124788705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d80dc374909c3ca0800000000000000
+      internalID: -6035790433310930727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2000
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4888c7408a2a80f0800000000000000
+      internalID: -1114031227372271539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2000
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19580dedcd81e5dc0800000000000000
+      internalID: -3648451311213443695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2000
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73617a03dc3530a50800000000000000
+      internalID: 6486120029093303863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2000
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d2a5d81baf6d9a0800000000000000
+      internalID: -6208499395795997431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_21
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2000
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c54cb30ab593bca0800000000000000
+      internalID: -6002289252195613239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_22
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2000
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e182215366fa3e30800000000000000
+      internalID: 4484167285424161248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_23
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2000
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431cba5329855ba10800000000000000
+      internalID: 1924541800759673140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b1be6e23d099e0800000000000000
+      internalID: -1616560069846912902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1600
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeabf7492c8b58a0800000000000000
+      internalID: -6315299943527764306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1600
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed3336ac947bf200800000000000000
+      internalID: 214893623382326758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_27
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1600
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1017f9fdff859030800000000000000
+      internalID: 3500862606333644830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1600
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1818e7fc66cfe0800000000000000
+      internalID: -1169127241249449197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_29
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1600
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d36d0e4aaf23d0800000000000000
+      internalID: -3229175155592539471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_30
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1600
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860ed0b661a9ed410800000000000000
+      internalID: 1503808746664353896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_31
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1600
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f442e789c65ac1810800000000000000
+      internalID: 1737445442091623503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02487ce010a25f2d0800000000000000
+      internalID: -3245641772419283936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1200
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfefe8616492f0e20800000000000000
+      internalID: 3318916831398264572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1200
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c90044a96f31a380800000000000000
+      internalID: -8961812060530800191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_35
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1200
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce94fa647ecfc50800000000000000
+      internalID: 6700484636395039870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_36
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a7ce446b072530800000000000000
+      internalID: 3830042533548236840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_37
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1200
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbce584412f52ab0800000000000000
+      internalID: -5033350839589221413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1200
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac3f41b976d94ec0800000000000000
+      internalID: -3582096210442371923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_39
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1200
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4deb02898087f0800000000000000
+      internalID: -612338357683533122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c8d42283b10dc40800000000000000
+      internalID: 5534953869945965630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26ca9731231cc030800000000000000
+      internalID: 3516206442457253420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_42
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b0e14ad40672330800000000000000
+      internalID: 3686020706608221015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_43
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253fe972508417470800000000000000
+      internalID: 8390566767744709458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c6502b4ffd07a80800000000000000
+      internalID: -8471024657032188797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_45
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49632bb469f9d830800000000000000
+      internalID: 4096579547101882701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_46
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceab0ff6def5fb4c0800000000000000
+      internalID: -4269588448334005524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_47
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 800
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d75f790a285e5e0800000000000000
+      internalID: -1880953643101487836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8273abb9410cd5710800000000000000
+      internalID: 1683713030450984744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3bd659faa004520800000000000000
+      internalID: 2684157127155364825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_50
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc9807cb7662980800000000000000
+      internalID: -8564043582358827801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_51
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d53b71c31068d30800000000000000
+      internalID: 4433232240800128292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_52
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d180ce3956e210800000000000000
+      internalID: 1361874063378733171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_53
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a75b61f6da39f570800000000000000
+      internalID: 8500890466486278056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_54
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d24640abb804550800000000000000
+      internalID: 6143063522787208494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_55
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 400
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da2994904808d980800000000000000
+      internalID: -8514046022079927600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841dbc28e070229b0800000000000000
+      internalID: -5106511268579389112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_57
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2321d92aa31a92eb0800000000000000
+      internalID: -4744083459249728974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e063dc03c54d578c0800000000000000
+      internalID: -4002059201427982834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_59
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4531978afa70cdee0800000000000000
+      internalID: -1235103746779180204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Byuneng_Spritesheet8x8_60
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 540
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2399da89762890800000000000000
+      internalID: -7483160093566752171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f9b81b80242e0284399b0d98adfde0a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1556 @@
+fileFormatVersion: 2
+guid: 4bc75984a083a8143ac40e00486b88ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8888541419493007525
+    second: Jongful_Spritesheet8x8 (1)_0
+  - first:
+      213: 8784074996948351485
+    second: Jongful_Spritesheet8x8 (1)_1
+  - first:
+      213: 4496948629618513060
+    second: Jongful_Spritesheet8x8 (1)_2
+  - first:
+      213: 2368037196543545394
+    second: Jongful_Spritesheet8x8 (1)_3
+  - first:
+      213: -3840851480211781708
+    second: Jongful_Spritesheet8x8 (1)_4
+  - first:
+      213: -774546857602301963
+    second: Jongful_Spritesheet8x8 (1)_5
+  - first:
+      213: -2744724589528064279
+    second: Jongful_Spritesheet8x8 (1)_6
+  - first:
+      213: 6798151032991313097
+    second: Jongful_Spritesheet8x8 (1)_7
+  - first:
+      213: 8667069876569988299
+    second: Jongful_Spritesheet8x8 (1)_8
+  - first:
+      213: 4988491712134085099
+    second: Jongful_Spritesheet8x8 (1)_9
+  - first:
+      213: 3717315327135684402
+    second: Jongful_Spritesheet8x8 (1)_10
+  - first:
+      213: 2604418919649679793
+    second: Jongful_Spritesheet8x8 (1)_11
+  - first:
+      213: -1367722115146644674
+    second: Jongful_Spritesheet8x8 (1)_12
+  - first:
+      213: 8438667622208988112
+    second: Jongful_Spritesheet8x8 (1)_13
+  - first:
+      213: 1229943211652488937
+    second: Jongful_Spritesheet8x8 (1)_14
+  - first:
+      213: 114313173282671993
+    second: Jongful_Spritesheet8x8 (1)_15
+  - first:
+      213: -5790285901516375042
+    second: Jongful_Spritesheet8x8 (1)_16
+  - first:
+      213: -946021117919685461
+    second: Jongful_Spritesheet8x8 (1)_17
+  - first:
+      213: 3233502720471962915
+    second: Jongful_Spritesheet8x8 (1)_18
+  - first:
+      213: 1279702905225490360
+    second: Jongful_Spritesheet8x8 (1)_19
+  - first:
+      213: 8923720154455313653
+    second: Jongful_Spritesheet8x8 (1)_20
+  - first:
+      213: 5429722467341733123
+    second: Jongful_Spritesheet8x8 (1)_21
+  - first:
+      213: 5794724182200835618
+    second: Jongful_Spritesheet8x8 (1)_22
+  - first:
+      213: 6856914143285644389
+    second: Jongful_Spritesheet8x8 (1)_23
+  - first:
+      213: -3585516118122043122
+    second: Jongful_Spritesheet8x8 (1)_24
+  - first:
+      213: -1324892916119099163
+    second: Jongful_Spritesheet8x8 (1)_25
+  - first:
+      213: 9082733273692031906
+    second: Jongful_Spritesheet8x8 (1)_26
+  - first:
+      213: 8807740920587722497
+    second: Jongful_Spritesheet8x8 (1)_27
+  - first:
+      213: 5564102081411387067
+    second: Jongful_Spritesheet8x8 (1)_28
+  - first:
+      213: 5549123579784093386
+    second: Jongful_Spritesheet8x8 (1)_29
+  - first:
+      213: -3814287474885633388
+    second: Jongful_Spritesheet8x8 (1)_30
+  - first:
+      213: -7710513855427043462
+    second: Jongful_Spritesheet8x8 (1)_31
+  - first:
+      213: -7438062247905970562
+    second: Jongful_Spritesheet8x8 (1)_32
+  - first:
+      213: -959537716401583164
+    second: Jongful_Spritesheet8x8 (1)_33
+  - first:
+      213: 4834110385892872641
+    second: Jongful_Spritesheet8x8 (1)_34
+  - first:
+      213: -6765261404630096259
+    second: Jongful_Spritesheet8x8 (1)_35
+  - first:
+      213: 1084781935515640861
+    second: Jongful_Spritesheet8x8 (1)_36
+  - first:
+      213: -8005078075992623449
+    second: Jongful_Spritesheet8x8 (1)_37
+  - first:
+      213: 669015198118586875
+    second: Jongful_Spritesheet8x8 (1)_38
+  - first:
+      213: -79794259535671054
+    second: Jongful_Spritesheet8x8 (1)_39
+  - first:
+      213: 3908444617559836372
+    second: Jongful_Spritesheet8x8 (1)_40
+  - first:
+      213: 3969597016653752318
+    second: Jongful_Spritesheet8x8 (1)_41
+  - first:
+      213: 6390151587818140418
+    second: Jongful_Spritesheet8x8 (1)_42
+  - first:
+      213: -507462285081889658
+    second: Jongful_Spritesheet8x8 (1)_43
+  - first:
+      213: 5074860181712396451
+    second: Jongful_Spritesheet8x8 (1)_44
+  - first:
+      213: -1092830076281259865
+    second: Jongful_Spritesheet8x8 (1)_45
+  - first:
+      213: 9171338292340471396
+    second: Jongful_Spritesheet8x8 (1)_46
+  - first:
+      213: 5802911288065273349
+    second: Jongful_Spritesheet8x8 (1)_47
+  - first:
+      213: -9021520375746029427
+    second: Jongful_Spritesheet8x8 (1)_48
+  - first:
+      213: 859924194469244100
+    second: Jongful_Spritesheet8x8 (1)_49
+  - first:
+      213: -7027294632143453693
+    second: Jongful_Spritesheet8x8 (1)_50
+  - first:
+      213: -5377817557963056495
+    second: Jongful_Spritesheet8x8 (1)_51
+  - first:
+      213: 8199517911726609064
+    second: Jongful_Spritesheet8x8 (1)_52
+  - first:
+      213: -895537963633265686
+    second: Jongful_Spritesheet8x8 (1)_53
+  - first:
+      213: -290097165692313544
+    second: Jongful_Spritesheet8x8 (1)_54
+  - first:
+      213: 3119113563903950143
+    second: Jongful_Spritesheet8x8 (1)_55
+  - first:
+      213: -8299277718464451551
+    second: Jongful_Spritesheet8x8 (1)_56
+  - first:
+      213: -7026930714662157680
+    second: Jongful_Spritesheet8x8 (1)_57
+  - first:
+      213: 3740448735330710595
+    second: Jongful_Spritesheet8x8 (1)_58
+  - first:
+      213: 6996857193768191420
+    second: Jongful_Spritesheet8x8 (1)_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fd5c72cae85a480800000000000000
+      internalID: -8888541419493007525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3150
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df93f717bad47e970800000000000000
+      internalID: 8784074996948351485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3150
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a45799e3fe586e30800000000000000
+      internalID: 4496948629618513060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3150
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230d3eaa845fcd020800000000000000
+      internalID: 2368037196543545394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3150
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b781feaded82bac0800000000000000
+      internalID: -3840851480211781708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3150
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff38ba9cb14045f0800000000000000
+      internalID: -774546857602301963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3150
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee56ea2787c8e9d0800000000000000
+      internalID: -2744724589528064279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3150
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cce6eaa852e75e50800000000000000
+      internalID: 6798151032991313097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc5174f12e974870800000000000000
+      internalID: 8667069876569988299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2700
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97bb238ceaa3540800000000000000
+      internalID: 4988491712134085099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2700
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2379908489e869330800000000000000
+      internalID: 3717315327135684402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2700
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b996086531c42420800000000000000
+      internalID: 2604418919649679793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2700
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e330d379bffd40de0800000000000000
+      internalID: -1367722115146644674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2700
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36b5f0e7b2c1570800000000000000
+      internalID: 8438667622208988112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2700
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee1370a5d2a11110800000000000000
+      internalID: 1229943211652488937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2700
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d49a6b93f169100800000000000000
+      internalID: 114313173282671993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbf92c96a5c4afa0800000000000000
+      internalID: -5790285901516375042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2250
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba411643ece0fd2f0800000000000000
+      internalID: -946021117919685461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2250
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259df9a795bfdc20800000000000000
+      internalID: 3233502720471962915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2250
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf200c130b62c110800000000000000
+      internalID: 1279702905225490360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2250
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc8d49533c67db70800000000000000
+      internalID: 8923720154455313653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2250
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8cdee0df3a5b40800000000000000
+      internalID: 5429722467341733123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2250
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e527321fefa6050800000000000000
+      internalID: 5794724182200835618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2250
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c84e57517a82f50800000000000000
+      internalID: 6856914143285644389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e5e26610bd3ec0800000000000000
+      internalID: -3585516118122043122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1800
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e82a4199e80d9de0800000000000000
+      internalID: -1324892916119099163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1800
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc8004ac95c0e70800000000000000
+      internalID: 9082733273692031906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1800
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9d4da3b16b3a70800000000000000
+      internalID: 8807740920587722497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1800
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8988fc59a73d40800000000000000
+      internalID: 5564102081411387067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1800
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace56cbce72720d40800000000000000
+      internalID: 5549123579784093386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1800
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a583420cde01bc0800000000000000
+      internalID: -3814287474885633388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1800
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f1b832080cef490800000000000000
+      internalID: -7710513855427043462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7632584bc1b6c890800000000000000
+      internalID: -7438062247905970562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1350
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4b41e7890fa2f0800000000000000
+      internalID: -959537716401583164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1350
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1db24a8c5361340800000000000000
+      internalID: 4834110385892872641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1350
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ec5ca896fc12a0800000000000000
+      internalID: -6765261404630096259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1350
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ab254c6bed0f00800000000000000
+      internalID: 1084781935515640861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1350
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6313117ef38e090800000000000000
+      internalID: -8005078075992623449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1350
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9223137c1d84900800000000000000
+      internalID: 669015198118586875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1350
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0d2413b8384eef0800000000000000
+      internalID: -79794259535671054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d601fdfba59d3630800000000000000
+      internalID: 3908444617559836372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 900
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e81f6477d61730800000000000000
+      internalID: 3969597016653752318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 900
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037ccc33016ea850800000000000000
+      internalID: 6390151587818140418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 900
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68439c88db125f8f0800000000000000
+      internalID: -507462285081889658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 900
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0edbf82768d6640800000000000000
+      internalID: 5074860181712396451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 900
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8746fe5dc75d0f0800000000000000
+      internalID: -1092830076281259865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 900
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46634e5c593274f70800000000000000
+      internalID: 9171338292340471396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 900
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e2c344215188050800000000000000
+      internalID: 5802911288065273349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8895bd240f1dc280800000000000000
+      internalID: -9021520375746029427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 450
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc6a11bf701feb00800000000000000
+      internalID: 859924194469244100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 450
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3028417a3c80a7e90800000000000000
+      internalID: -7027294632143453693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 450
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad0c68c672e55b0800000000000000
+      internalID: -5377817557963056495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 450
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2dae9091a8ac170800000000000000
+      internalID: 8199517911726609064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 450
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae333c287f86293f0800000000000000
+      internalID: -895537963633265686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 450
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830ef803a2e59fbf0800000000000000
+      internalID: -290097165692313544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 450
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3df896b241594b20800000000000000
+      internalID: 3119113563903950143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cac92f2ea03dc80800000000000000
+      internalID: -8299277718464451551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092c74bceb35b7e90800000000000000
+      internalID: -7026930714662157680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34432f99e4eb8e330800000000000000
+      internalID: 3740448735330710595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jongful_Spritesheet8x8 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb580bafb84d91160800000000000000
+      internalID: 6996857193768191420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7f140695d27eb0646ad7861a2665423a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

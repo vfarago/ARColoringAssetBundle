@@ -1,0 +1,2438 @@
+fileFormatVersion: 2
+guid: dd40392fae857114ba242398194a603e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9150812488751667803
+    second: Kaena_002_Spritesheet10x9_0
+  - first:
+      213: 5316537379973311454
+    second: Kaena_002_Spritesheet10x9_1
+  - first:
+      213: 8701183788476980589
+    second: Kaena_002_Spritesheet10x9_2
+  - first:
+      213: -6062919030905749147
+    second: Kaena_002_Spritesheet10x9_3
+  - first:
+      213: -3312800212105604232
+    second: Kaena_002_Spritesheet10x9_4
+  - first:
+      213: -1521432128312100963
+    second: Kaena_002_Spritesheet10x9_5
+  - first:
+      213: 2922105469092237307
+    second: Kaena_002_Spritesheet10x9_6
+  - first:
+      213: 6908521471264156170
+    second: Kaena_002_Spritesheet10x9_7
+  - first:
+      213: 7014044466378296758
+    second: Kaena_002_Spritesheet10x9_8
+  - first:
+      213: -7760292756416480031
+    second: Kaena_002_Spritesheet10x9_9
+  - first:
+      213: 3707347040149364334
+    second: Kaena_002_Spritesheet10x9_10
+  - first:
+      213: 7530647659843471686
+    second: Kaena_002_Spritesheet10x9_11
+  - first:
+      213: -7494854471675352453
+    second: Kaena_002_Spritesheet10x9_12
+  - first:
+      213: 7113141172699866092
+    second: Kaena_002_Spritesheet10x9_13
+  - first:
+      213: -3389684791907007623
+    second: Kaena_002_Spritesheet10x9_14
+  - first:
+      213: 7688136264293730440
+    second: Kaena_002_Spritesheet10x9_15
+  - first:
+      213: -7041734269748715132
+    second: Kaena_002_Spritesheet10x9_16
+  - first:
+      213: -1039783503243219973
+    second: Kaena_002_Spritesheet10x9_17
+  - first:
+      213: -7370630427874714334
+    second: Kaena_002_Spritesheet10x9_18
+  - first:
+      213: -450620810572094117
+    second: Kaena_002_Spritesheet10x9_19
+  - first:
+      213: -6314048061695913881
+    second: Kaena_002_Spritesheet10x9_20
+  - first:
+      213: -1050328587064861744
+    second: Kaena_002_Spritesheet10x9_21
+  - first:
+      213: 2813508096852483019
+    second: Kaena_002_Spritesheet10x9_22
+  - first:
+      213: 8339904301958794685
+    second: Kaena_002_Spritesheet10x9_23
+  - first:
+      213: 2412064096613448695
+    second: Kaena_002_Spritesheet10x9_24
+  - first:
+      213: -8048880824387968490
+    second: Kaena_002_Spritesheet10x9_25
+  - first:
+      213: 3453764699763017469
+    second: Kaena_002_Spritesheet10x9_26
+  - first:
+      213: 2044372650273671980
+    second: Kaena_002_Spritesheet10x9_27
+  - first:
+      213: -7281560292531796202
+    second: Kaena_002_Spritesheet10x9_28
+  - first:
+      213: 441563967804291261
+    second: Kaena_002_Spritesheet10x9_29
+  - first:
+      213: 5922956371328125828
+    second: Kaena_002_Spritesheet10x9_30
+  - first:
+      213: 49180056222065431
+    second: Kaena_002_Spritesheet10x9_31
+  - first:
+      213: -6368721546203968029
+    second: Kaena_002_Spritesheet10x9_32
+  - first:
+      213: -4525599998190793860
+    second: Kaena_002_Spritesheet10x9_33
+  - first:
+      213: -7173553381863391752
+    second: Kaena_002_Spritesheet10x9_34
+  - first:
+      213: -8059521277015025621
+    second: Kaena_002_Spritesheet10x9_35
+  - first:
+      213: 1023673215291645802
+    second: Kaena_002_Spritesheet10x9_36
+  - first:
+      213: -2595778316375379976
+    second: Kaena_002_Spritesheet10x9_37
+  - first:
+      213: 8477913072145342650
+    second: Kaena_002_Spritesheet10x9_38
+  - first:
+      213: -5730743914811012517
+    second: Kaena_002_Spritesheet10x9_39
+  - first:
+      213: 2327446102874962492
+    second: Kaena_002_Spritesheet10x9_40
+  - first:
+      213: 2853753099527401106
+    second: Kaena_002_Spritesheet10x9_41
+  - first:
+      213: -4124752023756025636
+    second: Kaena_002_Spritesheet10x9_42
+  - first:
+      213: -5947695262274733983
+    second: Kaena_002_Spritesheet10x9_43
+  - first:
+      213: 99125539145758424
+    second: Kaena_002_Spritesheet10x9_44
+  - first:
+      213: 3657914842161386941
+    second: Kaena_002_Spritesheet10x9_45
+  - first:
+      213: -8817603045730729011
+    second: Kaena_002_Spritesheet10x9_46
+  - first:
+      213: -50428666916689189
+    second: Kaena_002_Spritesheet10x9_47
+  - first:
+      213: -3728205955206968923
+    second: Kaena_002_Spritesheet10x9_48
+  - first:
+      213: -2388648503925862421
+    second: Kaena_002_Spritesheet10x9_49
+  - first:
+      213: -1962288983352785165
+    second: Kaena_002_Spritesheet10x9_50
+  - first:
+      213: -7157479354856370703
+    second: Kaena_002_Spritesheet10x9_51
+  - first:
+      213: 2331961645810005823
+    second: Kaena_002_Spritesheet10x9_52
+  - first:
+      213: -2645351580068276310
+    second: Kaena_002_Spritesheet10x9_53
+  - first:
+      213: 5614992577219668890
+    second: Kaena_002_Spritesheet10x9_54
+  - first:
+      213: 3463772159985597531
+    second: Kaena_002_Spritesheet10x9_55
+  - first:
+      213: 3260765480786390858
+    second: Kaena_002_Spritesheet10x9_56
+  - first:
+      213: -641331692492389091
+    second: Kaena_002_Spritesheet10x9_57
+  - first:
+      213: 3423974501322532332
+    second: Kaena_002_Spritesheet10x9_58
+  - first:
+      213: 8435867604316337020
+    second: Kaena_002_Spritesheet10x9_59
+  - first:
+      213: -8408056016572250958
+    second: Kaena_002_Spritesheet10x9_60
+  - first:
+      213: 8586035399133666099
+    second: Kaena_002_Spritesheet10x9_61
+  - first:
+      213: 6480323930631899820
+    second: Kaena_002_Spritesheet10x9_62
+  - first:
+      213: -346630006898184836
+    second: Kaena_002_Spritesheet10x9_63
+  - first:
+      213: 8670036128652143426
+    second: Kaena_002_Spritesheet10x9_64
+  - first:
+      213: -5673647391527717242
+    second: Kaena_002_Spritesheet10x9_65
+  - first:
+      213: -4283879525442830509
+    second: Kaena_002_Spritesheet10x9_66
+  - first:
+      213: 3365364908056068980
+    second: Kaena_002_Spritesheet10x9_67
+  - first:
+      213: 3187605863027589282
+    second: Kaena_002_Spritesheet10x9_68
+  - first:
+      213: 4000269688191066244
+    second: Kaena_002_Spritesheet10x9_69
+  - first:
+      213: -7481591603160609809
+    second: Kaena_002_Spritesheet10x9_70
+  - first:
+      213: 3870681727160130717
+    second: Kaena_002_Spritesheet10x9_71
+  - first:
+      213: -7931666713869675095
+    second: Kaena_002_Spritesheet10x9_72
+  - first:
+      213: 2657465401313024532
+    second: Kaena_002_Spritesheet10x9_73
+  - first:
+      213: 3672257046260853572
+    second: Kaena_002_Spritesheet10x9_74
+  - first:
+      213: -7659376472667213018
+    second: Kaena_002_Spritesheet10x9_75
+  - first:
+      213: 2853147886401479613
+    second: Kaena_002_Spritesheet10x9_76
+  - first:
+      213: 931082975581783619
+    second: Kaena_002_Spritesheet10x9_77
+  - first:
+      213: -1413453043542309499
+    second: Kaena_002_Spritesheet10x9_78
+  - first:
+      213: 4203635346287741547
+    second: Kaena_002_Spritesheet10x9_79
+  - first:
+      213: 6604403958386663152
+    second: Kaena_002_Spritesheet10x9_80
+  - first:
+      213: 2766357402470189845
+    second: Kaena_002_Spritesheet10x9_81
+  - first:
+      213: 2215612973219997971
+    second: Kaena_002_Spritesheet10x9_82
+  - first:
+      213: -8069289062625937127
+    second: Kaena_002_Spritesheet10x9_83
+  - first:
+      213: -7765757152412729359
+    second: Kaena_002_Spritesheet10x9_84
+  - first:
+      213: 3577587295255601809
+    second: Kaena_002_Spritesheet10x9_85
+  - first:
+      213: -7579189834425525667
+    second: Kaena_002_Spritesheet10x9_0
+  - first:
+      213: 4294244405970373232
+    second: Kaena_002_Spritesheet10x9_1
+  - first:
+      213: -9111923312337767966
+    second: Kaena_002_Spritesheet10x9_2
+  - first:
+      213: 6455271959254031067
+    second: Kaena_002_Spritesheet10x9_3
+  - first:
+      213: -313408136321793982
+    second: Kaena_002_Spritesheet10x9_4
+  - first:
+      213: 8549219513492609849
+    second: Kaena_002_Spritesheet10x9_5
+  - first:
+      213: -7428790812425981978
+    second: Kaena_002_Spritesheet10x9_6
+  - first:
+      213: 286980466958558598
+    second: Kaena_002_Spritesheet10x9_7
+  - first:
+      213: -2548969008859627837
+    second: Kaena_002_Spritesheet10x9_8
+  - first:
+      213: -6862851184518248471
+    second: Kaena_002_Spritesheet10x9_9
+  - first:
+      213: 8537826288024735167
+    second: Kaena_002_Spritesheet10x9_10
+  - first:
+      213: 6900317567235824668
+    second: Kaena_002_Spritesheet10x9_11
+  - first:
+      213: -7758582245158758874
+    second: Kaena_002_Spritesheet10x9_12
+  - first:
+      213: -1200378658763739444
+    second: Kaena_002_Spritesheet10x9_13
+  - first:
+      213: -9171973481816033710
+    second: Kaena_002_Spritesheet10x9_14
+  - first:
+      213: 8733823396493441050
+    second: Kaena_002_Spritesheet10x9_15
+  - first:
+      213: -5172470253478607903
+    second: Kaena_002_Spritesheet10x9_16
+  - first:
+      213: 6714701998889980803
+    second: Kaena_002_Spritesheet10x9_17
+  - first:
+      213: -7361782721198815532
+    second: Kaena_002_Spritesheet10x9_18
+  - first:
+      213: -7412240774253481489
+    second: Kaena_002_Spritesheet10x9_19
+  - first:
+      213: -8634597720250873343
+    second: Kaena_002_Spritesheet10x9_20
+  - first:
+      213: 4922546678559221444
+    second: Kaena_002_Spritesheet10x9_21
+  - first:
+      213: -8531767359414960137
+    second: Kaena_002_Spritesheet10x9_22
+  - first:
+      213: 4547560949961896608
+    second: Kaena_002_Spritesheet10x9_23
+  - first:
+      213: 864289095923054740
+    second: Kaena_002_Spritesheet10x9_24
+  - first:
+      213: 5941287038671563862
+    second: Kaena_002_Spritesheet10x9_25
+  - first:
+      213: -7782180425808052373
+    second: Kaena_002_Spritesheet10x9_26
+  - first:
+      213: 3290577349058729331
+    second: Kaena_002_Spritesheet10x9_27
+  - first:
+      213: -3812689484487344288
+    second: Kaena_002_Spritesheet10x9_28
+  - first:
+      213: -847688806789082275
+    second: Kaena_002_Spritesheet10x9_29
+  - first:
+      213: 3050572830107691643
+    second: Kaena_002_Spritesheet10x9_30
+  - first:
+      213: 6656130695823746264
+    second: Kaena_002_Spritesheet10x9_31
+  - first:
+      213: 5529422328305241024
+    second: Kaena_002_Spritesheet10x9_32
+  - first:
+      213: 2320033667157821027
+    second: Kaena_002_Spritesheet10x9_33
+  - first:
+      213: -536058853912933367
+    second: Kaena_002_Spritesheet10x9_34
+  - first:
+      213: 7766534484009941855
+    second: Kaena_002_Spritesheet10x9_35
+  - first:
+      213: 3477548451961946689
+    second: Kaena_002_Spritesheet10x9_36
+  - first:
+      213: 7235347610482774399
+    second: Kaena_002_Spritesheet10x9_37
+  - first:
+      213: 7523501784623877428
+    second: Kaena_002_Spritesheet10x9_38
+  - first:
+      213: 7934208830789460357
+    second: Kaena_002_Spritesheet10x9_39
+  - first:
+      213: 3265409930096878860
+    second: Kaena_002_Spritesheet10x9_40
+  - first:
+      213: -3268245232585820757
+    second: Kaena_002_Spritesheet10x9_41
+  - first:
+      213: 5504382486034964910
+    second: Kaena_002_Spritesheet10x9_42
+  - first:
+      213: -5433658731958141030
+    second: Kaena_002_Spritesheet10x9_43
+  - first:
+      213: 5770029614209992933
+    second: Kaena_002_Spritesheet10x9_44
+  - first:
+      213: -3306553941280127852
+    second: Kaena_002_Spritesheet10x9_45
+  - first:
+      213: -8782983806975258707
+    second: Kaena_002_Spritesheet10x9_46
+  - first:
+      213: 7141237470982900901
+    second: Kaena_002_Spritesheet10x9_47
+  - first:
+      213: -3426696615026361862
+    second: Kaena_002_Spritesheet10x9_48
+  - first:
+      213: 6101742274649334855
+    second: Kaena_002_Spritesheet10x9_49
+  - first:
+      213: -4863061176598719408
+    second: Kaena_002_Spritesheet10x9_50
+  - first:
+      213: 4169777815253549295
+    second: Kaena_002_Spritesheet10x9_51
+  - first:
+      213: 1595340129919494922
+    second: Kaena_002_Spritesheet10x9_52
+  - first:
+      213: 3220065630556798560
+    second: Kaena_002_Spritesheet10x9_53
+  - first:
+      213: 465027011813143441
+    second: Kaena_002_Spritesheet10x9_54
+  - first:
+      213: -6367380804485014355
+    second: Kaena_002_Spritesheet10x9_55
+  - first:
+      213: -244877642077113647
+    second: Kaena_002_Spritesheet10x9_56
+  - first:
+      213: -9015231674692031891
+    second: Kaena_002_Spritesheet10x9_57
+  - first:
+      213: -4511800144798642579
+    second: Kaena_002_Spritesheet10x9_58
+  - first:
+      213: -1588244257332492432
+    second: Kaena_002_Spritesheet10x9_59
+  - first:
+      213: 4206494039910327566
+    second: Kaena_002_Spritesheet10x9_60
+  - first:
+      213: -7420280720687428470
+    second: Kaena_002_Spritesheet10x9_61
+  - first:
+      213: -3740123853410753299
+    second: Kaena_002_Spritesheet10x9_62
+  - first:
+      213: -7996189754712745350
+    second: Kaena_002_Spritesheet10x9_63
+  - first:
+      213: -2086120510090346791
+    second: Kaena_002_Spritesheet10x9_64
+  - first:
+      213: -2902787588220932238
+    second: Kaena_002_Spritesheet10x9_65
+  - first:
+      213: -3914000576730316304
+    second: Kaena_002_Spritesheet10x9_66
+  - first:
+      213: 6559167273279912414
+    second: Kaena_002_Spritesheet10x9_67
+  - first:
+      213: 4052937830347638392
+    second: Kaena_002_Spritesheet10x9_68
+  - first:
+      213: 8546529910211168739
+    second: Kaena_002_Spritesheet10x9_69
+  - first:
+      213: -2659826614706895109
+    second: Kaena_002_Spritesheet10x9_70
+  - first:
+      213: 2425518332014220113
+    second: Kaena_002_Spritesheet10x9_71
+  - first:
+      213: -8618100071039730164
+    second: Kaena_002_Spritesheet10x9_72
+  - first:
+      213: 634965088169070126
+    second: Kaena_002_Spritesheet10x9_73
+  - first:
+      213: 8865034678929926980
+    second: Kaena_002_Spritesheet10x9_74
+  - first:
+      213: 1793699390413795402
+    second: Kaena_002_Spritesheet10x9_75
+  - first:
+      213: -8719201713517062886
+    second: Kaena_002_Spritesheet10x9_76
+  - first:
+      213: 8983770266563288736
+    second: Kaena_002_Spritesheet10x9_77
+  - first:
+      213: -8687765164961431954
+    second: Kaena_002_Spritesheet10x9_78
+  - first:
+      213: 1193479896409577813
+    second: Kaena_002_Spritesheet10x9_79
+  - first:
+      213: -1208272257828305692
+    second: Kaena_002_Spritesheet10x9_80
+  - first:
+      213: -5913598195872761782
+    second: Kaena_002_Spritesheet10x9_81
+  - first:
+      213: 2049564677086840592
+    second: Kaena_002_Spritesheet10x9_82
+  - first:
+      213: -4828648139050881906
+    second: Kaena_002_Spritesheet10x9_83
+  - first:
+      213: 2468254654957382916
+    second: Kaena_002_Spritesheet10x9_84
+  - first:
+      213: -3897809165552735768
+    second: Kaena_002_Spritesheet10x9_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a90d9700f41d690800000000000000
+      internalID: -7579189834425525667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a829c0988389b30800000000000000
+      internalID: 4294244405970373232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_2
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1b1834602fb8180800000000000000
+      internalID: -9111923312337767966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_3
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda50eb35abb59950800000000000000
+      internalID: 6455271959254031067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_4
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24082d4e5fc86abf0800000000000000
+      internalID: -313408136321793982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_5
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b90901adde4a670800000000000000
+      internalID: 8549219513492609849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_6
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe9a29d12a7e890800000000000000
+      internalID: -7428790812425981978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_7
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6856a86d63f8bf300800000000000000
+      internalID: 286980466958558598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_8
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3173013e30acd0800000000000000
+      internalID: -2548969008859627837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_9
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 3200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7cb68653142c0a0800000000000000
+      internalID: -6862851184518248471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc4bb06c37c7670800000000000000
+      internalID: 8537826288024735167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c9a78944ad2cf50800000000000000
+      internalID: 6900317567235824668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626d8a40e8af35490800000000000000
+      internalID: -7758582245158758874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_13
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6d6048f5675fe0800000000000000
+      internalID: -1200378658763739444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_14
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2567d07a6ba96b080800000000000000
+      internalID: -9171973481816033710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_15
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18bcf6fa16c43970800000000000000
+      internalID: 8733823396493441050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_16
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3022a95b1b738b0800000000000000
+      internalID: -5172470253478607903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_17
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383517854e96f2d50800000000000000
+      internalID: 6714701998889980803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_18
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d606559e91b5d990800000000000000
+      internalID: -7361782721198815532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_19
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 2800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe174fc994e622990800000000000000
+      internalID: -7412240774253481489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a8c0a1f1fbb2880800000000000000
+      internalID: -8634597720250873343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62dc59f16605440800000000000000
+      internalID: 4922546678559221444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff7cc33ac2199980800000000000000
+      internalID: -8531767359414960137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_23
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2bae8079e2c1f30800000000000000
+      internalID: 4547560949961896608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_24
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498bcb18a529efb00800000000000000
+      internalID: 864289095923054740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_25
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca6a85511b37250800000000000000
+      internalID: 5941287038671563862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_26
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f76bd6224200490800000000000000
+      internalID: -7782180425808052373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_27
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375979c2aaa7aad20800000000000000
+      internalID: 3290577349058729331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_28
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb3464d1b961bc0800000000000000
+      internalID: -3812689484487344288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_29
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 2400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53134f75876c34f0800000000000000
+      internalID: -847688806789082275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ae60c83dfc55a20800000000000000
+      internalID: 3050572830107691643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_31
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e5272a935f5c50800000000000000
+      internalID: 6656130695823746264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_32
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4fbbbf447cbc40800000000000000
+      internalID: 5529422328305241024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_33
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36683e5045a623020800000000000000
+      internalID: 2320033667157821027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_34
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c01d100598f88f0800000000000000
+      internalID: -536058853912933367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_35
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bfb3fd6f548cb60800000000000000
+      internalID: 7766534484009941855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_36
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142c66864ebb24030800000000000000
+      internalID: 3477548451961946689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_37
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f711c45315e196460800000000000000
+      internalID: 7235347610482774399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_38
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d068b0309d86860800000000000000
+      internalID: 7523501784623877428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_39
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 2000
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58129f4f4e8fb1e60800000000000000
+      internalID: 7934208830789460357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c052571d701115d20800000000000000
+      internalID: 3265409930096878860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_41
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5bbd0e64cd4a2d0800000000000000
+      internalID: -3268245232585820757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_42
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1eef325be736c40800000000000000
+      internalID: 5504382486034964910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_43
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f7fea0c24c794b0800000000000000
+      internalID: -5433658731958141030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_44
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8887afc53431050800000000000000
+      internalID: 5770029614209992933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_45
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494845395b2cc12d0800000000000000
+      internalID: -3306553941280127852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_46
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf4b3503c29c1680800000000000000
+      internalID: -8782983806975258707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_47
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac05aad4a5ca1360800000000000000
+      internalID: 7141237470982900901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_48
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f154859de170d0800000000000000
+      internalID: -3426696615026361862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_49
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1600
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7442577354ebda450800000000000000
+      internalID: 6101742274649334855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05417df10afe28cb0800000000000000
+      internalID: -4863061176598719408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_51
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe00e7e94d60ed930800000000000000
+      internalID: 4169777815253549295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_52
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0be6cb4569c32610800000000000000
+      internalID: 1595340129919494922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_53
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e38ce51a8ffac20800000000000000
+      internalID: 3220065630556798560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_54
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193751a7a9b147600800000000000000
+      internalID: 465027011813143441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_55
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac9707e4e482a7a0800000000000000
+      internalID: -6367380804485014355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_56
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2fe8af4150a9cf0800000000000000
+      internalID: -244877642077113647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_57
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa12e7e8673e280800000000000000
+      internalID: -9015231674692031891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_58
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e88bf3cadd261c0800000000000000
+      internalID: -4511800144798642579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_59
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1200
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0778429434c65f9e0800000000000000
+      internalID: -1588244257332492432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0527a6da08706a30800000000000000
+      internalID: 4206494039910327566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_61
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0fb5bffdd50990800000000000000
+      internalID: -7420280720687428470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_62
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ac7ddb29681cc0800000000000000
+      internalID: -3740123853410753299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_63
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a9ab1a8c3d70190800000000000000
+      internalID: -7996189754712745350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_64
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de7865e27c9c03e0800000000000000
+      internalID: -2086120510090346791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_65
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fada1711a37b7d0800000000000000
+      internalID: -2902787588220932238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_66
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c055763daea9c0800000000000000
+      internalID: -3914000576730316304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_67
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9773212e7d60b50800000000000000
+      internalID: 6559167273279912414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_68
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8760d9abb7dee3830800000000000000
+      internalID: 4052937830347638392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_69
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 800
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e943600caf5b9670800000000000000
+      internalID: 8546529910211168739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6044a49c5661bd0800000000000000
+      internalID: -2659826614706895109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d7ef621c29a120800000000000000
+      internalID: 2425518332014220113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_72
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e78e265ab566880800000000000000
+      internalID: -8618100071039730164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_73
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e871d2269dfc800800000000000000
+      internalID: 634965088169070126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_74
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b232f421ee60b70800000000000000
+      internalID: 8865034678929926980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_75
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f277971084e810800000000000000
+      internalID: 1793699390413795402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_76
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1596d4ec3c2ff680800000000000000
+      internalID: -8719201713517062886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_77
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae983a9573ccac70800000000000000
+      internalID: 8983770266563288736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_78
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef57abc9bde6780800000000000000
+      internalID: -8687765164961431954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_79
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 400
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559101874a7109010800000000000000
+      internalID: 1193479896409577813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e44f2088ca5b3fe0800000000000000
+      internalID: -1208272257828305692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_81
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48fc9eb5cdaeeda0800000000000000
+      internalID: -5913598195872761782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_82
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01703f9f634817c10800000000000000
+      internalID: 2049564677086840592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_83
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c658ec9123dfcb0800000000000000
+      internalID: -4828648139050881906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_84
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 0
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d60f30880014220800000000000000
+      internalID: 2468254654957382916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaena_002_Spritesheet10x9_85
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 0
+        width: 422
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a7f4273338e9c0800000000000000
+      internalID: -3897809165552735768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

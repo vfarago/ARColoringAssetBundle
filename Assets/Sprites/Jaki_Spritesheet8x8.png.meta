@@ -1,0 +1,1466 @@
+fileFormatVersion: 2
+guid: d58407f1586893a4d99bef2137bb913f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6394139711708329784
+    second: Jaki_Spritesheet8x8_0
+  - first:
+      213: -7955841808468433476
+    second: Jaki_Spritesheet8x8_1
+  - first:
+      213: 1078943943507061857
+    second: Jaki_Spritesheet8x8_2
+  - first:
+      213: -438034623397599899
+    second: Jaki_Spritesheet8x8_3
+  - first:
+      213: 7103521980949990499
+    second: Jaki_Spritesheet8x8_4
+  - first:
+      213: -5389463135558328040
+    second: Jaki_Spritesheet8x8_5
+  - first:
+      213: -2950322343838772910
+    second: Jaki_Spritesheet8x8_6
+  - first:
+      213: -916346259647227814
+    second: Jaki_Spritesheet8x8_7
+  - first:
+      213: 2716176652040697544
+    second: Jaki_Spritesheet8x8_8
+  - first:
+      213: -4714064076587021779
+    second: Jaki_Spritesheet8x8_9
+  - first:
+      213: -6081269570189823732
+    second: Jaki_Spritesheet8x8_10
+  - first:
+      213: -6790757613978542434
+    second: Jaki_Spritesheet8x8_11
+  - first:
+      213: -6935480899539304005
+    second: Jaki_Spritesheet8x8_12
+  - first:
+      213: 3718034488739767013
+    second: Jaki_Spritesheet8x8_13
+  - first:
+      213: -4374129828771565639
+    second: Jaki_Spritesheet8x8_14
+  - first:
+      213: 4935248311874960595
+    second: Jaki_Spritesheet8x8_15
+  - first:
+      213: 5945574998121742729
+    second: Jaki_Spritesheet8x8_16
+  - first:
+      213: -2029487111364250561
+    second: Jaki_Spritesheet8x8_17
+  - first:
+      213: -3503002489712429719
+    second: Jaki_Spritesheet8x8_18
+  - first:
+      213: 3828767627936032252
+    second: Jaki_Spritesheet8x8_19
+  - first:
+      213: 3513235175554293666
+    second: Jaki_Spritesheet8x8_20
+  - first:
+      213: 8678216817055115555
+    second: Jaki_Spritesheet8x8_21
+  - first:
+      213: 6166480872807839143
+    second: Jaki_Spritesheet8x8_22
+  - first:
+      213: 6801257939296061120
+    second: Jaki_Spritesheet8x8_23
+  - first:
+      213: 347179173905707767
+    second: Jaki_Spritesheet8x8_24
+  - first:
+      213: 4123902667922006441
+    second: Jaki_Spritesheet8x8_25
+  - first:
+      213: -4298694418405227773
+    second: Jaki_Spritesheet8x8_26
+  - first:
+      213: 1575527576826103505
+    second: Jaki_Spritesheet8x8_27
+  - first:
+      213: -6902299869813225859
+    second: Jaki_Spritesheet8x8_28
+  - first:
+      213: -3841961114747890389
+    second: Jaki_Spritesheet8x8_29
+  - first:
+      213: 3327264792785275772
+    second: Jaki_Spritesheet8x8_30
+  - first:
+      213: 2073928092536669772
+    second: Jaki_Spritesheet8x8_31
+  - first:
+      213: 5416458124578234646
+    second: Jaki_Spritesheet8x8_32
+  - first:
+      213: -240965561428036229
+    second: Jaki_Spritesheet8x8_33
+  - first:
+      213: 7108705657316048238
+    second: Jaki_Spritesheet8x8_34
+  - first:
+      213: 5818659872430480239
+    second: Jaki_Spritesheet8x8_35
+  - first:
+      213: 6209108320807685729
+    second: Jaki_Spritesheet8x8_36
+  - first:
+      213: 6438825063948585304
+    second: Jaki_Spritesheet8x8_37
+  - first:
+      213: 4538310197979560835
+    second: Jaki_Spritesheet8x8_38
+  - first:
+      213: -1695867373481006724
+    second: Jaki_Spritesheet8x8_39
+  - first:
+      213: 9222732550083129748
+    second: Jaki_Spritesheet8x8_40
+  - first:
+      213: 250715396431529850
+    second: Jaki_Spritesheet8x8_41
+  - first:
+      213: 5236968767154814239
+    second: Jaki_Spritesheet8x8_42
+  - first:
+      213: 8088796861046913398
+    second: Jaki_Spritesheet8x8_43
+  - first:
+      213: -4915225696823829111
+    second: Jaki_Spritesheet8x8_44
+  - first:
+      213: 4966495043477913748
+    second: Jaki_Spritesheet8x8_45
+  - first:
+      213: 5337254157422358502
+    second: Jaki_Spritesheet8x8_46
+  - first:
+      213: 2340847799302447496
+    second: Jaki_Spritesheet8x8_47
+  - first:
+      213: 1292977097241036874
+    second: Jaki_Spritesheet8x8_48
+  - first:
+      213: -3753339909397268624
+    second: Jaki_Spritesheet8x8_49
+  - first:
+      213: 4928733125842987945
+    second: Jaki_Spritesheet8x8_50
+  - first:
+      213: -4680685326981551281
+    second: Jaki_Spritesheet8x8_51
+  - first:
+      213: -8826923134612197464
+    second: Jaki_Spritesheet8x8_52
+  - first:
+      213: -1891450417617132773
+    second: Jaki_Spritesheet8x8_53
+  - first:
+      213: -2995727791954220852
+    second: Jaki_Spritesheet8x8_54
+  - first:
+      213: -7724854928544325551
+    second: Jaki_Spritesheet8x8_55
+  - first:
+      213: -5482654189543495060
+    second: Jaki_Spritesheet8x8_56
+  - first:
+      213: 4373637317887089361
+    second: Jaki_Spritesheet8x8_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da5d05d7f742bc30800000000000000
+      internalID: 4373637317887089361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5a90de60c279190800000000000000
+      internalID: -7955841808468433476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2c45dccd29fe00800000000000000
+      internalID: 1078943943507061857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5656011b4d9cbe9f0800000000000000
+      internalID: -438034623397599899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c04b80b97c49260800000000000000
+      internalID: 7103521980949990499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_5
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811abf235d7c435b0800000000000000
+      internalID: -5389463135558328040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_6
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2519792b5795e07d0800000000000000
+      internalID: -2950322343838772910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_7
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58187e8eeb7843f0800000000000000
+      internalID: -916346259647227814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6781c264cc1b520800000000000000
+      internalID: 2716176652040697544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2000
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ac992d2b7449eb0800000000000000
+      internalID: -4714064076587021779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2000
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01717dbb8dfa9ba0800000000000000
+      internalID: -6081269570189823732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_11
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2000
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e9707dde162c1a0800000000000000
+      internalID: -6790757613978542434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_12
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2000
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1047c1ed830cf90800000000000000
+      internalID: -6935480899539304005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_13
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2000
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e22cf32bac199330800000000000000
+      internalID: 3718034488739767013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_14
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2000
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf61aa8818fb43c0800000000000000
+      internalID: -4374129828771565639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_15
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2000
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc37ab01368d7440800000000000000
+      internalID: 4935248311874960595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818d74b5fce28250800000000000000
+      internalID: 5945574998121742729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1600
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3476e29930d5d3e0800000000000000
+      internalID: -2029487111364250561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1600
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b1699bc5d26fc0800000000000000
+      internalID: -3503002489712429719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1600
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf564a63fd3822530800000000000000
+      internalID: 3828767627936032252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_20
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1600
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af125b37c481c030800000000000000
+      internalID: 3513235175554293666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_21
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1600
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329246847383f6870800000000000000
+      internalID: 8678216817055115555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_22
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1600
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b3f1beadb39550800000000000000
+      internalID: 6166480872807839143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_23
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1600
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c60c89af0ce26e50800000000000000
+      internalID: 6801257939296061120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f230168e9d61d400800000000000000
+      internalID: 347179173905707767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1200
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e6c980ab0b3930800000000000000
+      internalID: 4123902667922006441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1200
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3038001b338f754c0800000000000000
+      internalID: -4298694418405227773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_27
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1200
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d64d8ecbf56dd510800000000000000
+      internalID: 1575527576826103505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_28
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1200
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ce8e96da1630a0800000000000000
+      internalID: -6902299869813225859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_29
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1200
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b259692c8bc9eaac0800000000000000
+      internalID: -3841961114747890389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_30
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b41af43b1dc2e20800000000000000
+      internalID: 3327264792785275772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_31
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1200
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c460a5dac9218cc10800000000000000
+      internalID: 2073928092536669772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a34877ff1b2b40800000000000000
+      internalID: 5416458124578234646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 800
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75bafb391be7acf0800000000000000
+      internalID: -240965561428036229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df12db12237a260800000000000000
+      internalID: 7108705657316048238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_35
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 800
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd90d435800c050800000000000000
+      internalID: 5818659872430480239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_36
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 800
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e0aa9de1f2b2650800000000000000
+      internalID: 6209108320807685729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_37
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 800
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598983084d4b5950800000000000000
+      internalID: 6438825063948585304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_38
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 800
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bba1f74115bfe30800000000000000
+      internalID: 4538310197979560835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_39
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 800
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c796d71eb911778e0800000000000000
+      internalID: -1695867373481006724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4913322e36abdff70800000000000000
+      internalID: 9222732550083129748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c5002358ba7300800000000000000
+      internalID: 250715396431529850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df31ad8537da840800000000000000
+      internalID: 5236968767154814239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679fefa83ed214070800000000000000
+      internalID: 8088796861046913398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_44
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d91fd454c99cbb0800000000000000
+      internalID: -4915225696823829111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_45
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4904d3dade88ce440800000000000000
+      internalID: 4966495043477913748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_46
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe221d06cb11a40800000000000000
+      internalID: 5337254157422358502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_47
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 400
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816daecbac5c7020800000000000000
+      internalID: 2340847799302447496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4884c7c1d391f110800000000000000
+      internalID: 1292977097241036874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077341b0d3579ebc0800000000000000
+      internalID: -3753339909397268624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_50
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab62961aa0666440800000000000000
+      internalID: 4928733125842987945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_51
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba1e39e7dda0fb0800000000000000
+      internalID: -4680685326981551281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af23c51d28708580800000000000000
+      internalID: -8826923134612197464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_53
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13aaa3ddd730c5e0800000000000000
+      internalID: -1891450417617132773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_54
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8adccf1790d66d0800000000000000
+      internalID: -2995727791954220852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jaki_Spritesheet8x8_55
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 350
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a0bade5dcbc490800000000000000
+      internalID: -7724854928544325551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

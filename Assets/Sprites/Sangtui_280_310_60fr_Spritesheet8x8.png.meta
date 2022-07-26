@@ -1,0 +1,1736 @@
+fileFormatVersion: 2
+guid: 74a58e19c2c00a9489ee8ab8bcd68529
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4785062586847768913
+    second: Sangtui_280_310_60fr_Spritesheet8x8_0
+  - first:
+      213: -995501751398040803
+    second: Sangtui_280_310_60fr_Spritesheet8x8_1
+  - first:
+      213: 6742266262737466951
+    second: Sangtui_280_310_60fr_Spritesheet8x8_2
+  - first:
+      213: 2605244908372761883
+    second: Sangtui_280_310_60fr_Spritesheet8x8_3
+  - first:
+      213: -4770714093899740575
+    second: Sangtui_280_310_60fr_Spritesheet8x8_4
+  - first:
+      213: -2507528957484267190
+    second: Sangtui_280_310_60fr_Spritesheet8x8_5
+  - first:
+      213: 4914388900046123458
+    second: Sangtui_280_310_60fr_Spritesheet8x8_6
+  - first:
+      213: -8608087738110648792
+    second: Sangtui_280_310_60fr_Spritesheet8x8_7
+  - first:
+      213: -3026614843282774817
+    second: Sangtui_280_310_60fr_Spritesheet8x8_8
+  - first:
+      213: -663894129375831959
+    second: Sangtui_280_310_60fr_Spritesheet8x8_9
+  - first:
+      213: 4423927500765041196
+    second: Sangtui_280_310_60fr_Spritesheet8x8_10
+  - first:
+      213: 6141941796834382096
+    second: Sangtui_280_310_60fr_Spritesheet8x8_11
+  - first:
+      213: 6108360950051611498
+    second: Sangtui_280_310_60fr_Spritesheet8x8_12
+  - first:
+      213: -3192179679536013289
+    second: Sangtui_280_310_60fr_Spritesheet8x8_13
+  - first:
+      213: -596058858114988240
+    second: Sangtui_280_310_60fr_Spritesheet8x8_14
+  - first:
+      213: -3000460091492931948
+    second: Sangtui_280_310_60fr_Spritesheet8x8_15
+  - first:
+      213: 3688202011168644021
+    second: Sangtui_280_310_60fr_Spritesheet8x8_16
+  - first:
+      213: -4791698771142511513
+    second: Sangtui_280_310_60fr_Spritesheet8x8_17
+  - first:
+      213: 664389027249483324
+    second: Sangtui_280_310_60fr_Spritesheet8x8_18
+  - first:
+      213: -5570706277475108867
+    second: Sangtui_280_310_60fr_Spritesheet8x8_19
+  - first:
+      213: -1404356402157569532
+    second: Sangtui_280_310_60fr_Spritesheet8x8_20
+  - first:
+      213: 4210097985090218915
+    second: Sangtui_280_310_60fr_Spritesheet8x8_21
+  - first:
+      213: -4149401387213306857
+    second: Sangtui_280_310_60fr_Spritesheet8x8_22
+  - first:
+      213: -5483382959663163496
+    second: Sangtui_280_310_60fr_Spritesheet8x8_23
+  - first:
+      213: -4911646833775614633
+    second: Sangtui_280_310_60fr_Spritesheet8x8_24
+  - first:
+      213: -7216319234373176927
+    second: Sangtui_280_310_60fr_Spritesheet8x8_25
+  - first:
+      213: -8501981868384833912
+    second: Sangtui_280_310_60fr_Spritesheet8x8_26
+  - first:
+      213: 2316378654893817738
+    second: Sangtui_280_310_60fr_Spritesheet8x8_27
+  - first:
+      213: -4753738001012429288
+    second: Sangtui_280_310_60fr_Spritesheet8x8_28
+  - first:
+      213: 2373015437041171022
+    second: Sangtui_280_310_60fr_Spritesheet8x8_29
+  - first:
+      213: -3329110755089827187
+    second: Sangtui_280_310_60fr_Spritesheet8x8_30
+  - first:
+      213: 815379881487016717
+    second: Sangtui_280_310_60fr_Spritesheet8x8_31
+  - first:
+      213: -5737741141321927293
+    second: Sangtui_280_310_60fr_Spritesheet8x8_32
+  - first:
+      213: -7130525720552259431
+    second: Sangtui_280_310_60fr_Spritesheet8x8_33
+  - first:
+      213: 7166306424816966043
+    second: Sangtui_280_310_60fr_Spritesheet8x8_34
+  - first:
+      213: 8884602599190006564
+    second: Sangtui_280_310_60fr_Spritesheet8x8_35
+  - first:
+      213: 1209459863931461438
+    second: Sangtui_280_310_60fr_Spritesheet8x8_36
+  - first:
+      213: -443879324144076753
+    second: Sangtui_280_310_60fr_Spritesheet8x8_37
+  - first:
+      213: -6638089788810576717
+    second: Sangtui_280_310_60fr_Spritesheet8x8_38
+  - first:
+      213: -4913665945959728405
+    second: Sangtui_280_310_60fr_Spritesheet8x8_39
+  - first:
+      213: -4873119686789935214
+    second: Sangtui_280_310_60fr_Spritesheet8x8_40
+  - first:
+      213: 877512157367294742
+    second: Sangtui_280_310_60fr_Spritesheet8x8_41
+  - first:
+      213: -3160938375237393181
+    second: Sangtui_280_310_60fr_Spritesheet8x8_42
+  - first:
+      213: -3082268792639862965
+    second: Sangtui_280_310_60fr_Spritesheet8x8_43
+  - first:
+      213: 6021434011478955053
+    second: Sangtui_280_310_60fr_Spritesheet8x8_44
+  - first:
+      213: -3494291812231801906
+    second: Sangtui_280_310_60fr_Spritesheet8x8_45
+  - first:
+      213: -8597568933701389041
+    second: Sangtui_280_310_60fr_Spritesheet8x8_46
+  - first:
+      213: -3540467087205398626
+    second: Sangtui_280_310_60fr_Spritesheet8x8_47
+  - first:
+      213: 2392478515195050765
+    second: Sangtui_280_310_60fr_Spritesheet8x8_48
+  - first:
+      213: 3743216571170128449
+    second: Sangtui_280_310_60fr_Spritesheet8x8_49
+  - first:
+      213: 252353761369062767
+    second: Sangtui_280_310_60fr_Spritesheet8x8_50
+  - first:
+      213: -2586944214346632868
+    second: Sangtui_280_310_60fr_Spritesheet8x8_51
+  - first:
+      213: 4366343829277428366
+    second: Sangtui_280_310_60fr_Spritesheet8x8_52
+  - first:
+      213: 6779453857858374960
+    second: Sangtui_280_310_60fr_Spritesheet8x8_53
+  - first:
+      213: -6777985515942443049
+    second: Sangtui_280_310_60fr_Spritesheet8x8_54
+  - first:
+      213: -3283790918033698756
+    second: Sangtui_280_310_60fr_Spritesheet8x8_55
+  - first:
+      213: 7577900899908331568
+    second: Sangtui_280_310_60fr_Spritesheet8x8_56
+  - first:
+      213: 7358917097089112556
+    second: Sangtui_280_310_60fr_Spritesheet8x8_57
+  - first:
+      213: 6514617235521888218
+    second: Sangtui_280_310_60fr_Spritesheet8x8_58
+  - first:
+      213: -295244727892013293
+    second: Sangtui_280_310_60fr_Spritesheet8x8_59
+  - first:
+      213: -6937052265955245846
+    second: Sangtui_280_310_60fr_Spritesheet8x8_0
+  - first:
+      213: 6386467025552911863
+    second: Sangtui_280_310_60fr_Spritesheet8x8_1
+  - first:
+      213: 3835499460540899131
+    second: Sangtui_280_310_60fr_Spritesheet8x8_2
+  - first:
+      213: 1349356647034961102
+    second: Sangtui_280_310_60fr_Spritesheet8x8_3
+  - first:
+      213: -426242884734257522
+    second: Sangtui_280_310_60fr_Spritesheet8x8_4
+  - first:
+      213: -7693498416679540789
+    second: Sangtui_280_310_60fr_Spritesheet8x8_5
+  - first:
+      213: -8685061918259626361
+    second: Sangtui_280_310_60fr_Spritesheet8x8_6
+  - first:
+      213: -1229818719544341497
+    second: Sangtui_280_310_60fr_Spritesheet8x8_7
+  - first:
+      213: 3702361569455299326
+    second: Sangtui_280_310_60fr_Spritesheet8x8_8
+  - first:
+      213: -6881968463854832737
+    second: Sangtui_280_310_60fr_Spritesheet8x8_9
+  - first:
+      213: -6364978916922952685
+    second: Sangtui_280_310_60fr_Spritesheet8x8_10
+  - first:
+      213: -3483019124808960889
+    second: Sangtui_280_310_60fr_Spritesheet8x8_11
+  - first:
+      213: 3921919493447886886
+    second: Sangtui_280_310_60fr_Spritesheet8x8_12
+  - first:
+      213: 3501655208249029459
+    second: Sangtui_280_310_60fr_Spritesheet8x8_13
+  - first:
+      213: -4064696922354952312
+    second: Sangtui_280_310_60fr_Spritesheet8x8_14
+  - first:
+      213: -3882120681960369727
+    second: Sangtui_280_310_60fr_Spritesheet8x8_15
+  - first:
+      213: -8218210883641574451
+    second: Sangtui_280_310_60fr_Spritesheet8x8_16
+  - first:
+      213: 2240474566373023511
+    second: Sangtui_280_310_60fr_Spritesheet8x8_17
+  - first:
+      213: -240976516872583091
+    second: Sangtui_280_310_60fr_Spritesheet8x8_18
+  - first:
+      213: -5505040576436322656
+    second: Sangtui_280_310_60fr_Spritesheet8x8_19
+  - first:
+      213: 1266579331745115665
+    second: Sangtui_280_310_60fr_Spritesheet8x8_20
+  - first:
+      213: 8121570507164400451
+    second: Sangtui_280_310_60fr_Spritesheet8x8_21
+  - first:
+      213: -6977635989265715953
+    second: Sangtui_280_310_60fr_Spritesheet8x8_22
+  - first:
+      213: 8785375637905030638
+    second: Sangtui_280_310_60fr_Spritesheet8x8_23
+  - first:
+      213: 1461000551579071931
+    second: Sangtui_280_310_60fr_Spritesheet8x8_24
+  - first:
+      213: 2099980829407877364
+    second: Sangtui_280_310_60fr_Spritesheet8x8_25
+  - first:
+      213: 1358313552410818975
+    second: Sangtui_280_310_60fr_Spritesheet8x8_26
+  - first:
+      213: -3055071718520301945
+    second: Sangtui_280_310_60fr_Spritesheet8x8_27
+  - first:
+      213: -3065512642848526746
+    second: Sangtui_280_310_60fr_Spritesheet8x8_28
+  - first:
+      213: -1982377690364909162
+    second: Sangtui_280_310_60fr_Spritesheet8x8_29
+  - first:
+      213: 205950220322428433
+    second: Sangtui_280_310_60fr_Spritesheet8x8_30
+  - first:
+      213: -471186435000112203
+    second: Sangtui_280_310_60fr_Spritesheet8x8_31
+  - first:
+      213: -9106821472505001249
+    second: Sangtui_280_310_60fr_Spritesheet8x8_32
+  - first:
+      213: -7594739056123366208
+    second: Sangtui_280_310_60fr_Spritesheet8x8_33
+  - first:
+      213: -998262059552379261
+    second: Sangtui_280_310_60fr_Spritesheet8x8_34
+  - first:
+      213: 7337794098019011900
+    second: Sangtui_280_310_60fr_Spritesheet8x8_35
+  - first:
+      213: 7191779041839174230
+    second: Sangtui_280_310_60fr_Spritesheet8x8_36
+  - first:
+      213: 3712209103663978875
+    second: Sangtui_280_310_60fr_Spritesheet8x8_37
+  - first:
+      213: 2828289331036303376
+    second: Sangtui_280_310_60fr_Spritesheet8x8_38
+  - first:
+      213: -7943660020333280064
+    second: Sangtui_280_310_60fr_Spritesheet8x8_39
+  - first:
+      213: -1818588550819372296
+    second: Sangtui_280_310_60fr_Spritesheet8x8_40
+  - first:
+      213: -7738096511402790048
+    second: Sangtui_280_310_60fr_Spritesheet8x8_41
+  - first:
+      213: 5069343810279717738
+    second: Sangtui_280_310_60fr_Spritesheet8x8_42
+  - first:
+      213: -7455160320058455482
+    second: Sangtui_280_310_60fr_Spritesheet8x8_43
+  - first:
+      213: -4334114001087272789
+    second: Sangtui_280_310_60fr_Spritesheet8x8_44
+  - first:
+      213: 2277525690586038432
+    second: Sangtui_280_310_60fr_Spritesheet8x8_45
+  - first:
+      213: -2558190036397566256
+    second: Sangtui_280_310_60fr_Spritesheet8x8_46
+  - first:
+      213: 8645203019068413551
+    second: Sangtui_280_310_60fr_Spritesheet8x8_47
+  - first:
+      213: 3766350010278454539
+    second: Sangtui_280_310_60fr_Spritesheet8x8_48
+  - first:
+      213: 3155416635888346339
+    second: Sangtui_280_310_60fr_Spritesheet8x8_49
+  - first:
+      213: 1346127282129905279
+    second: Sangtui_280_310_60fr_Spritesheet8x8_50
+  - first:
+      213: 6805918755025368210
+    second: Sangtui_280_310_60fr_Spritesheet8x8_51
+  - first:
+      213: -6327981339285101487
+    second: Sangtui_280_310_60fr_Spritesheet8x8_52
+  - first:
+      213: -7908684008935000794
+    second: Sangtui_280_310_60fr_Spritesheet8x8_53
+  - first:
+      213: -2960689764982899126
+    second: Sangtui_280_310_60fr_Spritesheet8x8_54
+  - first:
+      213: 2427878933638081155
+    second: Sangtui_280_310_60fr_Spritesheet8x8_55
+  - first:
+      213: 826321735820305488
+    second: Sangtui_280_310_60fr_Spritesheet8x8_56
+  - first:
+      213: -1814220135252024250
+    second: Sangtui_280_310_60fr_Spritesheet8x8_57
+  - first:
+      213: 2807521832711383424
+    second: Sangtui_280_310_60fr_Spritesheet8x8_58
+  - first:
+      213: 4415027728564748903
+    second: Sangtui_280_310_60fr_Spritesheet8x8_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2170
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae04b6bd7b3aabf90800000000000000
+      internalID: -6937052265955245846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2170
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fda3db3ce941a850800000000000000
+      internalID: 6386467025552911863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2170
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f1eb1207e6a3530800000000000000
+      internalID: 3835499460540899131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2170
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb4d5a8b0e9b210800000000000000
+      internalID: 1349356647034961102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2170
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86706bca5ea51af0800000000000000
+      internalID: -426242884734257522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2170
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc729c1b3f33b3590800000000000000
+      internalID: -7693498416679540789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_6
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2170
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ebcd56336787780800000000000000
+      internalID: -8685061918259626361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_7
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2170
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c0f63f36eceeee0800000000000000
+      internalID: -1229818719544341497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efad0714b3e616330800000000000000
+      internalID: 3702361569455299326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1860
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93fd74f4265e70a0800000000000000
+      internalID: -6881968463854832737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1860
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314f4fde56d0ba7a0800000000000000
+      internalID: -6364978916922952685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1860
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784bedf4f84d9afc0800000000000000
+      internalID: -3483019124808960889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1860
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62824a400057d6630800000000000000
+      internalID: 3921919493447886886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_13
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1860
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353749dfbd0689030800000000000000
+      internalID: 3501655208249029459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1860
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887d86f4fab4797c0800000000000000
+      internalID: -4064696922354952312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_15
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1860
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c11e80eecfef1ac0800000000000000
+      internalID: -3882120681960369727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1550
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7b474ebc03fd80800000000000000
+      internalID: -8218210883641574451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1550
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f16f06fb3c71f10800000000000000
+      internalID: 2240474566373023511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1550
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4849987221e7acf0800000000000000
+      internalID: -240976516872583091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1550
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb66f33ca2a93b0800000000000000
+      internalID: -5505040576436322656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1550
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ee48c013bc39110800000000000000
+      internalID: 1266579331745115665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_21
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1550
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bb2d9a85d95b070800000000000000
+      internalID: 8121570507164400451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_22
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1550
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de5df69057a2f90800000000000000
+      internalID: -6977635989265715953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_23
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1550
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed33b3889cebe970800000000000000
+      internalID: 8785375637905030638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5358dc244864410800000000000000
+      internalID: 1461000551579071931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1240
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f89cfb2071a42d10800000000000000
+      internalID: 2099980829407877364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_26
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1240
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99bb01baf2b9d210800000000000000
+      internalID: 1358313552410818975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1240
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786514e55743a95d0800000000000000
+      internalID: -3055071718520301945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_28
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1240
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e6b8c3e7c1575d0800000000000000
+      internalID: -3065512642848526746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1240
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699e3236efd2d74e0800000000000000
+      internalID: -1982377690364909162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_30
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1240
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165bbb52aeabd200800000000000000
+      internalID: 205950220322428433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_31
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1240
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbe5de0f620679f0800000000000000
+      internalID: -471186435000112203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda807aee121e9180800000000000000
+      internalID: -9106821472505001249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 930
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c43bfd21111a9690800000000000000
+      internalID: -7594739056123366208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 930
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e61a322f57522f0800000000000000
+      internalID: -998262059552379261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_35
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 930
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d8167dad415d560800000000000000
+      internalID: 7337794098019011900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 930
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6525ce35fe45ec360800000000000000
+      internalID: 7191779041839174230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 930
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79dcdbf28a648330800000000000000
+      internalID: 3712209103663978875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_38
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 930
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0103272692a104720800000000000000
+      internalID: 2828289331036303376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_39
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 930
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4009f7c4372c190800000000000000
+      internalID: -7943660020333280064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2a1db295313c6e0800000000000000
+      internalID: -1818588550819372296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 620
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b5289832cc9490800000000000000
+      internalID: -7738096511402790048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 620
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b3c00465de95640800000000000000
+      internalID: 5069343810279717738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_43
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 620
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a04532033f98890800000000000000
+      internalID: -7455160320058455482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 620
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8652577422ad3c0800000000000000
+      internalID: -4334114001087272789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_45
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 620
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0053a7c856b9f10800000000000000
+      internalID: 2277525690586038432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_46
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 620
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6549c37bb7f7cd0800000000000000
+      internalID: -2558190036397566256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_47
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 620
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6615b2775ee9f770800000000000000
+      internalID: 8645203019068413551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05af6e1163c44430800000000000000
+      internalID: 3766350010278454539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 310
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ab7456ba4acb20800000000000000
+      internalID: 3155416635888346339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_50
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 310
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a0d981a76ea210800000000000000
+      internalID: 1346127282129905279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_51
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 310
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b4736c0b737e50800000000000000
+      internalID: 6805918755025368210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_52
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 310
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1546c9ebf7e7e28a0800000000000000
+      internalID: -6327981339285101487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_53
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 310
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625fd9ebbc5be3290800000000000000
+      internalID: -7908684008935000794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_54
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 310
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e3f0c585489e6d0800000000000000
+      internalID: -2960689764982899126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_55
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 310
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ae625d60f81b120800000000000000
+      internalID: 2427878933638081155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e0cd9d3fa77b00800000000000000
+      internalID: 826321735820305488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64421fd266892d6e0800000000000000
+      internalID: -1814220135252024250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0896ae16b3256f620800000000000000
+      internalID: 2807521832711383424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sangtui_280_310_60fr_Spritesheet8x8_59
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 280
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7620a9ac354554d30800000000000000
+      internalID: 4415027728564748903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1736 @@
+fileFormatVersion: 2
+guid: 150993a7bc08d2f46a5bb600ccc64154
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3633004111194609478
+    second: Youla_320_450_60fr_Spritesheet8x8_0
+  - first:
+      213: 5522427812077364797
+    second: Youla_320_450_60fr_Spritesheet8x8_1
+  - first:
+      213: -173767851483709308
+    second: Youla_320_450_60fr_Spritesheet8x8_2
+  - first:
+      213: -7642522301275534094
+    second: Youla_320_450_60fr_Spritesheet8x8_3
+  - first:
+      213: 7355315079188077432
+    second: Youla_320_450_60fr_Spritesheet8x8_4
+  - first:
+      213: 7099195086479014878
+    second: Youla_320_450_60fr_Spritesheet8x8_5
+  - first:
+      213: -6365865977827336336
+    second: Youla_320_450_60fr_Spritesheet8x8_6
+  - first:
+      213: -7666352093243355622
+    second: Youla_320_450_60fr_Spritesheet8x8_7
+  - first:
+      213: 170697883099450201
+    second: Youla_320_450_60fr_Spritesheet8x8_8
+  - first:
+      213: -6475083477538827164
+    second: Youla_320_450_60fr_Spritesheet8x8_9
+  - first:
+      213: -223347351413838692
+    second: Youla_320_450_60fr_Spritesheet8x8_10
+  - first:
+      213: -2103137876348389005
+    second: Youla_320_450_60fr_Spritesheet8x8_11
+  - first:
+      213: 9088063345955683198
+    second: Youla_320_450_60fr_Spritesheet8x8_12
+  - first:
+      213: 940336254506109177
+    second: Youla_320_450_60fr_Spritesheet8x8_13
+  - first:
+      213: 510717945046298279
+    second: Youla_320_450_60fr_Spritesheet8x8_14
+  - first:
+      213: -2117349616372065491
+    second: Youla_320_450_60fr_Spritesheet8x8_15
+  - first:
+      213: -1564015346131972245
+    second: Youla_320_450_60fr_Spritesheet8x8_16
+  - first:
+      213: -740528779375603397
+    second: Youla_320_450_60fr_Spritesheet8x8_17
+  - first:
+      213: -6740178892554659096
+    second: Youla_320_450_60fr_Spritesheet8x8_18
+  - first:
+      213: 8479596673948591721
+    second: Youla_320_450_60fr_Spritesheet8x8_19
+  - first:
+      213: 9112254201925884119
+    second: Youla_320_450_60fr_Spritesheet8x8_20
+  - first:
+      213: -2709458734715639736
+    second: Youla_320_450_60fr_Spritesheet8x8_21
+  - first:
+      213: -5642166550985813826
+    second: Youla_320_450_60fr_Spritesheet8x8_22
+  - first:
+      213: -3946896686693784618
+    second: Youla_320_450_60fr_Spritesheet8x8_23
+  - first:
+      213: 7635073151156802092
+    second: Youla_320_450_60fr_Spritesheet8x8_24
+  - first:
+      213: 5614781435496249071
+    second: Youla_320_450_60fr_Spritesheet8x8_25
+  - first:
+      213: -7230882481494641314
+    second: Youla_320_450_60fr_Spritesheet8x8_26
+  - first:
+      213: -6712067101661554355
+    second: Youla_320_450_60fr_Spritesheet8x8_27
+  - first:
+      213: -6720980024570049144
+    second: Youla_320_450_60fr_Spritesheet8x8_28
+  - first:
+      213: -8229225846152063136
+    second: Youla_320_450_60fr_Spritesheet8x8_29
+  - first:
+      213: -606089986644905082
+    second: Youla_320_450_60fr_Spritesheet8x8_30
+  - first:
+      213: -7398051356846847467
+    second: Youla_320_450_60fr_Spritesheet8x8_31
+  - first:
+      213: 5444694016763327014
+    second: Youla_320_450_60fr_Spritesheet8x8_32
+  - first:
+      213: -1941055441033257684
+    second: Youla_320_450_60fr_Spritesheet8x8_33
+  - first:
+      213: -3612552411152508471
+    second: Youla_320_450_60fr_Spritesheet8x8_34
+  - first:
+      213: 3198560903579854006
+    second: Youla_320_450_60fr_Spritesheet8x8_35
+  - first:
+      213: 2676919198534526464
+    second: Youla_320_450_60fr_Spritesheet8x8_36
+  - first:
+      213: 4840387426336607421
+    second: Youla_320_450_60fr_Spritesheet8x8_37
+  - first:
+      213: 8557338744755406615
+    second: Youla_320_450_60fr_Spritesheet8x8_38
+  - first:
+      213: -1323370204975587534
+    second: Youla_320_450_60fr_Spritesheet8x8_39
+  - first:
+      213: -2051767909855350556
+    second: Youla_320_450_60fr_Spritesheet8x8_40
+  - first:
+      213: 5157771032394564132
+    second: Youla_320_450_60fr_Spritesheet8x8_41
+  - first:
+      213: 1553568616251316882
+    second: Youla_320_450_60fr_Spritesheet8x8_42
+  - first:
+      213: -1906874532957254541
+    second: Youla_320_450_60fr_Spritesheet8x8_43
+  - first:
+      213: -4567751825976898627
+    second: Youla_320_450_60fr_Spritesheet8x8_44
+  - first:
+      213: -4391567769863772899
+    second: Youla_320_450_60fr_Spritesheet8x8_45
+  - first:
+      213: 1840445504452882215
+    second: Youla_320_450_60fr_Spritesheet8x8_46
+  - first:
+      213: 3039105870465223810
+    second: Youla_320_450_60fr_Spritesheet8x8_47
+  - first:
+      213: 6083273120806199375
+    second: Youla_320_450_60fr_Spritesheet8x8_48
+  - first:
+      213: -1930653669686688505
+    second: Youla_320_450_60fr_Spritesheet8x8_49
+  - first:
+      213: -4901073141445287436
+    second: Youla_320_450_60fr_Spritesheet8x8_50
+  - first:
+      213: 1648709040731921152
+    second: Youla_320_450_60fr_Spritesheet8x8_51
+  - first:
+      213: 8210896217423649412
+    second: Youla_320_450_60fr_Spritesheet8x8_52
+  - first:
+      213: 3066084060681497336
+    second: Youla_320_450_60fr_Spritesheet8x8_53
+  - first:
+      213: -5472974337552456815
+    second: Youla_320_450_60fr_Spritesheet8x8_54
+  - first:
+      213: -9060320452844372526
+    second: Youla_320_450_60fr_Spritesheet8x8_55
+  - first:
+      213: -7120538079702779337
+    second: Youla_320_450_60fr_Spritesheet8x8_56
+  - first:
+      213: 1340252501121793975
+    second: Youla_320_450_60fr_Spritesheet8x8_57
+  - first:
+      213: 4881791243409627816
+    second: Youla_320_450_60fr_Spritesheet8x8_58
+  - first:
+      213: 8231482913635774662
+    second: Youla_320_450_60fr_Spritesheet8x8_59
+  - first:
+      213: -6394123151677178189
+    second: Youla_320_450_60fr_Spritesheet8x8_0
+  - first:
+      213: 1791865323954881777
+    second: Youla_320_450_60fr_Spritesheet8x8_1
+  - first:
+      213: -7836054219265818186
+    second: Youla_320_450_60fr_Spritesheet8x8_2
+  - first:
+      213: 4474245786553615874
+    second: Youla_320_450_60fr_Spritesheet8x8_3
+  - first:
+      213: 6285997870222888407
+    second: Youla_320_450_60fr_Spritesheet8x8_4
+  - first:
+      213: -8144145934516726496
+    second: Youla_320_450_60fr_Spritesheet8x8_5
+  - first:
+      213: -8830954818989451440
+    second: Youla_320_450_60fr_Spritesheet8x8_6
+  - first:
+      213: 8952117765136953902
+    second: Youla_320_450_60fr_Spritesheet8x8_7
+  - first:
+      213: 250800491961845874
+    second: Youla_320_450_60fr_Spritesheet8x8_8
+  - first:
+      213: -5242038553128735700
+    second: Youla_320_450_60fr_Spritesheet8x8_9
+  - first:
+      213: 2807154237554368801
+    second: Youla_320_450_60fr_Spritesheet8x8_10
+  - first:
+      213: -5341513084733614627
+    second: Youla_320_450_60fr_Spritesheet8x8_11
+  - first:
+      213: 2487964602798459192
+    second: Youla_320_450_60fr_Spritesheet8x8_12
+  - first:
+      213: 3158980344096705183
+    second: Youla_320_450_60fr_Spritesheet8x8_13
+  - first:
+      213: -5291098846849022945
+    second: Youla_320_450_60fr_Spritesheet8x8_14
+  - first:
+      213: 6505922922058405818
+    second: Youla_320_450_60fr_Spritesheet8x8_15
+  - first:
+      213: 8358700467045443893
+    second: Youla_320_450_60fr_Spritesheet8x8_16
+  - first:
+      213: 7286010711167258739
+    second: Youla_320_450_60fr_Spritesheet8x8_17
+  - first:
+      213: 6883106162709461497
+    second: Youla_320_450_60fr_Spritesheet8x8_18
+  - first:
+      213: -7857762793355842989
+    second: Youla_320_450_60fr_Spritesheet8x8_19
+  - first:
+      213: 6958064927522548063
+    second: Youla_320_450_60fr_Spritesheet8x8_20
+  - first:
+      213: 1129553168638446882
+    second: Youla_320_450_60fr_Spritesheet8x8_21
+  - first:
+      213: -3897998242885168505
+    second: Youla_320_450_60fr_Spritesheet8x8_22
+  - first:
+      213: -6718589792243052387
+    second: Youla_320_450_60fr_Spritesheet8x8_23
+  - first:
+      213: 179541796419276588
+    second: Youla_320_450_60fr_Spritesheet8x8_24
+  - first:
+      213: 6812887915863724783
+    second: Youla_320_450_60fr_Spritesheet8x8_25
+  - first:
+      213: -4338636843499818008
+    second: Youla_320_450_60fr_Spritesheet8x8_26
+  - first:
+      213: -8771861312449824742
+    second: Youla_320_450_60fr_Spritesheet8x8_27
+  - first:
+      213: -5348607487230202161
+    second: Youla_320_450_60fr_Spritesheet8x8_28
+  - first:
+      213: 4304030535656591868
+    second: Youla_320_450_60fr_Spritesheet8x8_29
+  - first:
+      213: -8368219921748686688
+    second: Youla_320_450_60fr_Spritesheet8x8_30
+  - first:
+      213: -6738842393631320044
+    second: Youla_320_450_60fr_Spritesheet8x8_31
+  - first:
+      213: 2778905880900710759
+    second: Youla_320_450_60fr_Spritesheet8x8_32
+  - first:
+      213: 1033697558483915776
+    second: Youla_320_450_60fr_Spritesheet8x8_33
+  - first:
+      213: 6440615747907505832
+    second: Youla_320_450_60fr_Spritesheet8x8_34
+  - first:
+      213: 6052906792493752244
+    second: Youla_320_450_60fr_Spritesheet8x8_35
+  - first:
+      213: 6472960616675247835
+    second: Youla_320_450_60fr_Spritesheet8x8_36
+  - first:
+      213: 8176038177655484593
+    second: Youla_320_450_60fr_Spritesheet8x8_37
+  - first:
+      213: -3098752963605002112
+    second: Youla_320_450_60fr_Spritesheet8x8_38
+  - first:
+      213: 4107965845941914556
+    second: Youla_320_450_60fr_Spritesheet8x8_39
+  - first:
+      213: 8753361082230721958
+    second: Youla_320_450_60fr_Spritesheet8x8_40
+  - first:
+      213: 3351817116338488065
+    second: Youla_320_450_60fr_Spritesheet8x8_41
+  - first:
+      213: 120835497303292669
+    second: Youla_320_450_60fr_Spritesheet8x8_42
+  - first:
+      213: 1545954058477559096
+    second: Youla_320_450_60fr_Spritesheet8x8_43
+  - first:
+      213: 8979856800270131211
+    second: Youla_320_450_60fr_Spritesheet8x8_44
+  - first:
+      213: -2725087470102792969
+    second: Youla_320_450_60fr_Spritesheet8x8_45
+  - first:
+      213: -8418080219365765022
+    second: Youla_320_450_60fr_Spritesheet8x8_46
+  - first:
+      213: 5676840264660996520
+    second: Youla_320_450_60fr_Spritesheet8x8_47
+  - first:
+      213: -3623959311727907177
+    second: Youla_320_450_60fr_Spritesheet8x8_48
+  - first:
+      213: -5407050350488996504
+    second: Youla_320_450_60fr_Spritesheet8x8_49
+  - first:
+      213: 6623368563023168200
+    second: Youla_320_450_60fr_Spritesheet8x8_50
+  - first:
+      213: -7005586011561460336
+    second: Youla_320_450_60fr_Spritesheet8x8_51
+  - first:
+      213: -5504990744084111724
+    second: Youla_320_450_60fr_Spritesheet8x8_52
+  - first:
+      213: -2616299759463403988
+    second: Youla_320_450_60fr_Spritesheet8x8_53
+  - first:
+      213: 4745945477661578780
+    second: Youla_320_450_60fr_Spritesheet8x8_54
+  - first:
+      213: 7630425267792666398
+    second: Youla_320_450_60fr_Spritesheet8x8_55
+  - first:
+      213: -6042017403846443566
+    second: Youla_320_450_60fr_Spritesheet8x8_56
+  - first:
+      213: 3250609136493831385
+    second: Youla_320_450_60fr_Spritesheet8x8_57
+  - first:
+      213: -4299916032000307108
+    second: Youla_320_450_60fr_Spritesheet8x8_58
+  - first:
+      213: 4617803816187146205
+    second: Youla_320_450_60fr_Spritesheet8x8_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3e2efed28347a0800000000000000
+      internalID: -6394123151677178189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3150
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4cba7b40cfdd810800000000000000
+      internalID: 1791865323954881777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3150
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c5fb643eb04390800000000000000
+      internalID: -7836054219265818186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3150
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206015956d6b71e30800000000000000
+      internalID: 4474245786553615874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3150
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd4f7122c95c3750800000000000000
+      internalID: 6285997870222888407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3150
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025503e0c6e2afe80800000000000000
+      internalID: -8144145934516726496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3150
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0571c9a6165227580800000000000000
+      internalID: -8830954818989451440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_7
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3150
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b3725daf4c3c70800000000000000
+      internalID: 8952117765136953902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27801e8f7b50b7300800000000000000
+      internalID: 250800491961845874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2700
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cebdd95b98047b0800000000000000
+      internalID: -5242038553128735700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2700
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212927f7e305f620800000000000000
+      internalID: 2807154237554368801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2700
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd51a5566222fd5b0800000000000000
+      internalID: -5341513084733614627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2700
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8394c8bdf96078220800000000000000
+      internalID: 2487964602798459192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_13
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2700
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a435ec2e3f6db20800000000000000
+      internalID: 3158980344096705183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2700
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14c51ad1ad3296b0800000000000000
+      internalID: -5291098846849022945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_15
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2700
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7dc518d6ea94a50800000000000000
+      internalID: 6505922922058405818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539a22ad9c1100470800000000000000
+      internalID: 8358700467045443893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2250
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d0dc832c1d1560800000000000000
+      internalID: 7286010711167258739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2250
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f979933694b58f50800000000000000
+      internalID: 6883106162709461497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2250
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6eb42f5e93f290800000000000000
+      internalID: -7857762793355842989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2250
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e519af23009060800000000000000
+      internalID: 6958064927522548063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_21
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2250
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d8c9b4f9afcaf00800000000000000
+      internalID: 1129553168638446882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_22
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2250
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829bb5204787e9c0800000000000000
+      internalID: -3897998242885168505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_23
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2250
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9099c93e26c2c2a0800000000000000
+      internalID: -6718589792243052387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f08e5005cdd7200800000000000000
+      internalID: 179541796419276588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1800
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2db97967d3c8e50800000000000000
+      internalID: 6812887915863724783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1800
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e375c527c01ac3c0800000000000000
+      internalID: -4338636843499818008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1800
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18bf649c96144680800000000000000
+      internalID: -8771861312449824742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1800
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce26a814dde5c5b0800000000000000
+      internalID: -5348607487230202161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1800
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1de3ce7fcfabb30800000000000000
+      internalID: 4304030535656591868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1800
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a882d1615c1edb80800000000000000
+      internalID: -8368219921748686688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_31
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1800
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41813420c82da72a0800000000000000
+      internalID: -6738842393631320044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761b457ec28a09620800000000000000
+      internalID: 2778905880900710759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1350
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045f92e37e685e00800000000000000
+      internalID: 1033697558483915776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1350
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae40dc16e9a16950800000000000000
+      internalID: 6440615747907505832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1350
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf932978ae300450800000000000000
+      internalID: 6052906792493752244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1350
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6850ab26394d950800000000000000
+      internalID: 6472960616675247835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1350
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0ff21776f177170800000000000000
+      internalID: 8176038177655484593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1350
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08882a5f8940ff4d0800000000000000
+      internalID: -3098752963605002112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_39
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1350
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb0ec40c2d620930800000000000000
+      internalID: 4107965845941914556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad4719e68f2a7970800000000000000
+      internalID: 8753361082230721958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 900
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030e6b98eb048e20800000000000000
+      internalID: 3351817116338488065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 900
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa350d9e3b4da100800000000000000
+      internalID: 120835497303292669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 900
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd0ae7605547510800000000000000
+      internalID: 1545954058477559096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 900
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002af9be2cde9c70800000000000000
+      internalID: 8979856800270131211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_45
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 900
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4b7a2526b8e2ad0800000000000000
+      internalID: -2725087470102792969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_46
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 900
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26016f134a8fc2b80800000000000000
+      internalID: -8418080219365765022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_47
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 900
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1d0cdb42038ce40800000000000000
+      internalID: 5676840264660996520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e2dffd43c15bdc0800000000000000
+      internalID: -3623959311727907177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865b370aa5c46f4b0800000000000000
+      internalID: -5407050350488996504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 450
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24c7fad9eeaeb50800000000000000
+      internalID: 6623368563023168200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 450
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dfe61c3a827ce90800000000000000
+      internalID: -7005586011561460336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 450
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e9d0fb5185a93b0800000000000000
+      internalID: -5504990744084111724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 450
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6e330b3901bbd0800000000000000
+      internalID: -2616299759463403988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_54
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 450
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16d36f444cfcd140800000000000000
+      internalID: 4745945477661578780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_55
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 450
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f52f37a57b4e960800000000000000
+      internalID: 7630425267792666398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3105ee21762ca0800000000000000
+      internalID: -6042017403846443566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4aa5489cb7c1d20800000000000000
+      internalID: 3250609136493831385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c505d9c9621a354c0800000000000000
+      internalID: -4299916032000307108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youla_320_450_60fr_Spritesheet8x8_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf274aca1cb51040800000000000000
+      internalID: 4617803816187146205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: f8125811438c4094c94a3ec84cdb8c30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1491643659631682335
+    second: Yuful_Spritesheet9x8_0
+  - first:
+      213: -7669879595438667496
+    second: Yuful_Spritesheet9x8_1
+  - first:
+      213: 5467655208005225406
+    second: Yuful_Spritesheet9x8_2
+  - first:
+      213: 1867474915659164893
+    second: Yuful_Spritesheet9x8_3
+  - first:
+      213: 3558044345920505337
+    second: Yuful_Spritesheet9x8_4
+  - first:
+      213: 39763516906067211
+    second: Yuful_Spritesheet9x8_5
+  - first:
+      213: 7372739259671060993
+    second: Yuful_Spritesheet9x8_6
+  - first:
+      213: 8698296414379873558
+    second: Yuful_Spritesheet9x8_7
+  - first:
+      213: -1941696657416620264
+    second: Yuful_Spritesheet9x8_8
+  - first:
+      213: -4499173084786904239
+    second: Yuful_Spritesheet9x8_9
+  - first:
+      213: 6775190372941791033
+    second: Yuful_Spritesheet9x8_10
+  - first:
+      213: 2103832626266440066
+    second: Yuful_Spritesheet9x8_11
+  - first:
+      213: -7019382605953478431
+    second: Yuful_Spritesheet9x8_12
+  - first:
+      213: 8143108835936136793
+    second: Yuful_Spritesheet9x8_13
+  - first:
+      213: -609381103401958417
+    second: Yuful_Spritesheet9x8_14
+  - first:
+      213: 501770261564246876
+    second: Yuful_Spritesheet9x8_15
+  - first:
+      213: -3458957649151041388
+    second: Yuful_Spritesheet9x8_16
+  - first:
+      213: -3915679021716593620
+    second: Yuful_Spritesheet9x8_17
+  - first:
+      213: 5945723986163497711
+    second: Yuful_Spritesheet9x8_18
+  - first:
+      213: -8074598726572236690
+    second: Yuful_Spritesheet9x8_19
+  - first:
+      213: 3484552197333805943
+    second: Yuful_Spritesheet9x8_20
+  - first:
+      213: 7234625707331532723
+    second: Yuful_Spritesheet9x8_21
+  - first:
+      213: -3103009732010437955
+    second: Yuful_Spritesheet9x8_22
+  - first:
+      213: 64471170045214401
+    second: Yuful_Spritesheet9x8_23
+  - first:
+      213: 8516039841383065374
+    second: Yuful_Spritesheet9x8_24
+  - first:
+      213: 4718706507498606977
+    second: Yuful_Spritesheet9x8_25
+  - first:
+      213: 587852198256583032
+    second: Yuful_Spritesheet9x8_26
+  - first:
+      213: -4177531110489887214
+    second: Yuful_Spritesheet9x8_27
+  - first:
+      213: 4501926663816158554
+    second: Yuful_Spritesheet9x8_28
+  - first:
+      213: 5256060002689448415
+    second: Yuful_Spritesheet9x8_29
+  - first:
+      213: 7669663156508297405
+    second: Yuful_Spritesheet9x8_30
+  - first:
+      213: 2915432987462076595
+    second: Yuful_Spritesheet9x8_31
+  - first:
+      213: 3773488939716390276
+    second: Yuful_Spritesheet9x8_32
+  - first:
+      213: -4099757304822678366
+    second: Yuful_Spritesheet9x8_33
+  - first:
+      213: 4888339476186688807
+    second: Yuful_Spritesheet9x8_34
+  - first:
+      213: 206729265925398360
+    second: Yuful_Spritesheet9x8_35
+  - first:
+      213: 237572859168607436
+    second: Yuful_Spritesheet9x8_36
+  - first:
+      213: 3749323223542835692
+    second: Yuful_Spritesheet9x8_37
+  - first:
+      213: 6444565611435969295
+    second: Yuful_Spritesheet9x8_38
+  - first:
+      213: 8496801774826440679
+    second: Yuful_Spritesheet9x8_39
+  - first:
+      213: 8106570585807553836
+    second: Yuful_Spritesheet9x8_40
+  - first:
+      213: -8883743479025328195
+    second: Yuful_Spritesheet9x8_41
+  - first:
+      213: -4560405793610106523
+    second: Yuful_Spritesheet9x8_42
+  - first:
+      213: -8640077847033740149
+    second: Yuful_Spritesheet9x8_43
+  - first:
+      213: -7970458457166302915
+    second: Yuful_Spritesheet9x8_44
+  - first:
+      213: 2275883827925090215
+    second: Yuful_Spritesheet9x8_45
+  - first:
+      213: 7559202429961948934
+    second: Yuful_Spritesheet9x8_46
+  - first:
+      213: 3095196493232278376
+    second: Yuful_Spritesheet9x8_47
+  - first:
+      213: 7797240746765725532
+    second: Yuful_Spritesheet9x8_48
+  - first:
+      213: -3063401875897078436
+    second: Yuful_Spritesheet9x8_49
+  - first:
+      213: -5442306632289636296
+    second: Yuful_Spritesheet9x8_50
+  - first:
+      213: -3571970186109396627
+    second: Yuful_Spritesheet9x8_51
+  - first:
+      213: 111595859743792734
+    second: Yuful_Spritesheet9x8_52
+  - first:
+      213: 4269980710772461385
+    second: Yuful_Spritesheet9x8_53
+  - first:
+      213: 3878269153311203209
+    second: Yuful_Spritesheet9x8_54
+  - first:
+      213: 793539458390614370
+    second: Yuful_Spritesheet9x8_55
+  - first:
+      213: -7650803793831321566
+    second: Yuful_Spritesheet9x8_56
+  - first:
+      213: 3573185379464117446
+    second: Yuful_Spritesheet9x8_57
+  - first:
+      213: 8898701946712382630
+    second: Yuful_Spritesheet9x8_58
+  - first:
+      213: -6886600754294832223
+    second: Yuful_Spritesheet9x8_59
+  - first:
+      213: -4240609215531973988
+    second: Yuful_Spritesheet9x8_60
+  - first:
+      213: 1658881259756115569
+    second: Yuful_Spritesheet9x8_61
+  - first:
+      213: 941551206527602929
+    second: Yuful_Spritesheet9x8_62
+  - first:
+      213: -6089363815763219856
+    second: Yuful_Spritesheet9x8_63
+  - first:
+      213: -4501768230107529939
+    second: Yuful_Spritesheet9x8_64
+  - first:
+      213: 6216285068438147239
+    second: Yuful_Spritesheet9x8_65
+  - first:
+      213: -989788593231922854
+    second: Yuful_Spritesheet9x8_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f136fcf510263b410800000000000000
+      internalID: 1491643659631682335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8198cdb052d1f8590800000000000000
+      internalID: -7669879595438667496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb477b517301eb40800000000000000
+      internalID: 5467655208005225406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_3
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc21de9a8a9ae910800000000000000
+      internalID: 1867474915659164893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_4
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5cda53b76b06130800000000000000
+      internalID: 3558044345920505337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_5
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d43c35b44d8000800000000000000
+      internalID: 39763516906067211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_6
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10225425b4b315660800000000000000
+      internalID: 7372739259671060993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_7
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159a2ad08e86b870800000000000000
+      internalID: 8698296414379873558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_8
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177e197d25bd05e0800000000000000
+      internalID: -1941696657416620264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1533742cae9bf81c0800000000000000
+      internalID: -4499173084786904239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f77d86fbf460e50800000000000000
+      internalID: 6775190372941791033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2810d7380a0523d10800000000000000
+      internalID: 2103832626266440066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_12
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0569dc5b4269e90800000000000000
+      internalID: -7019382605953478431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_13
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e615d9752220170800000000000000
+      internalID: 8143108835936136793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_14
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe304e67d1b0b87f0800000000000000
+      internalID: -609381103401958417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_15
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4467f465a6f600800000000000000
+      internalID: 501770261564246876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_16
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4906b3d28505fffc0800000000000000
+      internalID: -3458957649151041388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_17
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2422280da6b8a9c0800000000000000
+      internalID: -3915679021716593620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea7bcfa674738250800000000000000
+      internalID: 5945723986163497711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6027de3d3341ff80800000000000000
+      internalID: -8074598726572236690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6363f2cd9b5030800000000000000
+      internalID: 3484552197333805943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_21
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b76800cd866460800000000000000
+      internalID: 7234625707331532723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_22
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db210f4d615efe4d0800000000000000
+      internalID: -3103009732010437955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_23
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7cc4003c05e000800000000000000
+      internalID: 64471170045214401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_24
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1726b6ad1d0f2670800000000000000
+      internalID: 8516039841383065374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_25
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18157ca51963c7140800000000000000
+      internalID: 4718706507498606977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_26
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8712481b578782800800000000000000
+      internalID: 587852198256583032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6b19a69d6606c0800000000000000
+      internalID: -4177531110489887214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d1f91d27e0a7e30800000000000000
+      internalID: 4501926663816158554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9717289b641f840800000000000000
+      internalID: 5256060002689448415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_30
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db80496510e107a60800000000000000
+      internalID: 7669663156508297405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_31
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b802200bd2b57820800000000000000
+      internalID: 2915432987462076595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_32
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d29a7a2302e5430800000000000000
+      internalID: 3773488939716390276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_33
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac3bb4e37cba17c0800000000000000
+      internalID: -4099757304822678366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_34
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d60a3aaded6d340800000000000000
+      internalID: 4888339476186688807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_35
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f192c0c237ed200800000000000000
+      internalID: 206729265925398360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc407b1470c4300800000000000000
+      internalID: 237572859168607436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a4676b95480430800000000000000
+      internalID: 3749323223542835692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_38
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc6516742bf6950800000000000000
+      internalID: 6444565611435969295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_39
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7407b3234bae570800000000000000
+      internalID: 8496801774826440679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_40
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2580b15ff2508070800000000000000
+      internalID: 8106570585807553836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_41
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9009bf5a96b480800000000000000
+      internalID: -8883743479025328195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_42
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697c30c71f26b0c0800000000000000
+      internalID: -4560405793610106523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_43
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8405d7a9f6481880800000000000000
+      internalID: -8640077847033740149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_44
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d313893334e336190800000000000000
+      internalID: -7970458457166302915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff7898840959f10800000000000000
+      internalID: 2275883827925090215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc6274f8ea7e860800000000000000
+      internalID: 7559202429961948934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_47
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0521cfc854fa20800000000000000
+      internalID: 3095196493232278376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_48
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f2c2bc52d553c60800000000000000
+      internalID: 7797240746765725532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_49
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da3e6793c9c75d0800000000000000
+      internalID: -3063401875897078436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_50
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830bf97d3fa0974b0800000000000000
+      internalID: -5442306632289636296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_51
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d9a47a00dd6ec0800000000000000
+      internalID: -3571970186109396627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_52
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ede6ad7d77c8100800000000000000
+      internalID: 111595859743792734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_53
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1000
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fcc5745d4024b30800000000000000
+      internalID: 4269980710772461385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f187a3f3162d530800000000000000
+      internalID: 3878269153311203209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e0acdee7330b00800000000000000
+      internalID: 793539458390614370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_56
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22029763c72e2d590800000000000000
+      internalID: -7650803793831321566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_57
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccf39bcb21869130800000000000000
+      internalID: 3573185379464117446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_58
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5edfe54a8e7b70800000000000000
+      internalID: 8898701946712382630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_59
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3c15ac911ed60a0800000000000000
+      internalID: -6886600754294832223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_60
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9208fcd2645625c0800000000000000
+      internalID: -4240609215531973988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_61
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d05477b7850710800000000000000
+      internalID: 1658881259756115569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_62
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 500
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f01be275df011d00800000000000000
+      internalID: 941551206527602929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae0555fdb3e7ba0800000000000000
+      internalID: -6089363815763219856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d3d4765a18681c0800000000000000
+      internalID: -4501768230107529939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_65
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a012de955ea44650800000000000000
+      internalID: 6216285068438147239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuful_Spritesheet9x8_66
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 370
+        height: 500
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a597da1c4809342f0800000000000000
+      internalID: -989788593231922854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

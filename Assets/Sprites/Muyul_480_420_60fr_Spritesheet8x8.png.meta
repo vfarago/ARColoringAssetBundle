@@ -1,0 +1,1736 @@
+fileFormatVersion: 2
+guid: 5ec65ab828d3ae74f9d2adebf3e50c24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8172805756180719664
+    second: Muyul_480_420_60fr_Spritesheet8x8_0
+  - first:
+      213: -7496893569797282600
+    second: Muyul_480_420_60fr_Spritesheet8x8_1
+  - first:
+      213: -3218610075235686809
+    second: Muyul_480_420_60fr_Spritesheet8x8_2
+  - first:
+      213: -6120957688633809638
+    second: Muyul_480_420_60fr_Spritesheet8x8_3
+  - first:
+      213: -2339613410449506020
+    second: Muyul_480_420_60fr_Spritesheet8x8_4
+  - first:
+      213: -9200244635551230367
+    second: Muyul_480_420_60fr_Spritesheet8x8_5
+  - first:
+      213: -8512032780373911462
+    second: Muyul_480_420_60fr_Spritesheet8x8_6
+  - first:
+      213: 2277259291669299222
+    second: Muyul_480_420_60fr_Spritesheet8x8_7
+  - first:
+      213: -8909868827515943312
+    second: Muyul_480_420_60fr_Spritesheet8x8_8
+  - first:
+      213: 6702295112351534536
+    second: Muyul_480_420_60fr_Spritesheet8x8_9
+  - first:
+      213: -4375804015374315905
+    second: Muyul_480_420_60fr_Spritesheet8x8_10
+  - first:
+      213: 758135519345542373
+    second: Muyul_480_420_60fr_Spritesheet8x8_11
+  - first:
+      213: 2656563250297163046
+    second: Muyul_480_420_60fr_Spritesheet8x8_12
+  - first:
+      213: -6096597835642166168
+    second: Muyul_480_420_60fr_Spritesheet8x8_13
+  - first:
+      213: 5178164134001370476
+    second: Muyul_480_420_60fr_Spritesheet8x8_14
+  - first:
+      213: -4241172738141770012
+    second: Muyul_480_420_60fr_Spritesheet8x8_15
+  - first:
+      213: 7421873384201707370
+    second: Muyul_480_420_60fr_Spritesheet8x8_16
+  - first:
+      213: 449647591254221500
+    second: Muyul_480_420_60fr_Spritesheet8x8_17
+  - first:
+      213: 1949313397575097102
+    second: Muyul_480_420_60fr_Spritesheet8x8_18
+  - first:
+      213: 1251986236168386739
+    second: Muyul_480_420_60fr_Spritesheet8x8_19
+  - first:
+      213: 1152355227928982746
+    second: Muyul_480_420_60fr_Spritesheet8x8_20
+  - first:
+      213: -870395391020711802
+    second: Muyul_480_420_60fr_Spritesheet8x8_21
+  - first:
+      213: 1430726487810769469
+    second: Muyul_480_420_60fr_Spritesheet8x8_22
+  - first:
+      213: 8177431951676083381
+    second: Muyul_480_420_60fr_Spritesheet8x8_23
+  - first:
+      213: 2254602679893620247
+    second: Muyul_480_420_60fr_Spritesheet8x8_24
+  - first:
+      213: -109673058150997454
+    second: Muyul_480_420_60fr_Spritesheet8x8_25
+  - first:
+      213: -5302897927442795730
+    second: Muyul_480_420_60fr_Spritesheet8x8_26
+  - first:
+      213: -8261815051827088297
+    second: Muyul_480_420_60fr_Spritesheet8x8_27
+  - first:
+      213: -8933057091236727545
+    second: Muyul_480_420_60fr_Spritesheet8x8_28
+  - first:
+      213: -4781144766009360809
+    second: Muyul_480_420_60fr_Spritesheet8x8_29
+  - first:
+      213: -3188318528121276959
+    second: Muyul_480_420_60fr_Spritesheet8x8_30
+  - first:
+      213: 6125510174292736216
+    second: Muyul_480_420_60fr_Spritesheet8x8_31
+  - first:
+      213: 9098049095574556148
+    second: Muyul_480_420_60fr_Spritesheet8x8_32
+  - first:
+      213: 6131959713997560727
+    second: Muyul_480_420_60fr_Spritesheet8x8_33
+  - first:
+      213: 8830963150407318396
+    second: Muyul_480_420_60fr_Spritesheet8x8_34
+  - first:
+      213: 2962112146585041523
+    second: Muyul_480_420_60fr_Spritesheet8x8_35
+  - first:
+      213: 8993657940471942676
+    second: Muyul_480_420_60fr_Spritesheet8x8_36
+  - first:
+      213: 1213043912215952476
+    second: Muyul_480_420_60fr_Spritesheet8x8_37
+  - first:
+      213: 6602626022663896454
+    second: Muyul_480_420_60fr_Spritesheet8x8_38
+  - first:
+      213: -783018990075890614
+    second: Muyul_480_420_60fr_Spritesheet8x8_39
+  - first:
+      213: 3111673271658031756
+    second: Muyul_480_420_60fr_Spritesheet8x8_40
+  - first:
+      213: 893442633297875270
+    second: Muyul_480_420_60fr_Spritesheet8x8_41
+  - first:
+      213: 2986269766869018120
+    second: Muyul_480_420_60fr_Spritesheet8x8_42
+  - first:
+      213: -273954148678754414
+    second: Muyul_480_420_60fr_Spritesheet8x8_43
+  - first:
+      213: 4208852761113407509
+    second: Muyul_480_420_60fr_Spritesheet8x8_44
+  - first:
+      213: -3323593988502639688
+    second: Muyul_480_420_60fr_Spritesheet8x8_45
+  - first:
+      213: -8328214913823228083
+    second: Muyul_480_420_60fr_Spritesheet8x8_46
+  - first:
+      213: 5007192393304969076
+    second: Muyul_480_420_60fr_Spritesheet8x8_47
+  - first:
+      213: 3781861440453678161
+    second: Muyul_480_420_60fr_Spritesheet8x8_48
+  - first:
+      213: 263563839735431846
+    second: Muyul_480_420_60fr_Spritesheet8x8_49
+  - first:
+      213: -8873752113776718918
+    second: Muyul_480_420_60fr_Spritesheet8x8_50
+  - first:
+      213: 9203169072180702273
+    second: Muyul_480_420_60fr_Spritesheet8x8_51
+  - first:
+      213: -2782383242965832089
+    second: Muyul_480_420_60fr_Spritesheet8x8_52
+  - first:
+      213: 3272238688323491890
+    second: Muyul_480_420_60fr_Spritesheet8x8_53
+  - first:
+      213: 8310768601874202587
+    second: Muyul_480_420_60fr_Spritesheet8x8_54
+  - first:
+      213: 5736434235228535039
+    second: Muyul_480_420_60fr_Spritesheet8x8_55
+  - first:
+      213: -4285786247250181647
+    second: Muyul_480_420_60fr_Spritesheet8x8_56
+  - first:
+      213: -6459350499252090942
+    second: Muyul_480_420_60fr_Spritesheet8x8_57
+  - first:
+      213: 8535069725742007972
+    second: Muyul_480_420_60fr_Spritesheet8x8_58
+  - first:
+      213: -5272189902951918530
+    second: Muyul_480_420_60fr_Spritesheet8x8_59
+  - first:
+      213: -4581477077453392533
+    second: Muyul_480_420_60fr_Spritesheet8x8_0
+  - first:
+      213: -6373094411224137360
+    second: Muyul_480_420_60fr_Spritesheet8x8_1
+  - first:
+      213: -2056868411417770039
+    second: Muyul_480_420_60fr_Spritesheet8x8_2
+  - first:
+      213: 4088528312834074099
+    second: Muyul_480_420_60fr_Spritesheet8x8_3
+  - first:
+      213: 8692474190075881810
+    second: Muyul_480_420_60fr_Spritesheet8x8_4
+  - first:
+      213: 8074087717847234711
+    second: Muyul_480_420_60fr_Spritesheet8x8_5
+  - first:
+      213: 2181653460904805441
+    second: Muyul_480_420_60fr_Spritesheet8x8_6
+  - first:
+      213: -4470834012792166748
+    second: Muyul_480_420_60fr_Spritesheet8x8_7
+  - first:
+      213: -2530564515917728876
+    second: Muyul_480_420_60fr_Spritesheet8x8_8
+  - first:
+      213: -2049791540439779322
+    second: Muyul_480_420_60fr_Spritesheet8x8_9
+  - first:
+      213: -932474100987184168
+    second: Muyul_480_420_60fr_Spritesheet8x8_10
+  - first:
+      213: -2683378064662743680
+    second: Muyul_480_420_60fr_Spritesheet8x8_11
+  - first:
+      213: -3818045164073512742
+    second: Muyul_480_420_60fr_Spritesheet8x8_12
+  - first:
+      213: 8981400606727646752
+    second: Muyul_480_420_60fr_Spritesheet8x8_13
+  - first:
+      213: -4980588535798057285
+    second: Muyul_480_420_60fr_Spritesheet8x8_14
+  - first:
+      213: -4369424818646980905
+    second: Muyul_480_420_60fr_Spritesheet8x8_15
+  - first:
+      213: -8859195449243553332
+    second: Muyul_480_420_60fr_Spritesheet8x8_16
+  - first:
+      213: -3545751220452248501
+    second: Muyul_480_420_60fr_Spritesheet8x8_17
+  - first:
+      213: 4021886089110715455
+    second: Muyul_480_420_60fr_Spritesheet8x8_18
+  - first:
+      213: 7047891809216697194
+    second: Muyul_480_420_60fr_Spritesheet8x8_19
+  - first:
+      213: -7118670364952371952
+    second: Muyul_480_420_60fr_Spritesheet8x8_20
+  - first:
+      213: 8783549241611740841
+    second: Muyul_480_420_60fr_Spritesheet8x8_21
+  - first:
+      213: -1042280037407332972
+    second: Muyul_480_420_60fr_Spritesheet8x8_22
+  - first:
+      213: -6491749896300182408
+    second: Muyul_480_420_60fr_Spritesheet8x8_23
+  - first:
+      213: -1969280844559569979
+    second: Muyul_480_420_60fr_Spritesheet8x8_24
+  - first:
+      213: -2270488786429960368
+    second: Muyul_480_420_60fr_Spritesheet8x8_25
+  - first:
+      213: -5610280760534848209
+    second: Muyul_480_420_60fr_Spritesheet8x8_26
+  - first:
+      213: -9125767975886044527
+    second: Muyul_480_420_60fr_Spritesheet8x8_27
+  - first:
+      213: -5884288036164622240
+    second: Muyul_480_420_60fr_Spritesheet8x8_28
+  - first:
+      213: 384213032763550551
+    second: Muyul_480_420_60fr_Spritesheet8x8_29
+  - first:
+      213: 3501847179307747180
+    second: Muyul_480_420_60fr_Spritesheet8x8_30
+  - first:
+      213: -555914760630225711
+    second: Muyul_480_420_60fr_Spritesheet8x8_31
+  - first:
+      213: 2100640618286772466
+    second: Muyul_480_420_60fr_Spritesheet8x8_32
+  - first:
+      213: 487701772593632280
+    second: Muyul_480_420_60fr_Spritesheet8x8_33
+  - first:
+      213: 474847514946336010
+    second: Muyul_480_420_60fr_Spritesheet8x8_34
+  - first:
+      213: 4364427612666413861
+    second: Muyul_480_420_60fr_Spritesheet8x8_35
+  - first:
+      213: 3230895210974432961
+    second: Muyul_480_420_60fr_Spritesheet8x8_36
+  - first:
+      213: -5834736346165603648
+    second: Muyul_480_420_60fr_Spritesheet8x8_37
+  - first:
+      213: -2462885847004055197
+    second: Muyul_480_420_60fr_Spritesheet8x8_38
+  - first:
+      213: -1652945110680001407
+    second: Muyul_480_420_60fr_Spritesheet8x8_39
+  - first:
+      213: -7645836186563732403
+    second: Muyul_480_420_60fr_Spritesheet8x8_40
+  - first:
+      213: -3911950324900092288
+    second: Muyul_480_420_60fr_Spritesheet8x8_41
+  - first:
+      213: 962625588870968854
+    second: Muyul_480_420_60fr_Spritesheet8x8_42
+  - first:
+      213: -5003621200600772668
+    second: Muyul_480_420_60fr_Spritesheet8x8_43
+  - first:
+      213: 1084887153304053610
+    second: Muyul_480_420_60fr_Spritesheet8x8_44
+  - first:
+      213: -406037542489318166
+    second: Muyul_480_420_60fr_Spritesheet8x8_45
+  - first:
+      213: 5269136614932045503
+    second: Muyul_480_420_60fr_Spritesheet8x8_46
+  - first:
+      213: 6405640347504312337
+    second: Muyul_480_420_60fr_Spritesheet8x8_47
+  - first:
+      213: 6068328948336161262
+    second: Muyul_480_420_60fr_Spritesheet8x8_48
+  - first:
+      213: -8110232813725857804
+    second: Muyul_480_420_60fr_Spritesheet8x8_49
+  - first:
+      213: 1242340097133940488
+    second: Muyul_480_420_60fr_Spritesheet8x8_50
+  - first:
+      213: -5771843539452112719
+    second: Muyul_480_420_60fr_Spritesheet8x8_51
+  - first:
+      213: 7439676607356418506
+    second: Muyul_480_420_60fr_Spritesheet8x8_52
+  - first:
+      213: -1372162589818435493
+    second: Muyul_480_420_60fr_Spritesheet8x8_53
+  - first:
+      213: 4126533207903038702
+    second: Muyul_480_420_60fr_Spritesheet8x8_54
+  - first:
+      213: -1337392769525124429
+    second: Muyul_480_420_60fr_Spritesheet8x8_55
+  - first:
+      213: -6252826756702289687
+    second: Muyul_480_420_60fr_Spritesheet8x8_56
+  - first:
+      213: -2077912464351038663
+    second: Muyul_480_420_60fr_Spritesheet8x8_57
+  - first:
+      213: -7512653438506422934
+    second: Muyul_480_420_60fr_Spritesheet8x8_58
+  - first:
+      213: 4330177337787007658
+    second: Muyul_480_420_60fr_Spritesheet8x8_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65bbcb2fd25b60c0800000000000000
+      internalID: -4581477077453392533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2940
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07145fa26683e87a0800000000000000
+      internalID: -6373094411224137360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2940
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7c8bbd3198473e0800000000000000
+      internalID: -2056868411417770039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2940
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52a9ca6de5db830800000000000000
+      internalID: 4088528312834074099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2940
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25969be983fd1a870800000000000000
+      internalID: 8692474190075881810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2940
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f0a3400cec0070800000000000000
+      internalID: 8074087717847234711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2940
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1448b38834ac64e10800000000000000
+      internalID: 2181653460904805441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_7
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2940
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e9c1272864f1c0800000000000000
+      internalID: -4470834012792166748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493f383faf0a1ecd0800000000000000
+      internalID: -2530564515917728876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2520
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087c78447dad83e0800000000000000
+      internalID: -2049791540439779322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2520
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db3860eebf2f03f0800000000000000
+      internalID: -932474100987184168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2520
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085b3b90ed9b2cad0800000000000000
+      internalID: -2683378064662743680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2520
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad01003f624930bc0800000000000000
+      internalID: -3818045164073512742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2520
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eaa7d244854ac70800000000000000
+      internalID: 8981400606727646752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2520
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6bf5f6d1561eab0800000000000000
+      internalID: -4980588535798057285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_15
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2520
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d665c3174fac53c0800000000000000
+      internalID: -4369424818646980905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1b41c4da0dd0580800000000000000
+      internalID: -8859195449243553332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2100
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44390b1d06facec0800000000000000
+      internalID: -3545751220452248501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2100
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c7784d61c90d730800000000000000
+      internalID: 4021886089110715455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2100
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a631fb752442fc160800000000000000
+      internalID: 7047891809216697194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2100
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd9e7f407653d90800000000000000
+      internalID: -7118670364952371952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2100
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a66b6d7f7f65e970800000000000000
+      internalID: 8783549241611740841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2100
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ead504d31981f0800000000000000
+      internalID: -1042280037407332972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_23
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2100
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87449543ddba8e5a0800000000000000
+      internalID: -6491749896300182408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbab0d6185bba4e0800000000000000
+      internalID: -1969280844559569979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1680
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f95527a7a9d70e0800000000000000
+      internalID: -2270488786429960368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1680
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dac127f574422b0800000000000000
+      internalID: -5610280760534848209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_27
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1680
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924da65062ca5180800000000000000
+      internalID: -9125767975886044527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1680
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a358153fc65ea0800000000000000
+      internalID: -5884288036164622240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1680
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b62f7b7bff45500800000000000000
+      internalID: 384213032763550551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_30
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1680
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67875cb47f099030800000000000000
+      internalID: 3501847179307747180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_31
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1680
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43d37787ef848f0800000000000000
+      internalID: -555914760630225711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07dbd3389f62d10800000000000000
+      internalID: 2100640618286772466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1260
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81495cf9d2aa4c600800000000000000
+      internalID: 487701772593632280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1260
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057ada8c4ff69600800000000000000
+      internalID: 474847514946336010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_35
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1260
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52343ec3acf819c30800000000000000
+      internalID: 4364427612666413861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_36
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1260
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce44ac831276dc20800000000000000
+      internalID: 3230895210974432961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_37
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1260
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c21db8f43ad60fa0800000000000000
+      internalID: -5834736346165603648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_38
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1260
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3697cfefe5212ddd0800000000000000
+      internalID: -2462885847004055197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_39
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1260
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18423b4fd2f8f09e0800000000000000
+      internalID: -1652945110680001407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c9a096f7884e590800000000000000
+      internalID: -7645836186563732403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0862b59e7e5f5b9c0800000000000000
+      internalID: -3911950324900092288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 840
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616fa547fdeeb5d00800000000000000
+      internalID: 962625588870968854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_43
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 840
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfc39347019f8ab0800000000000000
+      internalID: -5003621200600772668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_44
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 840
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67a2123e1b4e0f00800000000000000
+      internalID: 1084887153304053610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_45
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 840
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec9372a1077d5af0800000000000000
+      internalID: -406037542489318166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_46
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 840
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe570e85dbbf1940800000000000000
+      internalID: 5269136614932045503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_47
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 840
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11087ef15f765e850800000000000000
+      internalID: 6405640347504312337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1fbc1f609073450800000000000000
+      internalID: 6068328948336161262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 420
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7472cc93aa27f80800000000000000
+      internalID: -8110232813725857804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 420
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f84e37cbdad3110800000000000000
+      internalID: 1242340097133940488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_51
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 420
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0d2d3a1ea46efa0800000000000000
+      internalID: -5771843539452112719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_52
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 420
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac93341157a0f3760800000000000000
+      internalID: 7439676607356418506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 420
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58cac3056915fce0800000000000000
+      internalID: -1372162589818435493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_54
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 420
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece9ead614644930800000000000000
+      internalID: 4126533207903038702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_55
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 420
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27747ac50a07de0800000000000000
+      internalID: -1337392769525124429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c3b4913f7939a0800000000000000
+      internalID: -6252826756702289687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933fff77f95c923e0800000000000000
+      internalID: -2077912464351038663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d253d5081bdb790800000000000000
+      internalID: -7512653438506422934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muyul_480_420_60fr_Spritesheet8x8_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 480
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2cd31b851e71c30800000000000000
+      internalID: 4330177337787007658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3324932607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a9beb56227d98895e1f3b98e836cd9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e6a5424fc704480f425849fc14175e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/ColoringModels/36_tori.prefab
+- Assets/ColoringModels/10_kaedung.prefab
+- Assets/ColoringModels/40_boogle.prefab
+- Assets/ColoringModels/03_youla.prefab
+- Assets/ColoringModels/41_nagle.prefab
+- Assets/ColoringModels/15_eongga.prefab
+- Assets/ColoringModels/22_toto.prefab
+- Assets/ColoringModels/01_muddle.prefab
+- Assets/ColoringModels/07_muyul.prefab
+- Assets/ColoringModels/43_ogle.prefab
+- Assets/ColoringModels/12_hoga.prefab
+- Assets/ColoringModels/38_meri.prefab
+- Assets/ColoringModels/27_momo.prefab
+- Assets/ColoringModels/26_nana.prefab
+- Assets/ColoringModels/02_wagle.prefab
+- Assets/ColoringModels/32_hori.prefab
+- Assets/ColoringModels/33_ari.prefab
+- Assets/ColoringModels/37_mari.prefab
+- Assets/ColoringModels/14_checkga.prefab
+- Assets/ColoringModels/09_kaena.prefab
+- Assets/ColoringModels/28_suri.prefab
+- Assets/ColoringModels/16_jaki.prefab
+- Assets/ColoringModels/06_mugyul.prefab
+- Assets/ColoringModels/45_dogle.prefab
+- Assets/ColoringModels/42_woogle.prefab
+- Assets/ColoringModels/04_nazzo.prefab
+- Assets/ColoringModels/21_eongful.prefab
+- Assets/ColoringModels/11_kaeryoong.prefab
+- Assets/ColoringModels/24_coco.prefab
+- Assets/ColoringModels/29_doori.prefab
+- Assets/ColoringModels/17_tamki.prefab
+- Assets/ColoringModels/23_popo.prefab
+- Assets/ColoringModels/05_santui.prefab
+- Assets/ColoringModels/08_kaeil.prefab
+- Assets/ColoringModels/31_turi.prefab
+- Assets/ColoringModels/25_dudu.prefab
+- Assets/ColoringModels/34_woori.prefab
+- Assets/ColoringModels/13_jaga.prefab
+- Assets/ColoringModels/19_jongful.prefab
+- Assets/ColoringModels/20_byunung.prefab
+- Assets/ColoringModels/35_nuri.prefab
+- Assets/ColoringModels/39_bagle.prefab
+- Assets/ColoringModels/30_bori.prefab
+- Assets/ColoringModels/44_mogle.prefab
+- Assets/ColoringModels/18_yooful.prefab
+Dependencies: []

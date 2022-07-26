@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 780545295
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a0c67112b976c9c691ca6aa96ae2a11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4e6a5424fc704480f425849fc14175e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/FixedColoringModels/27_momo.prefab
+- Assets/FixedColoringModels/05_santui.prefab
+- Assets/FixedColoringModels/43_ogle.prefab
+- Assets/FixedColoringModels/04_nazzo.prefab
+- Assets/FixedColoringModels/41_nagle.prefab
+- Assets/FixedColoringModels/01_muddle.prefab
+- Assets/FixedColoringModels/28_suri.prefab
+- Assets/FixedColoringModels/33_ari.prefab
+- Assets/FixedColoringModels/11_kaeryoong.prefab
+- Assets/FixedColoringModels/37_mari.prefab
+- Assets/FixedColoringModels/14_checkga.prefab
+- Assets/FixedColoringModels/29_doori.prefab
+- Assets/FixedColoringModels/09_kaena.prefab
+- Assets/FixedColoringModels/07_muyul.prefab
+- Assets/FixedColoringModels/13_jaga.prefab
+- Assets/FixedColoringModels/39_bagle.prefab
+- Assets/FixedColoringModels/15_eongga.prefab
+- Assets/FixedColoringModels/02_wagle.prefab
+- Assets/FixedColoringModels/42_woogle.prefab
+- Assets/FixedColoringModels/26_nana.prefab
+- Assets/FixedColoringModels/03_youla.prefab
+- Assets/FixedColoringModels/08_kaeil.prefab
+- Assets/FixedColoringModels/44_mogle.prefab
+- Assets/FixedColoringModels/25_dudu.prefab
+- Assets/FixedColoringModels/17_tamki.prefab
+- Assets/FixedColoringModels/20_byunung.prefab
+- Assets/FixedColoringModels/23_popo.prefab
+- Assets/FixedColoringModels/19_jongful.prefab
+- Assets/FixedColoringModels/38_meri.prefab
+- Assets/FixedColoringModels/34_woori.prefab
+- Assets/FixedColoringModels/30_bori.prefab
+- Assets/FixedColoringModels/18_yooful.prefab
+- Assets/FixedColoringModels/16_jaki.prefab
+- Assets/FixedColoringModels/06_mugyul.prefab
+- Assets/FixedColoringModels/21_eongful.prefab
+- Assets/FixedColoringModels/32_hori.prefab
+- Assets/FixedColoringModels/31_turi.prefab
+- Assets/FixedColoringModels/10_kaedung.prefab
+- Assets/FixedColoringModels/35_nuri.prefab
+- Assets/FixedColoringModels/24_coco.prefab
+- Assets/FixedColoringModels/12_hoga.prefab
+- Assets/FixedColoringModels/40_boogle.prefab
+- Assets/FixedColoringModels/36_tori.prefab
+- Assets/FixedColoringModels/22_toto.prefab
+- Assets/FixedColoringModels/45_dogle.prefab
+Dependencies: []

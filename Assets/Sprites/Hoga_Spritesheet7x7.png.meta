@@ -1,0 +1,1277 @@
+fileFormatVersion: 2
+guid: d30e3baab686a914481c9a7999680782
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8288490575025651634
+    second: Hoga_Spritesheet7x7_0
+  - first:
+      213: 4598411402338222918
+    second: Hoga_Spritesheet7x7_1
+  - first:
+      213: 2932623109125794560
+    second: Hoga_Spritesheet7x7_2
+  - first:
+      213: -5105349086224915717
+    second: Hoga_Spritesheet7x7_3
+  - first:
+      213: -9200465405719065026
+    second: Hoga_Spritesheet7x7_4
+  - first:
+      213: 1132057304448634457
+    second: Hoga_Spritesheet7x7_5
+  - first:
+      213: 6855076167406264403
+    second: Hoga_Spritesheet7x7_6
+  - first:
+      213: 5803548331713429152
+    second: Hoga_Spritesheet7x7_7
+  - first:
+      213: 4924508737811483102
+    second: Hoga_Spritesheet7x7_8
+  - first:
+      213: 1965268910919923124
+    second: Hoga_Spritesheet7x7_9
+  - first:
+      213: -5858102572583896611
+    second: Hoga_Spritesheet7x7_10
+  - first:
+      213: -1075525984975345914
+    second: Hoga_Spritesheet7x7_11
+  - first:
+      213: 6806350664940545655
+    second: Hoga_Spritesheet7x7_12
+  - first:
+      213: -3120065903988265581
+    second: Hoga_Spritesheet7x7_13
+  - first:
+      213: 7917643127682908064
+    second: Hoga_Spritesheet7x7_14
+  - first:
+      213: -2243487614658949088
+    second: Hoga_Spritesheet7x7_15
+  - first:
+      213: -5312033147488795876
+    second: Hoga_Spritesheet7x7_16
+  - first:
+      213: -3567295940812830230
+    second: Hoga_Spritesheet7x7_17
+  - first:
+      213: -3453784894305021888
+    second: Hoga_Spritesheet7x7_18
+  - first:
+      213: -6683288695882433710
+    second: Hoga_Spritesheet7x7_19
+  - first:
+      213: -8564250307496781894
+    second: Hoga_Spritesheet7x7_20
+  - first:
+      213: -5916655387265993864
+    second: Hoga_Spritesheet7x7_21
+  - first:
+      213: -7110936835234925710
+    second: Hoga_Spritesheet7x7_22
+  - first:
+      213: 7092492668192323112
+    second: Hoga_Spritesheet7x7_23
+  - first:
+      213: 7745534945041779372
+    second: Hoga_Spritesheet7x7_24
+  - first:
+      213: -5735378305790301344
+    second: Hoga_Spritesheet7x7_25
+  - first:
+      213: -2356240222570016276
+    second: Hoga_Spritesheet7x7_26
+  - first:
+      213: 3570712481970289582
+    second: Hoga_Spritesheet7x7_27
+  - first:
+      213: -5640995879659687003
+    second: Hoga_Spritesheet7x7_28
+  - first:
+      213: -42797076480459619
+    second: Hoga_Spritesheet7x7_29
+  - first:
+      213: 8634973749798186955
+    second: Hoga_Spritesheet7x7_30
+  - first:
+      213: 2921442232935396336
+    second: Hoga_Spritesheet7x7_31
+  - first:
+      213: -3873211169869046789
+    second: Hoga_Spritesheet7x7_32
+  - first:
+      213: 385599952806088466
+    second: Hoga_Spritesheet7x7_33
+  - first:
+      213: -2949060862284511839
+    second: Hoga_Spritesheet7x7_34
+  - first:
+      213: 1812610102192224962
+    second: Hoga_Spritesheet7x7_35
+  - first:
+      213: 1185885683765413478
+    second: Hoga_Spritesheet7x7_36
+  - first:
+      213: 1277932522517506944
+    second: Hoga_Spritesheet7x7_37
+  - first:
+      213: -2499709115643282678
+    second: Hoga_Spritesheet7x7_38
+  - first:
+      213: -4956405283327741257
+    second: Hoga_Spritesheet7x7_39
+  - first:
+      213: -6093413249496274343
+    second: Hoga_Spritesheet7x7_40
+  - first:
+      213: -5449161432428685637
+    second: Hoga_Spritesheet7x7_41
+  - first:
+      213: 5580720610044869192
+    second: Hoga_Spritesheet7x7_42
+  - first:
+      213: 9214915767209237342
+    second: Hoga_Spritesheet7x7_0
+  - first:
+      213: 6399147054075449982
+    second: Hoga_Spritesheet7x7_1
+  - first:
+      213: 2976819953401149231
+    second: Hoga_Spritesheet7x7_2
+  - first:
+      213: -4984010329059962260
+    second: Hoga_Spritesheet7x7_3
+  - first:
+      213: -9096340510345775061
+    second: Hoga_Spritesheet7x7_4
+  - first:
+      213: -8774478396746861912
+    second: Hoga_Spritesheet7x7_5
+  - first:
+      213: 1992891018530904477
+    second: Hoga_Spritesheet7x7_6
+  - first:
+      213: 6982435707820881863
+    second: Hoga_Spritesheet7x7_7
+  - first:
+      213: 3004293730194312376
+    second: Hoga_Spritesheet7x7_8
+  - first:
+      213: -8820956825463279017
+    second: Hoga_Spritesheet7x7_9
+  - first:
+      213: -237041034986998969
+    second: Hoga_Spritesheet7x7_10
+  - first:
+      213: -4674577208718047638
+    second: Hoga_Spritesheet7x7_11
+  - first:
+      213: -3496321391613144043
+    second: Hoga_Spritesheet7x7_12
+  - first:
+      213: 8588566973008305906
+    second: Hoga_Spritesheet7x7_13
+  - first:
+      213: 8754523232939561493
+    second: Hoga_Spritesheet7x7_14
+  - first:
+      213: -3326333119390992712
+    second: Hoga_Spritesheet7x7_15
+  - first:
+      213: 626356114041035782
+    second: Hoga_Spritesheet7x7_16
+  - first:
+      213: -3177398106844044263
+    second: Hoga_Spritesheet7x7_17
+  - first:
+      213: -7315075502469765854
+    second: Hoga_Spritesheet7x7_18
+  - first:
+      213: 8930968921873078558
+    second: Hoga_Spritesheet7x7_19
+  - first:
+      213: 4919713688719346473
+    second: Hoga_Spritesheet7x7_20
+  - first:
+      213: 7578728206757519831
+    second: Hoga_Spritesheet7x7_21
+  - first:
+      213: -5571971088806104822
+    second: Hoga_Spritesheet7x7_22
+  - first:
+      213: -2808424097161729744
+    second: Hoga_Spritesheet7x7_23
+  - first:
+      213: 8510634001543112691
+    second: Hoga_Spritesheet7x7_24
+  - first:
+      213: 7804656054884069404
+    second: Hoga_Spritesheet7x7_25
+  - first:
+      213: -1912976458687284192
+    second: Hoga_Spritesheet7x7_26
+  - first:
+      213: 2717306256088110103
+    second: Hoga_Spritesheet7x7_27
+  - first:
+      213: 2812651731673012329
+    second: Hoga_Spritesheet7x7_28
+  - first:
+      213: -5164977701011133817
+    second: Hoga_Spritesheet7x7_29
+  - first:
+      213: -5855894683291146286
+    second: Hoga_Spritesheet7x7_30
+  - first:
+      213: -7833951351666325105
+    second: Hoga_Spritesheet7x7_31
+  - first:
+      213: -361355050481571225
+    second: Hoga_Spritesheet7x7_32
+  - first:
+      213: 925077781375905105
+    second: Hoga_Spritesheet7x7_33
+  - first:
+      213: 8541763775447033570
+    second: Hoga_Spritesheet7x7_34
+  - first:
+      213: -4257996765307421766
+    second: Hoga_Spritesheet7x7_35
+  - first:
+      213: 5015449746721305362
+    second: Hoga_Spritesheet7x7_36
+  - first:
+      213: 8549071292378727717
+    second: Hoga_Spritesheet7x7_37
+  - first:
+      213: -7274837135871716631
+    second: Hoga_Spritesheet7x7_38
+  - first:
+      213: 3761642471618556728
+    second: Hoga_Spritesheet7x7_39
+  - first:
+      213: 6803012090731670091
+    second: Hoga_Spritesheet7x7_40
+  - first:
+      213: 6578782064386368924
+    second: Hoga_Spritesheet7x7_41
+  - first:
+      213: -7310443867164444721
+    second: Hoga_Spritesheet7x7_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b17ab4115f1ef70800000000000000
+      internalID: 9214915767209237342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3168
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7297af67565ec850800000000000000
+      internalID: 6399147054075449982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_2
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3168
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2735cac9f9cf4920800000000000000
+      internalID: 2976819953401149231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_3
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 3168
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d08b130d35dab0800000000000000
+      internalID: -4984010329059962260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_4
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3168
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2838d4108e43c180800000000000000
+      internalID: -9096340510345775061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_5
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3168
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27098236aca3680800000000000000
+      internalID: -8774478396746861912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_6
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3168
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d99392db28ab10800000000000000
+      internalID: 1992891018530904477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7baaf184896e060800000000000000
+      internalID: 6982435707820881863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2640
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc4a2dea3561b920800000000000000
+      internalID: 3004293730194312376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_9
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2640
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752343fa08aa59580800000000000000
+      internalID: -8820956825463279017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_10
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2640
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743b8604f6cd5bcf0800000000000000
+      internalID: -237041034986998969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_11
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2640
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66493fabc0902fb0800000000000000
+      internalID: -4674577208718047638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_12
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2640
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5149c48f7329a7fc0800000000000000
+      internalID: -3496321391613144043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_13
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2640
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fedfc36828b03770800000000000000
+      internalID: 8588566973008305906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51254453f705e7970800000000000000
+      internalID: 8754523232939561493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2112
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6351ec6ad76d1d0800000000000000
+      internalID: -3326333119390992712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2112
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c5f40319341b800800000000000000
+      internalID: 626356114041035782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_17
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2112
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ef83a14d97e3d0800000000000000
+      internalID: -3177398106844044263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_18
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2112
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a0226691ab7a90800000000000000
+      internalID: -7315075502469765854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_19
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2112
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e195c488aec21fb70800000000000000
+      internalID: 8930968921873078558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_20
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2112
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b4ebcb885564440800000000000000
+      internalID: 4919713688719346473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1e305762d0d2960800000000000000
+      internalID: 7578728206757519831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1584
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0137f8f0d16ca2b0800000000000000
+      internalID: -5571971088806104822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_23
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1584
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039270ec9297609d0800000000000000
+      internalID: -2808424097161729744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1584
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7a65b7888db1670800000000000000
+      internalID: 8510634001543112691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_25
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1584
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c107771c455bf4c60800000000000000
+      internalID: 7804656054884069404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_26
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1584
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c7244db0eb375e0800000000000000
+      internalID: -1912976458687284192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_27
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1584
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714141c94afc5b520800000000000000
+      internalID: 2717306256088110103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968d14f09db880720800000000000000
+      internalID: 2812651731673012329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1056
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aea6a65205258b0800000000000000
+      internalID: -5164977701011133817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_30
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1056
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d72558bfceabbea0800000000000000
+      internalID: -5855894683291146286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_31
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1056
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89cc3070c6384390800000000000000
+      internalID: -7833951351666325105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_32
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1056
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa0420f753cfaf0800000000000000
+      internalID: -361355050481571225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_33
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1056
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6484475986dc00800000000000000
+      internalID: 925077781375905105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_34
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1056
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e1d6c5e07a8670800000000000000
+      internalID: 8541763775447033570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb615708e88e4c0800000000000000
+      internalID: -4257996765307421766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_36
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 528
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213752eb8f47a9540800000000000000
+      internalID: 5015449746721305362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_37
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 528
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52549b5ab0764a670800000000000000
+      internalID: 8549071292378727717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_38
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 528
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2db8d2b269a0b90800000000000000
+      internalID: -7274837135871716631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_39
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 528
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833b8dcd5e9043430800000000000000
+      internalID: 3761642471618556728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_40
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 528
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aafbed377296e50800000000000000
+      internalID: 6803012090731670091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_41
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 528
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e5728e678c4b50800000000000000
+      internalID: 6578782064386368924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoga_Spritesheet7x7_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 376
+        height: 528
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7fa3309061c8a90800000000000000
+      internalID: -7310443867164444721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: c634e5cec2bee5e4aad776ee243ccc83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4527184003270584821
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_0
+  - first:
+      213: 5885037383742455277
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_1
+  - first:
+      213: -6046820316411288395
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_2
+  - first:
+      213: 9120101582288606892
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_3
+  - first:
+      213: -5031711371718329672
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_4
+  - first:
+      213: 8072173275647320102
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_5
+  - first:
+      213: -6214628273266540755
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_6
+  - first:
+      213: -4048183426164062778
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_7
+  - first:
+      213: -2588143741038485564
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_8
+  - first:
+      213: 6054902941353453641
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_9
+  - first:
+      213: -2156034195963939531
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_10
+  - first:
+      213: 5596504262744517047
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_11
+  - first:
+      213: -3782416728532215917
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_12
+  - first:
+      213: 4188074371978555392
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_13
+  - first:
+      213: -1222622167179256713
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_14
+  - first:
+      213: 8967851801661150716
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_15
+  - first:
+      213: 6426951361464271917
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_16
+  - first:
+      213: 5295107189447059672
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_17
+  - first:
+      213: -7807832754886588116
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_18
+  - first:
+      213: -5870877269624790262
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_19
+  - first:
+      213: 192002513338181615
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_20
+  - first:
+      213: -2517583191450217443
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_21
+  - first:
+      213: -770040133976399982
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_22
+  - first:
+      213: 2919491971058548778
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_23
+  - first:
+      213: 1564582150761321006
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_24
+  - first:
+      213: 2094299005588476100
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_25
+  - first:
+      213: -1006855298960582262
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_26
+  - first:
+      213: 2415401678545052268
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_27
+  - first:
+      213: -1395174091266496095
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_28
+  - first:
+      213: -4290878299910229143
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_29
+  - first:
+      213: -1298152563385822656
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_30
+  - first:
+      213: 2585950986461161990
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_31
+  - first:
+      213: -5866921964770761551
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_32
+  - first:
+      213: 3104145218056738415
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_33
+  - first:
+      213: 6594709926191483342
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_34
+  - first:
+      213: -3217161280004786515
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_35
+  - first:
+      213: 9031242480896767483
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_36
+  - first:
+      213: 6195928953887970638
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_37
+  - first:
+      213: -509389451207664595
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_38
+  - first:
+      213: -6310341696584878229
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_39
+  - first:
+      213: -5144637262335631282
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_40
+  - first:
+      213: 7429370737642710695
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_41
+  - first:
+      213: -7696448225502517047
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_42
+  - first:
+      213: 1900550470426631893
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_43
+  - first:
+      213: -7484873038229139914
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_44
+  - first:
+      213: -6420184908046044251
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_45
+  - first:
+      213: -5401507206455715401
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_46
+  - first:
+      213: -530560605447906192
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_47
+  - first:
+      213: -958843884508852434
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_48
+  - first:
+      213: 1123972050060710525
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_49
+  - first:
+      213: -1707169089869759910
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_50
+  - first:
+      213: -8632093730280564522
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_51
+  - first:
+      213: -3372020522142440678
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_52
+  - first:
+      213: 8606486204342558602
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_53
+  - first:
+      213: 7639119483513406100
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_54
+  - first:
+      213: -3226806294580845402
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_55
+  - first:
+      213: 8061741082972822299
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_56
+  - first:
+      213: -7327740920446263129
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_57
+  - first:
+      213: 6182069155483534813
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_58
+  - first:
+      213: 6348068143782245020
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_59
+  - first:
+      213: 4216846333890422784
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_60
+  - first:
+      213: -6743304623248935576
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_61
+  - first:
+      213: -6911884143656519571
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_62
+  - first:
+      213: -7645694982945546881
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_63
+  - first:
+      213: -4710610527685763362
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_64
+  - first:
+      213: -665872755581318200
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_65
+  - first:
+      213: -5707752579628409817
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_66
+  - first:
+      213: -2652114938327510643
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_67
+  - first:
+      213: 6377666464642044387
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_68
+  - first:
+      213: 692813991630461086
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_69
+  - first:
+      213: 2476099490198976029
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_70
+  - first:
+      213: -1732080810642917426
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_71
+  - first:
+      213: 6936119853943322530
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_72
+  - first:
+      213: 976688543548050380
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_73
+  - first:
+      213: -24399480578542980
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_74
+  - first:
+      213: 1216802667166464017
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_75
+  - first:
+      213: 7166944932394718166
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_76
+  - first:
+      213: 473744257163461935
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_77
+  - first:
+      213: 6078025221082493185
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_78
+  - first:
+      213: -2002273807188613748
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_79
+  - first:
+      213: -236465548390761452
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_80
+  - first:
+      213: -2277750579938991000
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_81
+  - first:
+      213: 1589826351631841646
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_82
+  - first:
+      213: 1446068271901470306
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_83
+  - first:
+      213: 7820962463730118709
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_84
+  - first:
+      213: 8950132989196789187
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_85
+  - first:
+      213: 7584859084541901344
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_86
+  - first:
+      213: -8273437025257216209
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_87
+  - first:
+      213: -7620168134892755575
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_88
+  - first:
+      213: -7268248030473876662
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_89
+  - first:
+      213: 2799368498961476059
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_90
+  - first:
+      213: -6276729449277624115
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_91
+  - first:
+      213: -9208190537952319374
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_92
+  - first:
+      213: -3889459768683163779
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_93
+  - first:
+      213: -5321450640978031847
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_94
+  - first:
+      213: 8455472804562618254
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_95
+  - first:
+      213: 2669187134968434854
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_96
+  - first:
+      213: -7968211570379550335
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_97
+  - first:
+      213: 3626103405370576659
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_98
+  - first:
+      213: -3144586033138195328
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_99
+  - first:
+      213: 8549841220006276244
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_100
+  - first:
+      213: -612603350506570686
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_101
+  - first:
+      213: -4245341767948518123
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_102
+  - first:
+      213: -1178298994131587035
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_103
+  - first:
+      213: -1675048026609576298
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_104
+  - first:
+      213: 5814989039742832787
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_0
+  - first:
+      213: 2822569209241471205
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_1
+  - first:
+      213: -3573751391755948363
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_2
+  - first:
+      213: 2798638269724600921
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_3
+  - first:
+      213: -7338346374577667123
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_4
+  - first:
+      213: -4981948941028333468
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_5
+  - first:
+      213: -4207679701805668502
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_6
+  - first:
+      213: 4463181824689889304
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_7
+  - first:
+      213: 6310826919382927739
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_8
+  - first:
+      213: -5312953523966385996
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_9
+  - first:
+      213: -19433045546079789
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_10
+  - first:
+      213: 4682152712946848233
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_11
+  - first:
+      213: 2474327025771984258
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_12
+  - first:
+      213: 4545284174345690805
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_13
+  - first:
+      213: 178474571792897378
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_14
+  - first:
+      213: 7816417680989782518
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_15
+  - first:
+      213: -5956790673996858090
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_16
+  - first:
+      213: 3176099395534971491
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_17
+  - first:
+      213: 6462928446647687431
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_18
+  - first:
+      213: 7984228561898174825
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_19
+  - first:
+      213: 2694422550283517916
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_20
+  - first:
+      213: 3479677143895834529
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_21
+  - first:
+      213: -8298833254509879891
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_22
+  - first:
+      213: 5488405808916741554
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_23
+  - first:
+      213: -1826253566471189181
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_24
+  - first:
+      213: -4940506788725302314
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_25
+  - first:
+      213: -3863229061586933513
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_26
+  - first:
+      213: -7464275979439157744
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_27
+  - first:
+      213: 4869035015718224151
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_28
+  - first:
+      213: 3763190171632053195
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_29
+  - first:
+      213: -589479313332084498
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_30
+  - first:
+      213: 3918017957482277243
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_31
+  - first:
+      213: 6699662949193193460
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_32
+  - first:
+      213: -6434116839255201914
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_33
+  - first:
+      213: 2282607596802150022
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_34
+  - first:
+      213: 7517035944596444298
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_35
+  - first:
+      213: 9078705574527626044
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_36
+  - first:
+      213: -9048173417079185679
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_37
+  - first:
+      213: 5522113582895861201
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_38
+  - first:
+      213: 9126430488012548254
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_39
+  - first:
+      213: 5767591023215800092
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_40
+  - first:
+      213: -986019203697008770
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_41
+  - first:
+      213: -939532703731203715
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_42
+  - first:
+      213: -1780292053537545775
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_43
+  - first:
+      213: -8431973354098096433
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_44
+  - first:
+      213: 2234754908637232183
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_45
+  - first:
+      213: -7113266767340821341
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_46
+  - first:
+      213: -2741488679103615205
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_47
+  - first:
+      213: 5315598581980412489
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_48
+  - first:
+      213: 9174554747036183245
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_49
+  - first:
+      213: -4273517164464191997
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_50
+  - first:
+      213: -7353884088556523648
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_51
+  - first:
+      213: 4910851884030756356
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_52
+  - first:
+      213: 9205011867844726663
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_53
+  - first:
+      213: -7741709969139029730
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_54
+  - first:
+      213: 8730984082410513551
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_55
+  - first:
+      213: -8845199361536824137
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_56
+  - first:
+      213: -6344710747604591066
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_57
+  - first:
+      213: 895060339538917067
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_58
+  - first:
+      213: -2595437904921788082
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_59
+  - first:
+      213: 286641874196751062
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_60
+  - first:
+      213: 4415166015170804956
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_61
+  - first:
+      213: -7572345878162353226
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_62
+  - first:
+      213: -2222459230343370923
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_63
+  - first:
+      213: -8065044682084069450
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_64
+  - first:
+      213: -9005104787728612178
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_65
+  - first:
+      213: -4416472744325021900
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_66
+  - first:
+      213: 2749288972712292657
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_67
+  - first:
+      213: -7891962782047499999
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_68
+  - first:
+      213: 5050596126117015536
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_69
+  - first:
+      213: 4460021774263034406
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_70
+  - first:
+      213: -8878820313620099731
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_71
+  - first:
+      213: 7777971883138296217
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_72
+  - first:
+      213: 4757538593979812775
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_73
+  - first:
+      213: -6982433969999282974
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_74
+  - first:
+      213: -9012142500252278298
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_75
+  - first:
+      213: 9024574356722490842
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_76
+  - first:
+      213: 2288703483729430661
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_77
+  - first:
+      213: 7670324744862502464
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_78
+  - first:
+      213: 3743521035802721667
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_79
+  - first:
+      213: 8684157787850895268
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_80
+  - first:
+      213: 395077859100843828
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_81
+  - first:
+      213: 2206831646279890142
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_82
+  - first:
+      213: -1614552324558044106
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_83
+  - first:
+      213: -2843442847221348858
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_84
+  - first:
+      213: 3028642566930923276
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_85
+  - first:
+      213: -1441436109142066128
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_86
+  - first:
+      213: -3101947436171395143
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_87
+  - first:
+      213: 5305886691344286878
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_88
+  - first:
+      213: 5617701579822162246
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_89
+  - first:
+      213: -4269584093450285235
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_90
+  - first:
+      213: -3003010316899298391
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_91
+  - first:
+      213: -1333645125086757798
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_92
+  - first:
+      213: 2580208711380495765
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_93
+  - first:
+      213: -8302203691622348632
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_94
+  - first:
+      213: 8257522043440946826
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_95
+  - first:
+      213: 2015548639795171243
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_96
+  - first:
+      213: 8465892409910796731
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_97
+  - first:
+      213: -6389366121395871387
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_98
+  - first:
+      213: 3525641107963036729
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_99
+  - first:
+      213: 973584500104173300
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_100
+  - first:
+      213: -157336937797387222
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_101
+  - first:
+      213: 3434388163974403500
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_102
+  - first:
+      213: 1544259892867938151
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_103
+  - first:
+      213: -1275184448430755068
+    second: Kaeil_340_400_105fr_01_Spritesheet11x10_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39059a6f8bdf2b050800000000000000
+      internalID: 5814989039742832787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e80bcebdb7cb2720800000000000000
+      internalID: 2822569209241471205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be24d23b0c776ec0800000000000000
+      internalID: -3573751391755948363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aafb1bda2c6d620800000000000000
+      internalID: 2798638269724600921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c5804ad4f82a90800000000000000
+      internalID: -7338346374577667123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4686fd865df8cdab0800000000000000
+      internalID: -4981948941028333468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67604dba915b95c0800000000000000
+      internalID: -4207679701805668502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_7
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810ee9cf83860fd30800000000000000
+      internalID: 4463181824689889304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_8
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79cac0a5af849750800000000000000
+      internalID: 6310826919382927739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_9
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e2df4be89446b0800000000000000
+      internalID: -5312953523966385996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_10
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9625f7fb5fabff0800000000000000
+      internalID: -19433045546079789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11457d5195af040800000000000000
+      internalID: 4682152712946848233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285b9450253965220800000000000000
+      internalID: 2474327025771984258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be5417efd7141f30800000000000000
+      internalID: 4545284174345690805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d72d6da11a7200800000000000000
+      internalID: 178474571792897378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_15
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18a7bb77e797c60800000000000000
+      internalID: 7816417680989782518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_16
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dbe03417a355da0800000000000000
+      internalID: -5956790673996858090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_17
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e1329295c31c20800000000000000
+      internalID: 3176099395534971491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_18
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d33f1e2fe0b950800000000000000
+      internalID: 6462928446647687431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_19
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f775239dadce60800000000000000
+      internalID: 7984228561898174825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_20
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf7378a803846520800000000000000
+      internalID: 2694422550283517916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_21
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aff4fe1deb4a4030800000000000000
+      internalID: 3479677143895834529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad5db6cf1f94dc80800000000000000
+      internalID: -8298833254509879891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd3caf110cba2c40800000000000000
+      internalID: 5488405808916741554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_24
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc1b4ae08d7a6e0800000000000000
+      internalID: -1826253566471189181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db5f97604bcf6bb0800000000000000
+      internalID: -4940506788725302314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_26
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8252203ad036ac0800000000000000
+      internalID: -3863229061586933513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_27
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e4c0c4b80996890800000000000000
+      internalID: -7464275979439157744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_28
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c2deac89429340800000000000000
+      internalID: 4869035015718224151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_29
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbae5ad589893430800000000000000
+      internalID: 3763190171632053195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_30
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0666e00bfb1d7f0800000000000000
+      internalID: -589479313332084498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_31
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b792553e2989f5630800000000000000
+      internalID: 3918017957482277243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_32
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79189b4fbf9fc50800000000000000
+      internalID: 6699662949193193460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a5d8f2dc65b6a0800000000000000
+      internalID: -6434116839255201914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e0009f3837daf10800000000000000
+      internalID: 2282607596802150022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_35
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8493895d50e15860800000000000000
+      internalID: 7517035944596444298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_36
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be3167e9a0efd70800000000000000
+      internalID: 9078705574527626044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_37
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fedcd8673e6e6280800000000000000
+      internalID: -9048173417079185679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_38
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0ed5db0d72ac40800000000000000
+      internalID: 5522113582895861201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_39
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986849cc2897ae70800000000000000
+      internalID: 9126430488012548254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_40
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f62844a799a0050800000000000000
+      internalID: 5767591023215800092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_41
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f1de522c4f052f0800000000000000
+      internalID: -986019203697008770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_42
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d714d3bdbfb16f2f0800000000000000
+      internalID: -939532703731203715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_43
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a1784fc12b47e0800000000000000
+      internalID: -1780292053537545775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc68c61b8ec9bfa80800000000000000
+      internalID: -8431973354098096433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cf169cfb1730f10800000000000000
+      internalID: 2234754908637232183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a42f041099984d90800000000000000
+      internalID: -7113266767340821341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_47
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f2646429644f9d0800000000000000
+      internalID: -2741488679103615205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_48
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a338f3fbcc4c940800000000000000
+      internalID: 5315598581980412489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_49
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca277dfee0925f70800000000000000
+      internalID: 9174554747036183245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_50
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306c39ee7ca61b4c0800000000000000
+      internalID: -4273517164464191997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_51
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe03e4261c1f990800000000000000
+      internalID: -7353884088556523648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_52
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406063c05c9d62440800000000000000
+      internalID: 4910851884030756356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_53
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc3280685cebf70800000000000000
+      internalID: 9205011867844726663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_54
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2000
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192e57eccbef8490800000000000000
+      internalID: -7741709969139029730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f842ba3a3cfaa2970800000000000000
+      internalID: 8730984082410513551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bce5186b0a8f3580800000000000000
+      internalID: -8845199361536824137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_57
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62edc66d03f03f7a0800000000000000
+      internalID: -6344710747604591066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_58
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f1c6f2a4eb6c00800000000000000
+      internalID: 895060339538917067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_59
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e418d880af62bfbd0800000000000000
+      internalID: -2595437904921788082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_60
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ef31144b5af300800000000000000
+      internalID: 286641874196751062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_61
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcf1a62912d54d30800000000000000
+      internalID: 4415166015170804956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_62
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35db73b8f99e690800000000000000
+      internalID: -7572345878162353226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_63
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5576897ea1d3821e0800000000000000
+      internalID: -2222459230343370923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_64
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfc9b29794331090800000000000000
+      internalID: -8065044682084069450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_65
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1600
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4444a18e0770380800000000000000
+      internalID: -9005104787728612178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fff42407985b2c0800000000000000
+      internalID: -4416472744325021900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1313a6b11cf672620800000000000000
+      internalID: 2749288972712292657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_68
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1298473c9ad1a7290800000000000000
+      internalID: -7891962782047499999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_69
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff2b21ea62571640800000000000000
+      internalID: 5050596126117015536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_70
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622a4796c2e25ed30800000000000000
+      internalID: 4460021774263034406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_71
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc62e77f718c480800000000000000
+      internalID: -8878820313620099731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_72
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9992f6fd738e0fb60800000000000000
+      internalID: 7777971883138296217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_73
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc06b052c260240800000000000000
+      internalID: 4757538593979812775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_74
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec729e7c49691f90800000000000000
+      internalID: -6982433969999282974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_75
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e12347f4207ee280800000000000000
+      internalID: -9012142500252278298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_76
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1200
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add1b8d209abd3d70800000000000000
+      internalID: 9024574356722490842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58844ef31bb13cf10800000000000000
+      internalID: 2288703483729430661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e0b6167b7727a60800000000000000
+      internalID: 7670324744862502464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_79
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d393c4c88a3f330800000000000000
+      internalID: 3743521035802721667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_80
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af6b465f73548870800000000000000
+      internalID: 8684157787850895268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_81
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fd35a38399b7500800000000000000
+      internalID: 395077859100843828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_82
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed47a93a0bd30ae10800000000000000
+      internalID: 2206831646279890142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_83
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634cf6f0735f799e0800000000000000
+      internalID: -1614552324558044106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_84
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6060f30bbcf0a88d0800000000000000
+      internalID: -2843442847221348858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_85
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7b814e56e70a20800000000000000
+      internalID: 3028642566930923276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_86
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c7a2cee7dfefbe0800000000000000
+      internalID: -1441436109142066128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_87
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 800
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff11bdd3ba3f4d0800000000000000
+      internalID: -3101947436171395143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e948c0085db42a940800000000000000
+      internalID: 5305886691344286878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_89
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641637fa2d516fd40800000000000000
+      internalID: 5617701579822162246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_90
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fcc3363e36fb4c0800000000000000
+      internalID: -4269584093450285235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_91
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35264070a2356d0800000000000000
+      internalID: -3003010316899298391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_92
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cb5ce13d0fd7de0800000000000000
+      internalID: -1333645125086757798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_93
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de338072ebec320800000000000000
+      internalID: 2580208711380495765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_94
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c9ebbab5a8cc80800000000000000
+      internalID: -8302203691622348632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_95
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e514c5c8c989270800000000000000
+      internalID: 8257522043440946826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_96
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf438e1fcaa8fb10800000000000000
+      internalID: 2015548639795171243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_97
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1a867ea44ec7570800000000000000
+      internalID: 8465892409910796731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_98
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 400
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561a84a6d596457a0800000000000000
+      internalID: -6389366121395871387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934c6a578e79de030800000000000000
+      internalID: 3525641107963036729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_100
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6198fc1fdd28d00800000000000000
+      internalID: 973584500104173300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_101
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cf98083e601ddf0800000000000000
+      internalID: -157336937797387222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_102
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51086c6d569af20800000000000000
+      internalID: 3434388163974403500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_103
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767b643d0305e6510800000000000000
+      internalID: 1544259892867938151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaeil_340_400_105fr_01_Spritesheet11x10_104
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403be281082ad4ee0800000000000000
+      internalID: -1275184448430755068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

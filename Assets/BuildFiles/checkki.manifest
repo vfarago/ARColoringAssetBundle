@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3202173826
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e55967c97efcabd50dc260a291a9d60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audios/12_hoga_02.mp3
+- Assets/Audios/03_youla_01.mp3
+- Assets/Audios/09_kaena_01.mp3
+- Assets/Audios/01_muddle_02.mp3
+- Assets/Audios/08_kaeil_01.mp3
+- Assets/Audios/07_muyul_01.mp3
+- Assets/Audios/13_jaga_01.mp3
+- Assets/Audios/09_kaena_02.mp3
+- Assets/Audios/06_mugyul_02.mp3
+- Assets/Audios/02_wagle_01.mp3
+- Assets/Audios/06_mugyul_01.mp3
+- Assets/Audios/11_kaeryoong_01.mp3
+- Assets/Audios/07_muyul_02.mp3
+- Assets/Audios/10_kaedung_01.mp3
+- Assets/Audios/17_tamki_01.mp3
+- Assets/Audios/03_youla_02.mp3
+- Assets/Audios/08_kaeil_02.mp3
+- Assets/Audios/19_jongful_01.mp3
+- Assets/Audios/18_yooful_02.mp3
+- Assets/Audios/04_nazzo_01.mp3
+- Assets/Audios/11_kaeryoong_02.mp3
+- Assets/Audios/13_jaga_02.mp3
+- Assets/Audios/05_sangtui_02.mp3
+- Assets/Audios/14_checkga_01.mp3
+- Assets/Audios/15_eongga_02.mp3
+- Assets/Audios/14_checkga_02.mp3
+- Assets/Audios/15_eongga_01.mp3
+- Assets/Audios/19_jongful_02.mp3
+- Assets/Audios/12_hoga_01.mp3
+- Assets/Audios/20_byunung_01.mp3
+- Assets/Audios/16_jaki_02.mp3
+- Assets/Audios/20_byunung_02.mp3
+- Assets/Audios/01_muddle_01.mp3
+- Assets/Audios/17_tamki_02.mp3
+- Assets/Audios/02_wagle_02.mp3
+- Assets/Audios/04_nazzo_02.mp3
+- Assets/Audios/18_yooful_01.mp3
+- Assets/Audios/10_kaedung_02.mp3
+- Assets/Audios/05_sangtui_01.mp3
+- Assets/Audios/16_jaki_01.mp3
+Dependencies: []

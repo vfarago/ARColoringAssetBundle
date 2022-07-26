@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: 988a7feefe6c1bc40893763e4cb1e563
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7919836968771391696
+    second: Kaedung_001_Spritesheet9x9_0
+  - first:
+      213: -2389332639848068135
+    second: Kaedung_001_Spritesheet9x9_1
+  - first:
+      213: -2066745527925027224
+    second: Kaedung_001_Spritesheet9x9_2
+  - first:
+      213: 2067779777974837857
+    second: Kaedung_001_Spritesheet9x9_3
+  - first:
+      213: -3841675497867410895
+    second: Kaedung_001_Spritesheet9x9_4
+  - first:
+      213: -4951526966928258126
+    second: Kaedung_001_Spritesheet9x9_5
+  - first:
+      213: -8759871197796804346
+    second: Kaedung_001_Spritesheet9x9_6
+  - first:
+      213: -5189081772817943265
+    second: Kaedung_001_Spritesheet9x9_7
+  - first:
+      213: -1664301920557423549
+    second: Kaedung_001_Spritesheet9x9_8
+  - first:
+      213: 2634064548321821306
+    second: Kaedung_001_Spritesheet9x9_9
+  - first:
+      213: -5567649730467604964
+    second: Kaedung_001_Spritesheet9x9_10
+  - first:
+      213: -5373775106615401620
+    second: Kaedung_001_Spritesheet9x9_11
+  - first:
+      213: -2641670965163825322
+    second: Kaedung_001_Spritesheet9x9_12
+  - first:
+      213: 249513020136914026
+    second: Kaedung_001_Spritesheet9x9_13
+  - first:
+      213: -383212114333178333
+    second: Kaedung_001_Spritesheet9x9_14
+  - first:
+      213: 6779790632807974099
+    second: Kaedung_001_Spritesheet9x9_15
+  - first:
+      213: 4749991386459998849
+    second: Kaedung_001_Spritesheet9x9_16
+  - first:
+      213: -8914329286319371469
+    second: Kaedung_001_Spritesheet9x9_17
+  - first:
+      213: -7748972831995713412
+    second: Kaedung_001_Spritesheet9x9_18
+  - first:
+      213: 4881386561426278952
+    second: Kaedung_001_Spritesheet9x9_19
+  - first:
+      213: 7132806799278813768
+    second: Kaedung_001_Spritesheet9x9_20
+  - first:
+      213: 809779066281126598
+    second: Kaedung_001_Spritesheet9x9_21
+  - first:
+      213: -7472219589206323323
+    second: Kaedung_001_Spritesheet9x9_22
+  - first:
+      213: -1483195047815515216
+    second: Kaedung_001_Spritesheet9x9_23
+  - first:
+      213: 8461195955268862122
+    second: Kaedung_001_Spritesheet9x9_24
+  - first:
+      213: 6686584568297308011
+    second: Kaedung_001_Spritesheet9x9_25
+  - first:
+      213: 3084003685339574174
+    second: Kaedung_001_Spritesheet9x9_26
+  - first:
+      213: 7186550728581961202
+    second: Kaedung_001_Spritesheet9x9_27
+  - first:
+      213: 719603416329796015
+    second: Kaedung_001_Spritesheet9x9_28
+  - first:
+      213: -5159551124543644343
+    second: Kaedung_001_Spritesheet9x9_29
+  - first:
+      213: 7715351809784812746
+    second: Kaedung_001_Spritesheet9x9_30
+  - first:
+      213: -8200624465211356972
+    second: Kaedung_001_Spritesheet9x9_31
+  - first:
+      213: -6295216431581809737
+    second: Kaedung_001_Spritesheet9x9_32
+  - first:
+      213: 6180967780907733845
+    second: Kaedung_001_Spritesheet9x9_33
+  - first:
+      213: 1141277609529426606
+    second: Kaedung_001_Spritesheet9x9_34
+  - first:
+      213: -7453363703554796793
+    second: Kaedung_001_Spritesheet9x9_35
+  - first:
+      213: 8696167008217518397
+    second: Kaedung_001_Spritesheet9x9_36
+  - first:
+      213: -5379349857619900102
+    second: Kaedung_001_Spritesheet9x9_37
+  - first:
+      213: 8387081900058113522
+    second: Kaedung_001_Spritesheet9x9_38
+  - first:
+      213: 5105824862727315776
+    second: Kaedung_001_Spritesheet9x9_39
+  - first:
+      213: -8952680859695859069
+    second: Kaedung_001_Spritesheet9x9_40
+  - first:
+      213: 7767622547264758348
+    second: Kaedung_001_Spritesheet9x9_41
+  - first:
+      213: -2709924937395993045
+    second: Kaedung_001_Spritesheet9x9_42
+  - first:
+      213: 9216684361861182956
+    second: Kaedung_001_Spritesheet9x9_43
+  - first:
+      213: 6439417003440955634
+    second: Kaedung_001_Spritesheet9x9_44
+  - first:
+      213: 502279605378889189
+    second: Kaedung_001_Spritesheet9x9_45
+  - first:
+      213: -2822847057208366005
+    second: Kaedung_001_Spritesheet9x9_46
+  - first:
+      213: -172916448255855853
+    second: Kaedung_001_Spritesheet9x9_47
+  - first:
+      213: -7155822187427702907
+    second: Kaedung_001_Spritesheet9x9_48
+  - first:
+      213: 5653769851148781159
+    second: Kaedung_001_Spritesheet9x9_49
+  - first:
+      213: 5200551241833712276
+    second: Kaedung_001_Spritesheet9x9_50
+  - first:
+      213: 3699927494985587657
+    second: Kaedung_001_Spritesheet9x9_51
+  - first:
+      213: -2985537174648959035
+    second: Kaedung_001_Spritesheet9x9_52
+  - first:
+      213: 3666171562125365561
+    second: Kaedung_001_Spritesheet9x9_53
+  - first:
+      213: -447046438683595435
+    second: Kaedung_001_Spritesheet9x9_54
+  - first:
+      213: 810874653962253382
+    second: Kaedung_001_Spritesheet9x9_55
+  - first:
+      213: -4630469272865413544
+    second: Kaedung_001_Spritesheet9x9_56
+  - first:
+      213: 87568760898635199
+    second: Kaedung_001_Spritesheet9x9_57
+  - first:
+      213: -305457963038388563
+    second: Kaedung_001_Spritesheet9x9_58
+  - first:
+      213: -7441662526987198016
+    second: Kaedung_001_Spritesheet9x9_59
+  - first:
+      213: -7676858821697608953
+    second: Kaedung_001_Spritesheet9x9_60
+  - first:
+      213: -6884166629554138537
+    second: Kaedung_001_Spritesheet9x9_61
+  - first:
+      213: -7698033398968859315
+    second: Kaedung_001_Spritesheet9x9_62
+  - first:
+      213: 5313528090352327054
+    second: Kaedung_001_Spritesheet9x9_63
+  - first:
+      213: -5353151233371127943
+    second: Kaedung_001_Spritesheet9x9_64
+  - first:
+      213: 4736474566199547425
+    second: Kaedung_001_Spritesheet9x9_65
+  - first:
+      213: 7408708214371060395
+    second: Kaedung_001_Spritesheet9x9_66
+  - first:
+      213: -6686245252139337441
+    second: Kaedung_001_Spritesheet9x9_67
+  - first:
+      213: 846546689977820096
+    second: Kaedung_001_Spritesheet9x9_68
+  - first:
+      213: -4075527415259236256
+    second: Kaedung_001_Spritesheet9x9_69
+  - first:
+      213: -4814112200490899660
+    second: Kaedung_001_Spritesheet9x9_70
+  - first:
+      213: -3305063256613245845
+    second: Kaedung_001_Spritesheet9x9_71
+  - first:
+      213: 480703965733837066
+    second: Kaedung_001_Spritesheet9x9_72
+  - first:
+      213: -2832118781547112098
+    second: Kaedung_001_Spritesheet9x9_73
+  - first:
+      213: 3738343363359155358
+    second: Kaedung_001_Spritesheet9x9_74
+  - first:
+      213: 272999801409629222
+    second: Kaedung_001_Spritesheet9x9_75
+  - first:
+      213: -7542921709009421032
+    second: Kaedung_001_Spritesheet9x9_76
+  - first:
+      213: -852857951567939122
+    second: Kaedung_001_Spritesheet9x9_77
+  - first:
+      213: 2782493013918116996
+    second: Kaedung_001_Spritesheet9x9_78
+  - first:
+      213: 4476353673677938473
+    second: Kaedung_001_Spritesheet9x9_0
+  - first:
+      213: -2435588846584260410
+    second: Kaedung_001_Spritesheet9x9_1
+  - first:
+      213: 6046358987103593488
+    second: Kaedung_001_Spritesheet9x9_2
+  - first:
+      213: -251971652590140232
+    second: Kaedung_001_Spritesheet9x9_3
+  - first:
+      213: 8981895470375194725
+    second: Kaedung_001_Spritesheet9x9_4
+  - first:
+      213: -7936143795241789268
+    second: Kaedung_001_Spritesheet9x9_5
+  - first:
+      213: -2175469635000995126
+    second: Kaedung_001_Spritesheet9x9_6
+  - first:
+      213: 7376541361920968853
+    second: Kaedung_001_Spritesheet9x9_7
+  - first:
+      213: -4086571103538414420
+    second: Kaedung_001_Spritesheet9x9_8
+  - first:
+      213: 252986858879026305
+    second: Kaedung_001_Spritesheet9x9_9
+  - first:
+      213: 1705292260582985218
+    second: Kaedung_001_Spritesheet9x9_10
+  - first:
+      213: 4172381300253723723
+    second: Kaedung_001_Spritesheet9x9_11
+  - first:
+      213: 898467026193425465
+    second: Kaedung_001_Spritesheet9x9_12
+  - first:
+      213: 8004447867875025418
+    second: Kaedung_001_Spritesheet9x9_13
+  - first:
+      213: 2126661599165409412
+    second: Kaedung_001_Spritesheet9x9_14
+  - first:
+      213: 4219178569786218068
+    second: Kaedung_001_Spritesheet9x9_15
+  - first:
+      213: 3906945747126333784
+    second: Kaedung_001_Spritesheet9x9_16
+  - first:
+      213: -9009157808870827833
+    second: Kaedung_001_Spritesheet9x9_17
+  - first:
+      213: 8026636041091802980
+    second: Kaedung_001_Spritesheet9x9_18
+  - first:
+      213: 3586067510015452380
+    second: Kaedung_001_Spritesheet9x9_19
+  - first:
+      213: 6811803159459972911
+    second: Kaedung_001_Spritesheet9x9_20
+  - first:
+      213: -5728367235811865339
+    second: Kaedung_001_Spritesheet9x9_21
+  - first:
+      213: 8115251522195781345
+    second: Kaedung_001_Spritesheet9x9_22
+  - first:
+      213: -4771154437040545518
+    second: Kaedung_001_Spritesheet9x9_23
+  - first:
+      213: -8290136339560600162
+    second: Kaedung_001_Spritesheet9x9_24
+  - first:
+      213: -7198194404838872988
+    second: Kaedung_001_Spritesheet9x9_25
+  - first:
+      213: -4930985921329047537
+    second: Kaedung_001_Spritesheet9x9_26
+  - first:
+      213: 3707991187790858880
+    second: Kaedung_001_Spritesheet9x9_27
+  - first:
+      213: 4883916505017935428
+    second: Kaedung_001_Spritesheet9x9_28
+  - first:
+      213: 6622493916671793122
+    second: Kaedung_001_Spritesheet9x9_29
+  - first:
+      213: 7955988605576310958
+    second: Kaedung_001_Spritesheet9x9_30
+  - first:
+      213: 2755355668495545958
+    second: Kaedung_001_Spritesheet9x9_31
+  - first:
+      213: -7257449574701667838
+    second: Kaedung_001_Spritesheet9x9_32
+  - first:
+      213: 2179929144400671201
+    second: Kaedung_001_Spritesheet9x9_33
+  - first:
+      213: -5631953088118049228
+    second: Kaedung_001_Spritesheet9x9_34
+  - first:
+      213: -7389042209493077864
+    second: Kaedung_001_Spritesheet9x9_35
+  - first:
+      213: -2833439536969784708
+    second: Kaedung_001_Spritesheet9x9_36
+  - first:
+      213: -5994930028220697786
+    second: Kaedung_001_Spritesheet9x9_37
+  - first:
+      213: 3820632016620509168
+    second: Kaedung_001_Spritesheet9x9_38
+  - first:
+      213: 1605202325097762216
+    second: Kaedung_001_Spritesheet9x9_39
+  - first:
+      213: -1866075006540068309
+    second: Kaedung_001_Spritesheet9x9_40
+  - first:
+      213: 844178586247873727
+    second: Kaedung_001_Spritesheet9x9_41
+  - first:
+      213: 3280531115357060745
+    second: Kaedung_001_Spritesheet9x9_42
+  - first:
+      213: -5174288455928411314
+    second: Kaedung_001_Spritesheet9x9_43
+  - first:
+      213: 8068456156576024219
+    second: Kaedung_001_Spritesheet9x9_44
+  - first:
+      213: -8351147910570904222
+    second: Kaedung_001_Spritesheet9x9_45
+  - first:
+      213: -7455235672613658342
+    second: Kaedung_001_Spritesheet9x9_46
+  - first:
+      213: -5289177633743117769
+    second: Kaedung_001_Spritesheet9x9_47
+  - first:
+      213: 7881922064879854944
+    second: Kaedung_001_Spritesheet9x9_48
+  - first:
+      213: 8978420713080522113
+    second: Kaedung_001_Spritesheet9x9_49
+  - first:
+      213: 2791200104828312295
+    second: Kaedung_001_Spritesheet9x9_50
+  - first:
+      213: -5830112760485950218
+    second: Kaedung_001_Spritesheet9x9_51
+  - first:
+      213: -8440374731455936570
+    second: Kaedung_001_Spritesheet9x9_52
+  - first:
+      213: 4637282026901635607
+    second: Kaedung_001_Spritesheet9x9_53
+  - first:
+      213: 535269175978110531
+    second: Kaedung_001_Spritesheet9x9_54
+  - first:
+      213: 2513138734573683706
+    second: Kaedung_001_Spritesheet9x9_55
+  - first:
+      213: -5728896735521982957
+    second: Kaedung_001_Spritesheet9x9_56
+  - first:
+      213: -3859396743492605376
+    second: Kaedung_001_Spritesheet9x9_57
+  - first:
+      213: -8184443209590573229
+    second: Kaedung_001_Spritesheet9x9_58
+  - first:
+      213: -9110730844562696268
+    second: Kaedung_001_Spritesheet9x9_59
+  - first:
+      213: 3134210641223765434
+    second: Kaedung_001_Spritesheet9x9_60
+  - first:
+      213: 2588030514433621361
+    second: Kaedung_001_Spritesheet9x9_61
+  - first:
+      213: -186837579725388849
+    second: Kaedung_001_Spritesheet9x9_62
+  - first:
+      213: 4172765599635970116
+    second: Kaedung_001_Spritesheet9x9_63
+  - first:
+      213: -1978861418183623301
+    second: Kaedung_001_Spritesheet9x9_64
+  - first:
+      213: 8146644645318419895
+    second: Kaedung_001_Spritesheet9x9_65
+  - first:
+      213: 4944911897488884575
+    second: Kaedung_001_Spritesheet9x9_66
+  - first:
+      213: 235318320453263372
+    second: Kaedung_001_Spritesheet9x9_67
+  - first:
+      213: 5655807307629802018
+    second: Kaedung_001_Spritesheet9x9_68
+  - first:
+      213: 7545855151380225758
+    second: Kaedung_001_Spritesheet9x9_69
+  - first:
+      213: -64974642455001552
+    second: Kaedung_001_Spritesheet9x9_70
+  - first:
+      213: -6580036215186854374
+    second: Kaedung_001_Spritesheet9x9_71
+  - first:
+      213: -6436400439456929065
+    second: Kaedung_001_Spritesheet9x9_72
+  - first:
+      213: -4471577700936778833
+    second: Kaedung_001_Spritesheet9x9_73
+  - first:
+      213: -165454121447963743
+    second: Kaedung_001_Spritesheet9x9_74
+  - first:
+      213: 7946236934777340382
+    second: Kaedung_001_Spritesheet9x9_75
+  - first:
+      213: 6799427831410270278
+    second: Kaedung_001_Spritesheet9x9_76
+  - first:
+      213: -2096760307125411841
+    second: Kaedung_001_Spritesheet9x9_77
+  - first:
+      213: -8088983628513214451
+    second: Kaedung_001_Spritesheet9x9_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f969013f33f1e30800000000000000
+      internalID: 4476353673677938473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_1
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8117c29dc033ed0800000000000000
+      internalID: -2435588846584260410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014eccab67bf8e350800000000000000
+      internalID: 6046358987103593488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_3
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b485e1fd11d08cf0800000000000000
+      internalID: -251971652590140232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_4
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605769975a16ac70800000000000000
+      internalID: 8981895470375194725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_5
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8513604472dd190800000000000000
+      internalID: -7936143795241789268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_6
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2fd12a4ed2fc1e0800000000000000
+      internalID: -2175469635000995126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_7
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598864c394dbe5660800000000000000
+      internalID: 7376541361920968853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_8
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 3104
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac7730ab359947c0800000000000000
+      internalID: -4086571103538414420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1848350353ac28300800000000000000
+      internalID: 252986858879026305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e8546a64a6aa710800000000000000
+      internalID: 1705292260582985218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c0b15bfa647e930800000000000000
+      internalID: 4172381300253723723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_12
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93429a2000ff77c00800000000000000
+      internalID: 898467026193425465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_13
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e2db2de2851f60800000000000000
+      internalID: 8004447867875025418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_14
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e7b7f47b638d10800000000000000
+      internalID: 2126661599165409412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_15
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4565c081e888d8a30800000000000000
+      internalID: 4219178569786218068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_16
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85130360572483630800000000000000
+      internalID: 3906945747126333784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_17
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2716
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c851d494ba09f280800000000000000
+      internalID: -9009157808870827833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ef92d3f6546f60800000000000000
+      internalID: 8026636041091802980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd46a0b866544c130800000000000000
+      internalID: 3586067510015452380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27ce7f02e2688e50800000000000000
+      internalID: 6811803159459972911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_21
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d82766950c080b0800000000000000
+      internalID: -5728367235811865339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_22
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e67d63534a2f9070800000000000000
+      internalID: 8115251522195781345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_23
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2116ba3715479cdb0800000000000000
+      internalID: -4771154437040545518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_24
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9deee41ce483fc80800000000000000
+      internalID: -8290136339560600162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_25
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ef539350ea1c90800000000000000
+      internalID: -7198194404838872988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_26
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2328
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08dab61e6e919bb0800000000000000
+      internalID: -4930985921329047537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a8d8ae65e657330800000000000000
+      internalID: 3707991187790858880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446e24a6f2827c340800000000000000
+      internalID: 4883916505017935428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e758663123d7eb50800000000000000
+      internalID: 6622493916671793122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_30
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07e60fb79596e60800000000000000
+      internalID: 7955988605576310958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_31
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666398ac16dfc3620800000000000000
+      internalID: 2755355668495545958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_32
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ae89c301c584b90800000000000000
+      internalID: -7257449574701667838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_33
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f58fc10aa04e10800000000000000
+      internalID: 2179929144400671201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_34
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4363f07718847d1b0800000000000000
+      internalID: -5631953088118049228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_35
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1940
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8903cc06249d47990800000000000000
+      internalID: -7389042209493077864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c726e5ad0c99da8d0800000000000000
+      internalID: -2833439536969784708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643359ed6eabdcca0800000000000000
+      internalID: -5994930028220697786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_38
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75628939c950530800000000000000
+      internalID: 3820632016620509168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_39
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad451c8203d64610800000000000000
+      internalID: 1605202325097762216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_40
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ac1fe1bae5a16e0800000000000000
+      internalID: -1866075006540068309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_41
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4cb4893ff17bb00800000000000000
+      internalID: 844178586247873727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_42
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e397d1ba9c68d20800000000000000
+      internalID: 3280531115357060745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_43
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8bfa501c3138b0800000000000000
+      internalID: -5174288455928411314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_44
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1552
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96078a302ae8ff60800000000000000
+      internalID: 8068456156576024219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265fcabb833ca1c80800000000000000
+      internalID: -8351147910570904222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11ea01c7aea98890800000000000000
+      internalID: -7455235672613658342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_47
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ecc227f01996b0800000000000000
+      internalID: -5289177633743117769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_48
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0652a789b56326d60800000000000000
+      internalID: 7881922064879854944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_49
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1858c2f9112c99c70800000000000000
+      internalID: 8978420713080522113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_50
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea1359f4b55cb620800000000000000
+      internalID: 2791200104828312295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_51
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc43c66557471fa0800000000000000
+      internalID: -5830112760485950218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_52
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c26896e3cdda80800000000000000
+      internalID: -8440374731455936570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_53
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 1164
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71286c02f6fea5040800000000000000
+      internalID: 4637282026901635607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e2465ca78ad6700800000000000000
+      internalID: 535269175978110531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af30a892d5670e220800000000000000
+      internalID: 2513138734573683706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_56
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3163154a5cede70b0800000000000000
+      internalID: -5728896735521982957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_57
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae2d81c1ba07ac0800000000000000
+      internalID: -3859396743492605376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_58
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357feff83440b6e80800000000000000
+      internalID: -8184443209590573229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_59
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b755ad419e209180800000000000000
+      internalID: -9110730844562696268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_60
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd4461f8f3fe7b20800000000000000
+      internalID: 3134210641223765434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_61
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dffa87a088ae320800000000000000
+      internalID: 2588030514433621361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_62
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 776
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc346cd0638386df0800000000000000
+      internalID: -186837579725388849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44895416434a8e930800000000000000
+      internalID: 4172765599635970116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d707d460ca984e0800000000000000
+      internalID: -1978861418183623301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_65
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5ea836422be0170800000000000000
+      internalID: 8146644645318419895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_66
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f538d67eb2bdf9440800000000000000
+      internalID: 4944911897488884575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_67
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0022c304c4044300800000000000000
+      internalID: 235318320453263372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_68
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223551d7c67d7e40800000000000000
+      internalID: 5655807307629802018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_69
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded190d74348b860800000000000000
+      internalID: 7545855151380225758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_70
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036cf0d28e9291ff0800000000000000
+      internalID: -64974642455001552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_71
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 388
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee490cce30fa4a0800000000000000
+      internalID: -6580036215186854374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da600ed6ef4da6a0800000000000000
+      internalID: -6436400439456929065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_73
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabfa1eb5c3c1f1c0800000000000000
+      internalID: -4471577700936778833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_74
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a348786a5034bdf0800000000000000
+      internalID: -165454121447963743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_75
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10e762464b64e60800000000000000
+      internalID: 7946236934777340382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_76
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6402d17769b6c5e50800000000000000
+      internalID: 6799427831410270278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_77
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 0
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff96aa1c9fc6e2e0800000000000000
+      internalID: -2096760307125411841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kaedung_001_Spritesheet9x9_78
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 0
+        width: 370
+        height: 388
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0005844f382ebf80800000000000000
+      internalID: -8088983628513214451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

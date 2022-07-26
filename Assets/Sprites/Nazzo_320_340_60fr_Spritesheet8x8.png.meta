@@ -1,0 +1,1736 @@
+fileFormatVersion: 2
+guid: 4051b559a123b044e9a144dc60e181b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3709911503438812769
+    second: Nazzo_320_340_60fr_Spritesheet8x8_0
+  - first:
+      213: -7066571676177159382
+    second: Nazzo_320_340_60fr_Spritesheet8x8_1
+  - first:
+      213: 1656772904915966179
+    second: Nazzo_320_340_60fr_Spritesheet8x8_2
+  - first:
+      213: 6515388713056956616
+    second: Nazzo_320_340_60fr_Spritesheet8x8_3
+  - first:
+      213: 4147399467343156069
+    second: Nazzo_320_340_60fr_Spritesheet8x8_4
+  - first:
+      213: 7121218275263119679
+    second: Nazzo_320_340_60fr_Spritesheet8x8_5
+  - first:
+      213: 2436724910517305405
+    second: Nazzo_320_340_60fr_Spritesheet8x8_6
+  - first:
+      213: -1800849159822312976
+    second: Nazzo_320_340_60fr_Spritesheet8x8_7
+  - first:
+      213: -3467061603732654294
+    second: Nazzo_320_340_60fr_Spritesheet8x8_8
+  - first:
+      213: -8554863224958755190
+    second: Nazzo_320_340_60fr_Spritesheet8x8_9
+  - first:
+      213: 1284668386056537059
+    second: Nazzo_320_340_60fr_Spritesheet8x8_10
+  - first:
+      213: 8611082321435214885
+    second: Nazzo_320_340_60fr_Spritesheet8x8_11
+  - first:
+      213: -4666799605100846339
+    second: Nazzo_320_340_60fr_Spritesheet8x8_12
+  - first:
+      213: 2777719129205250640
+    second: Nazzo_320_340_60fr_Spritesheet8x8_13
+  - first:
+      213: 4445922525987414687
+    second: Nazzo_320_340_60fr_Spritesheet8x8_14
+  - first:
+      213: 7722941181547391251
+    second: Nazzo_320_340_60fr_Spritesheet8x8_15
+  - first:
+      213: 8569744761951046557
+    second: Nazzo_320_340_60fr_Spritesheet8x8_16
+  - first:
+      213: -7350907156980599062
+    second: Nazzo_320_340_60fr_Spritesheet8x8_17
+  - first:
+      213: -2012121568134658814
+    second: Nazzo_320_340_60fr_Spritesheet8x8_18
+  - first:
+      213: 749407741428678521
+    second: Nazzo_320_340_60fr_Spritesheet8x8_19
+  - first:
+      213: -2238071876091128090
+    second: Nazzo_320_340_60fr_Spritesheet8x8_20
+  - first:
+      213: -3227171748337455194
+    second: Nazzo_320_340_60fr_Spritesheet8x8_21
+  - first:
+      213: 8412963947860734444
+    second: Nazzo_320_340_60fr_Spritesheet8x8_22
+  - first:
+      213: 2411565787378065659
+    second: Nazzo_320_340_60fr_Spritesheet8x8_23
+  - first:
+      213: -2104226226261147065
+    second: Nazzo_320_340_60fr_Spritesheet8x8_24
+  - first:
+      213: 2215403152813236315
+    second: Nazzo_320_340_60fr_Spritesheet8x8_25
+  - first:
+      213: -4153750692485741099
+    second: Nazzo_320_340_60fr_Spritesheet8x8_26
+  - first:
+      213: 4577339750219161368
+    second: Nazzo_320_340_60fr_Spritesheet8x8_27
+  - first:
+      213: 6255695561522236582
+    second: Nazzo_320_340_60fr_Spritesheet8x8_28
+  - first:
+      213: 3124765571150172477
+    second: Nazzo_320_340_60fr_Spritesheet8x8_29
+  - first:
+      213: 1322020851114548232
+    second: Nazzo_320_340_60fr_Spritesheet8x8_30
+  - first:
+      213: 5963220469293835695
+    second: Nazzo_320_340_60fr_Spritesheet8x8_31
+  - first:
+      213: 4834897648222228645
+    second: Nazzo_320_340_60fr_Spritesheet8x8_32
+  - first:
+      213: 520776252102571757
+    second: Nazzo_320_340_60fr_Spritesheet8x8_33
+  - first:
+      213: 6590171711819347725
+    second: Nazzo_320_340_60fr_Spritesheet8x8_34
+  - first:
+      213: -2330798399748811371
+    second: Nazzo_320_340_60fr_Spritesheet8x8_35
+  - first:
+      213: 9090275811871842538
+    second: Nazzo_320_340_60fr_Spritesheet8x8_36
+  - first:
+      213: -7547632579403081032
+    second: Nazzo_320_340_60fr_Spritesheet8x8_37
+  - first:
+      213: -1505030172165567457
+    second: Nazzo_320_340_60fr_Spritesheet8x8_38
+  - first:
+      213: 6701919303730273326
+    second: Nazzo_320_340_60fr_Spritesheet8x8_39
+  - first:
+      213: -2887835608362913787
+    second: Nazzo_320_340_60fr_Spritesheet8x8_40
+  - first:
+      213: 852692335335733370
+    second: Nazzo_320_340_60fr_Spritesheet8x8_41
+  - first:
+      213: 5413463188735783573
+    second: Nazzo_320_340_60fr_Spritesheet8x8_42
+  - first:
+      213: -7776802119879611775
+    second: Nazzo_320_340_60fr_Spritesheet8x8_43
+  - first:
+      213: -818140874697718988
+    second: Nazzo_320_340_60fr_Spritesheet8x8_44
+  - first:
+      213: 3144379118977508721
+    second: Nazzo_320_340_60fr_Spritesheet8x8_45
+  - first:
+      213: 499798976213469095
+    second: Nazzo_320_340_60fr_Spritesheet8x8_46
+  - first:
+      213: 3263208717673898423
+    second: Nazzo_320_340_60fr_Spritesheet8x8_47
+  - first:
+      213: -531974734048469367
+    second: Nazzo_320_340_60fr_Spritesheet8x8_48
+  - first:
+      213: -4538808705473080704
+    second: Nazzo_320_340_60fr_Spritesheet8x8_49
+  - first:
+      213: 6675084485826637926
+    second: Nazzo_320_340_60fr_Spritesheet8x8_50
+  - first:
+      213: 8670355959413941259
+    second: Nazzo_320_340_60fr_Spritesheet8x8_51
+  - first:
+      213: -7362698717347154372
+    second: Nazzo_320_340_60fr_Spritesheet8x8_52
+  - first:
+      213: -1424675709615209707
+    second: Nazzo_320_340_60fr_Spritesheet8x8_53
+  - first:
+      213: -3377263109884489166
+    second: Nazzo_320_340_60fr_Spritesheet8x8_54
+  - first:
+      213: 4736343869699066911
+    second: Nazzo_320_340_60fr_Spritesheet8x8_55
+  - first:
+      213: -7666300358367505828
+    second: Nazzo_320_340_60fr_Spritesheet8x8_56
+  - first:
+      213: -384391646989811429
+    second: Nazzo_320_340_60fr_Spritesheet8x8_57
+  - first:
+      213: 1785568260469994583
+    second: Nazzo_320_340_60fr_Spritesheet8x8_58
+  - first:
+      213: -6558463936287191374
+    second: Nazzo_320_340_60fr_Spritesheet8x8_59
+  - first:
+      213: -7366950106390549909
+    second: Nazzo_320_340_60fr_Spritesheet8x8_0
+  - first:
+      213: -4264015067165980456
+    second: Nazzo_320_340_60fr_Spritesheet8x8_1
+  - first:
+      213: -7304739402561657783
+    second: Nazzo_320_340_60fr_Spritesheet8x8_2
+  - first:
+      213: 5446322718231902926
+    second: Nazzo_320_340_60fr_Spritesheet8x8_3
+  - first:
+      213: 4640819974578524498
+    second: Nazzo_320_340_60fr_Spritesheet8x8_4
+  - first:
+      213: -7428675574208702820
+    second: Nazzo_320_340_60fr_Spritesheet8x8_5
+  - first:
+      213: 7740575677036992979
+    second: Nazzo_320_340_60fr_Spritesheet8x8_6
+  - first:
+      213: 7370300479716978105
+    second: Nazzo_320_340_60fr_Spritesheet8x8_7
+  - first:
+      213: 4321679680714181463
+    second: Nazzo_320_340_60fr_Spritesheet8x8_8
+  - first:
+      213: 239809721655967826
+    second: Nazzo_320_340_60fr_Spritesheet8x8_9
+  - first:
+      213: -4855836777464006712
+    second: Nazzo_320_340_60fr_Spritesheet8x8_10
+  - first:
+      213: -2573165337258659645
+    second: Nazzo_320_340_60fr_Spritesheet8x8_11
+  - first:
+      213: -7207548341651343621
+    second: Nazzo_320_340_60fr_Spritesheet8x8_12
+  - first:
+      213: 4879581723356199578
+    second: Nazzo_320_340_60fr_Spritesheet8x8_13
+  - first:
+      213: -6858103157240941770
+    second: Nazzo_320_340_60fr_Spritesheet8x8_14
+  - first:
+      213: 8043091094989244246
+    second: Nazzo_320_340_60fr_Spritesheet8x8_15
+  - first:
+      213: 3431062887045481642
+    second: Nazzo_320_340_60fr_Spritesheet8x8_16
+  - first:
+      213: 5118026316082005807
+    second: Nazzo_320_340_60fr_Spritesheet8x8_17
+  - first:
+      213: 4240204741593085306
+    second: Nazzo_320_340_60fr_Spritesheet8x8_18
+  - first:
+      213: 2084648881396989121
+    second: Nazzo_320_340_60fr_Spritesheet8x8_19
+  - first:
+      213: -6746474836831761962
+    second: Nazzo_320_340_60fr_Spritesheet8x8_20
+  - first:
+      213: 1147114888469690050
+    second: Nazzo_320_340_60fr_Spritesheet8x8_21
+  - first:
+      213: -5763590797988756811
+    second: Nazzo_320_340_60fr_Spritesheet8x8_22
+  - first:
+      213: 8431217660101218989
+    second: Nazzo_320_340_60fr_Spritesheet8x8_23
+  - first:
+      213: 678158415636824768
+    second: Nazzo_320_340_60fr_Spritesheet8x8_24
+  - first:
+      213: -3235121256345797330
+    second: Nazzo_320_340_60fr_Spritesheet8x8_25
+  - first:
+      213: 9178402131187523448
+    second: Nazzo_320_340_60fr_Spritesheet8x8_26
+  - first:
+      213: -390603979802242363
+    second: Nazzo_320_340_60fr_Spritesheet8x8_27
+  - first:
+      213: -5365851267773660851
+    second: Nazzo_320_340_60fr_Spritesheet8x8_28
+  - first:
+      213: 9177619982586980395
+    second: Nazzo_320_340_60fr_Spritesheet8x8_29
+  - first:
+      213: -8818202931534028794
+    second: Nazzo_320_340_60fr_Spritesheet8x8_30
+  - first:
+      213: 3661027744040530406
+    second: Nazzo_320_340_60fr_Spritesheet8x8_31
+  - first:
+      213: -8589809275052516171
+    second: Nazzo_320_340_60fr_Spritesheet8x8_32
+  - first:
+      213: 8024151737441417652
+    second: Nazzo_320_340_60fr_Spritesheet8x8_33
+  - first:
+      213: -2544691183134825413
+    second: Nazzo_320_340_60fr_Spritesheet8x8_34
+  - first:
+      213: 3428861779533607265
+    second: Nazzo_320_340_60fr_Spritesheet8x8_35
+  - first:
+      213: -1438241100662441188
+    second: Nazzo_320_340_60fr_Spritesheet8x8_36
+  - first:
+      213: 7898875299734371287
+    second: Nazzo_320_340_60fr_Spritesheet8x8_37
+  - first:
+      213: -1453478965555811994
+    second: Nazzo_320_340_60fr_Spritesheet8x8_38
+  - first:
+      213: -1231472410192938345
+    second: Nazzo_320_340_60fr_Spritesheet8x8_39
+  - first:
+      213: 8892226570511630208
+    second: Nazzo_320_340_60fr_Spritesheet8x8_40
+  - first:
+      213: -4296389054031457534
+    second: Nazzo_320_340_60fr_Spritesheet8x8_41
+  - first:
+      213: 4391675451874110491
+    second: Nazzo_320_340_60fr_Spritesheet8x8_42
+  - first:
+      213: -1475847894909602097
+    second: Nazzo_320_340_60fr_Spritesheet8x8_43
+  - first:
+      213: -9182291830304394776
+    second: Nazzo_320_340_60fr_Spritesheet8x8_44
+  - first:
+      213: 292935684797899731
+    second: Nazzo_320_340_60fr_Spritesheet8x8_45
+  - first:
+      213: -8545103787664348580
+    second: Nazzo_320_340_60fr_Spritesheet8x8_46
+  - first:
+      213: -1018181054939683210
+    second: Nazzo_320_340_60fr_Spritesheet8x8_47
+  - first:
+      213: 6088052769027790051
+    second: Nazzo_320_340_60fr_Spritesheet8x8_48
+  - first:
+      213: 8932400573273134216
+    second: Nazzo_320_340_60fr_Spritesheet8x8_49
+  - first:
+      213: -1105748338828785099
+    second: Nazzo_320_340_60fr_Spritesheet8x8_50
+  - first:
+      213: 4827478714431727239
+    second: Nazzo_320_340_60fr_Spritesheet8x8_51
+  - first:
+      213: 2631092646455467695
+    second: Nazzo_320_340_60fr_Spritesheet8x8_52
+  - first:
+      213: -580585329967341150
+    second: Nazzo_320_340_60fr_Spritesheet8x8_53
+  - first:
+      213: -8866329871277214267
+    second: Nazzo_320_340_60fr_Spritesheet8x8_54
+  - first:
+      213: -5370884713625516631
+    second: Nazzo_320_340_60fr_Spritesheet8x8_55
+  - first:
+      213: 5924570656795971077
+    second: Nazzo_320_340_60fr_Spritesheet8x8_56
+  - first:
+      213: 7080259097408773933
+    second: Nazzo_320_340_60fr_Spritesheet8x8_57
+  - first:
+      213: -8553894889354476627
+    second: Nazzo_320_340_60fr_Spritesheet8x8_58
+  - first:
+      213: -5569547787679240757
+    second: Nazzo_320_340_60fr_Spritesheet8x8_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2380
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aa096f8e553c990800000000000000
+      internalID: -7366950106390549909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2380
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d888ac53ec23d4c0800000000000000
+      internalID: -4264015067165980456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2380
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944638d273a50aa90800000000000000
+      internalID: -7304739402561657783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2380
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca3a5808a9359b40800000000000000
+      internalID: 5446322718231902926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2380
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2515a43cd21876040800000000000000
+      internalID: 4640819974578524498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2380
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c965baf8cea08e890800000000000000
+      internalID: -7428675574208702820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2380
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d991d2219c0c6b60800000000000000
+      internalID: 7740575677036992979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_7
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2380
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdeb6d9c31984660800000000000000
+      internalID: 7370300479716978105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b0ef9b5c0b9fb30800000000000000
+      internalID: 4321679680714181463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2040
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2504df8dba9f35300800000000000000
+      internalID: 239809721655967826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2040
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7faff9d2a9c9cb0800000000000000
+      internalID: -4855836777464006712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2040
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0795c42c74a4cd0800000000000000
+      internalID: -2573165337258659645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2040
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf67a6278f4a9fb90800000000000000
+      internalID: -7207548341651343621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_13
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2040
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a722969b1c7b340800000000000000
+      internalID: 4879581723356199578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2040
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6333ba7a38f13d0a0800000000000000
+      internalID: -6858103157240941770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_15
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2040
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65701fc9cbcce9f60800000000000000
+      internalID: 8043091094989244246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa44f5864859d9f20800000000000000
+      internalID: 3431062887045481642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1700
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f274b2961d1e60740800000000000000
+      internalID: 5118026316082005807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1700
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7535953fbb38da30800000000000000
+      internalID: 4240204741593085306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1700
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3519dc192eec10800000000000000
+      internalID: 2084648881396989121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1700
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9088851e4bf52a0800000000000000
+      internalID: -6746474836831761962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_21
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1700
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63cc3d9ee5bef00800000000000000
+      internalID: 1147114888469690050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_22
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1700
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b28b2fb4bc9300b0800000000000000
+      internalID: -5763590797988756811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_23
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1700
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da255569ac3b10570800000000000000
+      internalID: 8431217660101218989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c289796c7d496900800000000000000
+      internalID: 678158415636824768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1360
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d71369b5a8a13d0800000000000000
+      internalID: -3235121256345797330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1360
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fde1beb1c306f70800000000000000
+      internalID: 9178402131187523448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1360
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c29808ffbb449af0800000000000000
+      internalID: -390603979802242363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1360
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4185c293baa885b0800000000000000
+      internalID: -5365851267773660851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1360
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28af91cfb47d5f70800000000000000
+      internalID: 9177619982586980395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1360
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6002b9497237f9580800000000000000
+      internalID: -8818202931534028794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_31
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1360
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1b26416559ec230800000000000000
+      internalID: 3661027744040530406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc9320a9fddac880800000000000000
+      internalID: -8589809275052516171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1020
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9770ecd738b5f60800000000000000
+      internalID: 8024151737441417652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1020
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b342e2ee9d07facd0800000000000000
+      internalID: -2544691183134825413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1020
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161b3012f93c59f20800000000000000
+      internalID: 3428861779533607265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1020
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bf5adc6575a0ce0800000000000000
+      internalID: -1438241100662441188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1020
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db36cd2c317e9d60800000000000000
+      internalID: 7898875299734371287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1020
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6692b89e49434dbe0800000000000000
+      internalID: -1453478965555811994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_39
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1020
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a71c71e5ee8eee0800000000000000
+      internalID: -1231472410192938345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fb2ade3f8876b70800000000000000
+      internalID: 8892226570511630208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 680
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20314992be82064c0800000000000000
+      internalID: -4296389054031457534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 680
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c62cd2e8d52fc30800000000000000
+      internalID: 4391675451874110491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 680
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b761b82cb48be0800000000000000
+      internalID: -1475847894909602097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 680
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13cbeea32f19080800000000000000
+      internalID: -9182291830304394776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_45
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 680
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d32a6a0477b01400800000000000000
+      internalID: 292935684797899731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_46
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 680
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5aeb670161b96980800000000000000
+      internalID: -8545103787664348580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_47
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 680
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a94f99b1bed1f0800000000000000
+      internalID: -1018181054939683210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41cbfccbb1d7450800000000000000
+      internalID: 6088052769027790051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 340
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884d079def246fb70800000000000000
+      internalID: 8932400573273134216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 340
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ac12d8eb797a0f0800000000000000
+      internalID: -1105748338828785099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 340
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786667e4056aef240800000000000000
+      internalID: 4827478714431727239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 340
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faede1362d4838420800000000000000
+      internalID: 2631092646455467695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 340
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a16e7de7b851f7f0800000000000000
+      internalID: -580585329967341150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_54
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 340
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5361935f774f480800000000000000
+      internalID: -8866329871277214267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_55
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 340
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a586c22fc8c675b0800000000000000
+      internalID: -5370884713625516631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ec6056f9d483250800000000000000
+      internalID: 5924570656795971077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f17c2e222224260800000000000000
+      internalID: 7080259097408773933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da34ff92be57a4980800000000000000
+      internalID: -8553894889354476627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nazzo_320_340_60fr_Spritesheet8x8_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde0dbbbcdf4b2b0800000000000000
+      internalID: -5569547787679240757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
